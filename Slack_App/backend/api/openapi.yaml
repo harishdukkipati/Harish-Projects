@@ -1,0 +1,308 @@
+#
+# CSE186 Assignment 8 Backend
+#
+
+openapi: '3.0.3'
+
+info:
+  description: CSE186 Assignment 8 Backend
+  version: 0.1.0
+  title: CSE186 Assignment 8 Backend
+
+servers:
+  - url: http://localhost:3010/v0
+
+paths:
+  /login:
+    post:
+      description: Authenticate user and return an access token.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email:
+                  type: string
+                  format: email
+                  description: User's email
+                password:
+                  type: string
+                  format: password
+                  description: User's password
+              required:
+                - email
+                - password
+      responses:
+        '200':
+          description: Login successful
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LoginSuccessResponse'
+        '401':
+          description: Invalid credentials
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /workspace:
+    get:
+      summary: Get a list of workspaces for the authenticated user
+      operationId: getUserWorkspaces
+      responses:
+        '200':
+          description: An array of workspaces
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Workspace'
+        '400':
+          description: Unauthorized if the user has an invalid access token
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error' 
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error' 
+  /workspaces/{workspaceId}/channels:
+    get:
+      summary: Fetch channels for a specific workspace
+      operationId: getChannelsByWorkspace
+      parameters:
+        - name: workspaceId
+          in: path
+          required: true
+          schema:
+            type: string
+          description: The ID of the workspace to fetch channels for
+      responses:
+        '200':
+          description: Successfully retrieved channels
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Channel'
+        '400':
+          description: Bad request, e.g., invalid workspaceId format
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '500':
+          description: Internal server error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'   
+  /channels/{channelId}/messages:
+    get:
+      summary: Fetch messages for a specific channel
+      operationId: getMessagesByChannel
+      tags:
+        - Channels
+      parameters:
+        - name: channelId
+          in: path
+          required: true
+          schema:
+            type: string
+          description: The ID of the channel to fetch messages for
+      responses:
+        '200':
+          description: Successfully retrieved messages
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Message'
+        '400':
+          description: Bad request, e.g., invalid channelId format
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '500':
+          description: Internal server error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'   
+    post:
+      summary: Post a new message to a specific channel
+      operationId: postMessagesByChannel
+      tags:
+        - Channels
+      parameters:
+        - name: channelId
+          in: path
+          required: true
+          schema:
+            type: string
+          description: The ID of the channel where the message will be posted
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MessagePostRequest'
+      responses:
+        '201':
+          description: Successfully posted the message
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MessagePostRequest'
+        '400':
+          description: Bad request, e.g., missing required message fields
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '401':
+          description: Unauthorized, e.g., invalid or missing authentication token
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '500':
+          description: Internal server error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /dummy:
+    get:
+      description: Dummy Endpoint
+      responses:
+        200:
+          description: Succesful
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DummyResponse'
+        default:
+          description: unexpected error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+
+components:
+  schemas:
+    DummyResponse:
+      properties:
+        message:
+          type: string
+      required:
+        - message
+    Error:
+      type: object
+      properties:
+        code:
+          type: integer
+          format: int32
+        message:
+          type: string
+      required:
+        - code
+        - message
+    Workspace:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          description: Unique identifier for the workspace
+        name:
+          type: string
+          description: Name of the workspace
+      required:
+        - workspaceId
+        - name
+    LoginSuccessResponse:
+      type: object
+      properties:
+        name:
+          type: string
+          description: User's name
+        accessToken:
+          type: string
+          description: JWT access token
+      required:
+        - name
+        - accessToken
+    Channel:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          description: Unique identifier for the channel
+        name:
+          type: string
+          description: Name of the channel
+      required:
+        - channelId
+        - name
+    Message:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          description: Unique identifier for the message
+        channel_id:
+          type: string
+          format: uuid
+          description: Identifier of the channel this message belongs to
+        user_id:
+          type: string
+          format: uuid
+          description: Identifier of the user who sent the message
+        text:
+          type: string
+          description: Content of the message
+        timestamp:
+          type: string
+          format: date-time
+          description: The time at which the message was sent
+      required:
+        - id
+        - user_id
+        - channel_id
+        - text
+        - user
+        - timestamp
+    MessagePostRequest:
+      type: object
+      properties:
+        user:
+          type: string
+          description: Name of the user sending the message
+        text:
+          type: string
+          description: Content of the message
+        timestamp:
+          type: string
+          format: date-time
+          description: The time at which the message was sent
+      required:
+        - user
+        - text
+        - timestamp
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
