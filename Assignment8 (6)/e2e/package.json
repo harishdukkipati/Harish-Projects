@@ -1,0 +1,43 @@
+{
+  "name": "cse186-assignment8-e2etest",
+  "version": "1.0.0",
+  "description": "CSE186 Assignment 8 - End to End Test",
+  "author": "David Harrison <dcharris@ucsc.edu>",
+  "license": "UNLICENSED",
+  "repository": "none",
+  "devDependencies": {
+    "dotenv": "*",
+    "eslint": "*",
+    "eslint-config-google": "*",
+    "express": "*",
+    "jest": "*",
+    "puppeteer": "*",
+    "puppeteer-core": "*",
+    "supertest": "*"
+  },
+  "jest": {
+    "testMatch": [
+      "**/?(*.)+(spec|test).[jt]s?(x)"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "google"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 14
+    },
+    "rules": {
+      "indent": [
+        "warn",
+        2
+      ]
+    }
+  },
+  "scripts": {
+    "build": "cd ../frontend && npm run build",
+    "e2e": "jest --testTimeout=10000 --runInBand --verbose --forceExit --detectOpenHandles",
+    "test": "(npm run build) && (npm run e2e)",
+    "lint": "eslint tests --no-inline-config --max-warnings 0 --ext .js"
+  }
+}
