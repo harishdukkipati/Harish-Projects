@@ -1,4 +1,4 @@
-Here are 4 projects that I have completed over the past year. 
+Here are 5 projects that I have completed over the past year. 
 
 Project 1: I developed a multi-threaded HTTP server using C, which involved creating multiple threads, implementing a bounded buffer, and utilizing mutex locks to ensure an atomic and coherent processes. 
 
