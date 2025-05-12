@@ -5,14 +5,11 @@ import json
 import config
 import logging
 
-# Initialize logging
 logging.basicConfig(level=logging.DEBUG)
 
-# Initialize Pinecone
 pc = Pinecone(api_key=config.PINECONE_API_KEY)
 index_name = 'nfl-chatbot'
 
-# Check if the index already exists
 if index_name not in pc.list_indexes().names():
     logging.info(f"Creating index '{index_name}'.")
     pc.create_index(
@@ -27,10 +24,8 @@ if index_name not in pc.list_indexes().names():
 else:
     logging.info(f"Index '{index_name}' already exists.")
 
-# Connect to the index
 index = pc.Index(index_name)
 
-# Load pre-trained model and tokenizer
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 model = BertModel.from_pretrained('bert-base-uncased')
 
@@ -43,11 +38,9 @@ def get_embedding(text):
     return outputs.last_hidden_state.mean(dim=1).squeeze().numpy()
 
 
-# Load NFL knowledge graph data
 with open('nfl_documents.json', 'r') as f:
     knowledge_graph_data = json.load(f)
 
-# Insert knowledge graph data into Pinecone
 for i, triple in enumerate(knowledge_graph_data):
     # Create a text representation of the triple
     text_representation = f"{triple['subject']} {triple['predicate']} {triple['object']}"
@@ -65,7 +58,6 @@ for i, triple in enumerate(knowledge_graph_data):
     logging.info(
         f"Inserted triple ID {triple['id']} with data: {text_representation}")
 
-# Verify insertion
 logging.info("Verifying inserted documents...")
 for triple in knowledge_graph_data:
     text_representation = f"{triple['subject']} {triple['predicate']} {triple['object']}"
