@@ -6,21 +6,16 @@ import openai
 import config
 import logging
 
-# Initialize logging
 logging.basicConfig(level=logging.DEBUG)
 
-# Initialize Pinecone
 pc = Pinecone(api_key=config.PINECONE_API_KEY)
 index_name = 'nfl-chatbot'
 index = pc.Index(index_name)
 
-# Initialize Flask app
 app = Flask(__name__)
 
-# Initialize OpenAI
 openai.api_key = config.OPENAI_API_KEY
 
-# Load pre-trained model and tokenizer
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 model = BertModel.from_pretrained('bert-base-uncased')
 
@@ -83,7 +78,6 @@ def ask():
         logging.error(f"Error querying Pinecone: {e}")
         return jsonify({"error": str(e)}), 500
 
-    # Use OpenAI to generate a response
     prompt = f"Q: {user_query}\nA: {most_relevant_information}\nQ: {user_query}\nA:"
     response = query_openai(prompt)
     logging.info(f"OpenAI response: {response}")
