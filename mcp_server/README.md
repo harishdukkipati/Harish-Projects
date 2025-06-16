@@ -20,18 +20,6 @@ Example: If a user asks, “What team does LeBron James play for?", the system:
 
 - Returns: “LeBron James plays for the Los Angeles Lakers.”
 
-The project overall contains of 5 main files: 
-
-app.py: Main FastAPI app. Defines all three endpoints and controls the request flow.
-
-llm_utils.py: Contains logic to query the GPT-4 model using a given prompt. It provides the LLM-generated responses used in the chatbot endpoint.
-
-wikipedia_utils.py: Handles all API requests to Wikipedia — both the search (titles) and the summary retrieval.
-
-requirements.txt: Lists all necessary Python packages to run the project. These can be installed with pip install -r requirements.txt.
-
-run.py: The script to launch the FastAPI server. It starts the backend and listens for API requests, enabling the LLM to interact with Wikipedia through the endpoints.
-
 How to Run the Project:
 
 1. Clone the repository 
