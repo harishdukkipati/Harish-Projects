@@ -1,10 +1,10 @@
-## 📚 MCP Server – Wikipedia + GPT-4 Integration
+## MCP Server – Wikipedia + GPT-4 Integration
 
 This is an MCP (Modular Code Processing) server project that uses **FastAPI**, the **Wikipedia API**, and **OpenAI's GPT-4** to answer user questions with contextual knowledge. It modularly separates logic into components for cleaner code structure and demonstrates how a server can use an LLM to interact with external APIs.
 
 ---
 
-### 🧠 Endpoints Overview
+### Endpoints Overview
 
 The server exposes 3 main endpoints:
 
@@ -19,7 +19,7 @@ The server exposes 3 main endpoints:
   Functions as a smart chatbot. It takes a natural language question, extracts a related title, retrieves the Wikipedia summary for that title, and asks the LLM to answer the original question using that summary.  
   _Example_: Asking `"What team does LeBron James play for?"` will search for `"LeBron James"`, pull his Wikipedia summary, and extract the answer: `"LeBron James plays for the Los Angeles Lakers."`
 
-#### 🧠 Example Breakdown
+#### Example Breakdown
 
 If a user asks:  
 **“What team does LeBron James play for?”**, the system will:
