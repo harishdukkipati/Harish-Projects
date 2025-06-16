@@ -33,7 +33,7 @@ If a user asks:
 
 1. **Clone the repository**
 
-2. **Set up a virtual environment** (optional but recommended):
+2. **Set up a virtual environment** (optional):
    ```bash
    python3 -m venv venv
    source venv/bin/activate
