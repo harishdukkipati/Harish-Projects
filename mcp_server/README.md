@@ -13,26 +13,23 @@ The server exposes 3 main endpoints:
 
 - **`/wikipedia/summary`**:  
   Given a title, returns the corresponding Wikipedia summary.  
-  _Example_: Inputting `"Declaration of Independence"` returns a detailed summary about its historical context and significance.
 
 - **`/chat`**:  
   Functions as a smart chatbot. It takes a natural language question, extracts a related title, retrieves the Wikipedia summary for that title, and asks the LLM to answer the original question using that summary.  
-  _Example_: Asking `"What team does LeBron James play for?"` will search for `"LeBron James"`, pull his Wikipedia summary, and extract the answer: `"LeBron James plays for the Los Angeles Lakers."`
 
 #### Example Breakdown
 
 If a user asks:  
 **“What team does LeBron James play for?”**, the system will:
 
-1. Query Wikipedia with `"LeBron James"`
+1. Query Wikipedia with title `"LeBron James"`
 2. Retrieve the top matching article summary
 3. Pass that summary and the original question to GPT-4
-4. Return:  
-   **"LeBron James plays for the Los Angeles Lakers."**
+4. Return:  **"LeBron James plays for the Los Angeles Lakers."**
 
 ---
 
-### ▶️ How to Run the Project
+### How to run the Project
 
 1. **Clone the repository**
 
