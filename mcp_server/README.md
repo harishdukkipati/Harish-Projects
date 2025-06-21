@@ -40,7 +40,7 @@ If a user asks:
 
 3. **Install all required packages**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirments.txt
 
 4. **Create a .env file and add your OpenAI API Key**
    - In the root directory of your project, create a file named `.env`
