@@ -1,4 +1,4 @@
-##Mavs App
+##NBA 2025 Draft Board Website
 
 I built a scouting platform for the NBA Draft designed to help teams evaluate prospects more effectively. The homepage features a Big Board that ranks all draft-eligible players. Each player card displays the rankings submitted by various scouts, and the UI highlights insights at a glance — a scout's rank appears green if they’re higher on a player than the consensus, and red if they’re lower.
 
