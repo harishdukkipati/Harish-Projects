@@ -1,4 +1,4 @@
-## 🛠️ Projects Completed
+## Projects Completed
 
 Here are 6 projects that I have completed over the past year.
 
