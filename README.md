@@ -1,18 +1,75 @@
 ## Projects Completed
 
-Here are 6 projects that I have completed over the past year.
+Here are 7 projects that I have completed over the past year.
 
-**Project 1:** I built an NBA Draft scouting platform that streamlines prospect evaluation for teams by combining rankings, stats, and reports in one interface. The homepage features a Big Board ranking all draft-eligible players, with scout-specific rankings color-coded to show whether they’re above (green) or below (red) consensus. Users can search for players or filter by school, then click a card to view a detailed profile with photos, combine measurements, and toggleable sections for game logs, season averages, and scouting reports. A built-in form allows scouts to submit new reports, making it easy for teams to track outlier opinions, analyze performance trends, and centralize all scouting data in one place.
+---
 
-**Project 2:** I developed a multi-threaded HTTP server using C, which involved creating multiple threads, implementing a bounded buffer, and utilizing mutex locks to ensure an atomic and coherent process.
+### **Project 1: NBA Draft Scouting Platform**
+I built an NBA Draft scouting platform that streamlines prospect evaluation for teams by combining rankings, stats, and reports in one interface.  
 
-**Project 3:** I built an NFL Chatbot powered by OpenAI’s Large Language Models, enabling accurate responses to user queries related to the NFL. I stored over 1000 lines of raw NFL data as word embeddings in a Pinecone Vector Database, leveraging semantic search to identify and retrieve the most relevant information.
+**Key Features:**
+- Homepage with a **Big Board** ranking all draft-eligible players
+- Color-coded scout rankings (green = above consensus, red = below consensus)
+- Search by player or filter by school
+- Detailed player profiles with photos, combine measurements, game logs, season averages, and scouting reports
+- Built-in form for scouts to submit new reports
+- Centralized system for tracking outlier opinions and performance trends
 
-**Project 4:** I effectively employed Q-learning, depth-first search, breadth-first search, and A* search algorithms in Python to enhance Pac-Man's gameplay. This optimization was done to improve both its decision-making process and pathfinding for maximum food consumption.
+---
 
-**Project 5:** I built a Slack app using React for the front end, PostgreSQL for the database, and Node.js for the backend. I inserted user data into the database using SQL and retrieved each unique user workspace, channel, and message through server calls from the backend. The front end was then used to display all this information seamlessly, providing a comprehensive and user-friendly experience.
+### **Project 2: Multi-threaded HTTP Server (C)**
+I developed a multi-threaded HTTP server using C, which included:
+- Creating multiple threads
+- Implementing a bounded buffer
+- Utilizing mutex locks to ensure atomic and coherent processing
 
-**Project 6:** In this project, I developed unigram, bigram, and trigram language models to predict word sequences. These models were trained to calculate the probabilities of words based on their preceding context. To evaluate the accuracy of these models, I used metrics like perplexity, which measures how well the models predict the next word in a sequence. This approach allowed me to assess the performance of each model in capturing the patterns and structures in the language data.
+---
 
-**Project 7:** I built an MCP (Modular Code Processing) server using FastAPI, OpenAI's GPT-4, and the Wikipedia API to create an intelligent question-answering system. The server modularly handles API endpoints for Wikipedia search, summary retrieval, and chatbot interaction, allowing the LLM to dynamically extract relevant information from external tools. This project demonstrated how to orchestrate tool use via an LLM and serve modular APIs for intelligent, context-aware responses.
+### **Project 3: NFL Chatbot**
+Built an NFL Chatbot powered by OpenAI’s Large Language Models to answer NFL-related queries.  
 
+**Tech Highlights:**
+- Stored 1000+ lines of raw NFL data as word embeddings in **Pinecone Vector Database**
+- Used semantic search to retrieve the most relevant information
+- Delivered accurate and context-aware NFL answers
+
+---
+
+### **Project 4: Pac-Man AI Optimization**
+Implemented **Q-learning**, **DFS**, **BFS**, and **A\*** algorithms in Python to:
+- Improve Pac-Man's decision-making
+- Optimize pathfinding for maximum food consumption
+
+---
+
+### **Project 5: Slack App Clone**
+Developed a Slack-like messaging app using:
+- **Frontend:** React
+- **Backend:** Node.js + Express
+- **Database:** PostgreSQL
+
+**Features:**
+- Stored and retrieved user workspace, channel, and message data
+- Integrated backend server calls to display information seamlessly
+
+---
+
+### **Project 6: N-gram Language Models**
+Built unigram, bigram, and trigram models to predict word sequences.  
+
+**Evaluation:**
+- Trained on text data to calculate probabilities based on preceding context
+- Measured accuracy using **perplexity**
+- Compared model performance in capturing language patterns
+
+---
+
+### **Project 7: Modular Code Processing (MCP) Server**
+Created an intelligent Q&A system using **FastAPI**, **OpenAI GPT-4**, and the **Wikipedia API**.  
+
+**Highlights:**
+- Modular API endpoints for Wikipedia search, summary retrieval, and chatbot interaction
+- LLM dynamically extracts relevant info from external tools
+- Demonstrated orchestration of tool use for context-aware responses
+
+---
