@@ -1,13 +1,29 @@
-##NBA 2025 Draft Board Website
+## NBA 2025 Draft Board Website
 
-I built a scouting platform for the NBA Draft designed to help teams evaluate prospects more effectively. The homepage features a Big Board that ranks all draft-eligible players. Each player card displays the rankings submitted by various scouts, and the UI highlights insights at a glance — a scout's rank appears green if they’re higher on a player than the consensus, and red if they’re lower.
+I built a scouting platform for the NBA Draft designed to help teams evaluate prospects more effectively.  
 
-The Big Board also includes a search bar to quickly find specific prospects and a team filter to narrow players by school. Clicking a player card navigates to their individual profile page, which features their photo and complete combine measurements.
+### Features
 
-Below the player card, users can toggle between two key sections:
+- **Big Board**: Ranks all draft-eligible players on the homepage.  
+  - Each player card displays rankings submitted by scouts.  
+  - Scout ranks are **highlighted**:  
+    - 🟢 Green = higher than consensus  
+    - 🔴 Red = lower than consensus  
+  - Includes a **search bar** to find prospects quickly.  
+  - **Team filter** allows narrowing players by school.  
 
-- Player Stats: View detailed game logs or switch to season averages.
+- **Player Profiles**:  
+  - Clicking a player card opens their profile page.  
+  - Profile includes **photo** and **combine measurements**.  
 
-- Scouting Reports: Read existing reports from scouts or submit a new one via a built-in form.
+- **Player Card Toggles**:  
+  - **Player Stats**: View detailed game logs or switch to season averages.  
+  - **Scouting Reports**: Read reports from scouts or submit a new one via a built-in form.  
 
-This application gives scouts and front office staff a streamlined, data-driven interface to analyze player performance, spot outlier evaluations, and document observations all in one place.
+### Value
+
+This application gives scouts and front office staff a streamlined, data-driven interface to:  
+- Analyze player performance  
+- Spot outlier evaluations  
+- Document observations all in one place  
+
