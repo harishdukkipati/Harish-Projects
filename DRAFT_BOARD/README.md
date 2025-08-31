@@ -25,5 +25,11 @@ I built a scouting platform for the NBA Draft designed to help teams evaluate pr
 This application gives scouts and front office staff a streamlined, data-driven interface to:  
 - Analyze player performance  
 - Spot outlier evaluations  
-- Document observations all in one place  
+- Document observations all in one place
+
+## 🚀 Project Demo
+
+🎥 **Video Walkthrough**: [Watch on YouTube](https://youtu.be/sGjhAI2IGkI)  
+🌐 **Live Website**: [View Here](https://heroic-lily-9ad499.netlify.app/)  
+
 
