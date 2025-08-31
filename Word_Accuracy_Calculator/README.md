@@ -28,13 +28,6 @@ Through this project, I gained experience with:
 - Evaluating and comparing models using a standard metric (**perplexity**)  
 - Applying N-gram models as a foundation for more advanced **language modeling approaches**  
 
----
-
-## ▶️ Example Usage
-```python
-# Training a bigram model
-from ngram_model import BigramModel
-
 model = BigramModel()
 model.train("training_corpus.txt")
 
