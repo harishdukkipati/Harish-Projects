@@ -25,7 +25,11 @@ I developed a multi-threaded HTTP server using C, which included:
 
 ---
 
-### **Project 3: NFL Chatbot**
+### **Project 3: NBA Stat Predictor (Python)**
+
+I developed a FFN model to predict the stats of Pacers and Thunder Players during the 2025 NBA Finals:
+
+### **Project 4: NFL Chatbot**
 Built an NFL Chatbot powered by OpenAI’s Large Language Models to answer NFL-related queries.  
 
 **Tech Highlights:**
@@ -35,14 +39,14 @@ Built an NFL Chatbot powered by OpenAI’s Large Language Models to answer NFL-r
 
 ---
 
-### **Project 4: Pac-Man AI Optimization**
+### **Project 5: Pac-Man AI Optimization**
 Implemented **Q-learning**, **DFS**, **BFS**, and **A\*** algorithms in Python to:
 - Improve Pac-Man's decision-making
 - Optimize pathfinding for maximum food consumption
 
 ---
 
-### **Project 5: Slack App Clone**
+### **Project 6: Slack App Clone**
 Developed a Slack-like messaging app using:
 - **Frontend:** React
 - **Backend:** Node.js + Express
@@ -54,7 +58,7 @@ Developed a Slack-like messaging app using:
 
 ---
 
-### **Project 6: N-gram Language Models**
+### **Project 7: N-gram Language Models**
 Built unigram, bigram, and trigram models to predict word sequences.  
 
 **Evaluation:**
@@ -64,7 +68,7 @@ Built unigram, bigram, and trigram models to predict word sequences.
 
 ---
 
-### **Project 7: Modular Code Processing (MCP) Server**
+### **Project 8: Modular Code Processing (MCP) Server**
 Created an intelligent Q&A system using **FastAPI**, **OpenAI GPT-4**, and the **Wikipedia API**.  
 
 **Highlights:**
