@@ -1,6 +1,6 @@
 ## MCP Server – Wikipedia + GPT-4 Integration
 
-This is an MCP (Modular Code Processing) server project that uses **FastAPI**, the **Wikipedia API**, and **OpenAI's GPT-4** to answer user questions with contextual knowledge. It modularly separates logic into components for cleaner code structure and demonstrates how a server can use an LLM to interact with external APIs.
+This is an MCP (Modular Context Protocol) server project that uses **FastAPI**, the **Wikipedia API**, and **OpenAI's GPT-4** to answer user questions with contextual knowledge. It modularly separates logic into components for cleaner code structure and demonstrates how a server can use an LLM to interact with external APIs.
 
 ---
 
