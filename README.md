@@ -1,6 +1,6 @@
 ## Projects Completed
 
-Here are 8 projects that I have completed over the past year.
+Here are 10 projects that I have completed over the past year.
 
 ---
 
@@ -87,6 +87,19 @@ Created an intelligent Q&A system using **FastAPI**, **OpenAI GPT-4**, and the *
 - Modular API endpoints for Wikipedia search, summary retrieval, and chatbot interaction  
 - LLM dynamically extracts and synthesizes relevant information from external tools  
 - Demonstrated orchestration of tool use for context-aware responses  
+
+---
+
+### **Project 10: Fitness Tracker (iOS)**
+Built a native **SwiftUI** fitness companion for logging workouts, setting goals, and visualizing activity with optional **Apple Health** integration.
+
+**Key Features:**
+- **Core Data** persistence for workouts, goals, and synced health snapshots  
+- **Dashboard** with **Swift Charts** for logged workout minutes and optional HealthKit series (steps, active energy, daily average heart rate)  
+- **Workout log** with categories, start/end times, optional calories and notes, and list management (edit/delete)  
+- Optional **save to Apple Health** for logged sessions when write access is granted  
+- **Goals** by workout category with targets in workouts, minutes, or active calories, plus optional end dates  
+- **Health settings** so users enable or disable dashboard Health reads and manage authorization via the Health app  
 
 ---
 
