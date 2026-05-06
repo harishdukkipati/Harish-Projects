@@ -1,0 +1,5 @@
+# Xcode / macOS noise
+**/xcuserdata/
+**/*.xcuserstate
+**/UserInterfaceState.xcuserstate
+.DS_Store

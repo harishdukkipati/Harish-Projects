@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23506" systemVersion="24A335" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="NO" userDefinedModelVersionIdentifier="">
+	<entity name="FitnessGoal" representedClassName="FitnessGoal" syncable="YES" codeGenerationType="class">
+		<attribute name="endDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+		<attribute name="goalCategoryRaw" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+		<attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+		<attribute name="isCompleted" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+		<attribute name="startDate" attributeType="Date" usesScalarValueType="NO"/>
+		<attribute name="targetValue" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+		<attribute name="unitRaw" optional="YES" attributeType="String"/>
+	</entity>
+	<entity name="SyncedHealthSnapshot" representedClassName="SyncedHealthSnapshot" syncable="YES" codeGenerationType="class">
+		<attribute name="activeEnergyKcal" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+		<attribute name="avgHeartRate" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+		<attribute name="dayStart" attributeType="Date" usesScalarValueType="NO"/>
+		<attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+		<attribute name="steps" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+	</entity>
+	<entity name="WorkoutEntry" representedClassName="WorkoutEntry" syncable="YES" codeGenerationType="class">
+		<attribute name="caloriesBurned" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+		<attribute name="categoryRaw" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+		<attribute name="durationSeconds" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+		<attribute name="endDate" attributeType="Date" usesScalarValueType="NO"/>
+		<attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+		<attribute name="notes" optional="YES" attributeType="String"/>
+		<attribute name="startDate" attributeType="Date" usesScalarValueType="NO"/>
+		<attribute name="syncToHealth" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+	</entity>
+</model>
