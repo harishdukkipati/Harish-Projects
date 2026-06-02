@@ -1,6 +1,6 @@
 ## Projects Completed
 
-Here are 10 projects that I have completed over the past year.
+Here are 11 projects that I have completed over the past year.
 
 ---
 
@@ -100,6 +100,18 @@ Built a native **SwiftUI** fitness companion for logging workouts, setting goals
 - Optional **save to Apple Health** for logged sessions when write access is granted  
 - **Goals** by workout category with targets in workouts, minutes, or active calories, plus optional end dates  
 - **Health settings** so users enable or disable dashboard Health reads and manage authorization via the Health app  
+
+---
+
+### **Project 11: March Madness Bracket Predictor (Python)**
+Built an **NCAA tournament prediction and simulation** pipeline that joins historic Kaggle results with rating/resume data, trains a **logistic regression** model for matchup win probability, and runs **Monte Carlo bracket simulations** through a **FastAPI** backend.
+
+**Key Features:**
+- **Matchup model** on 2008–2025 tournament games using seed, resume, KenPom/Barttorvik, upset rates, head-to-head, recent form, and path-strength features  
+- **Full-bracket simulation** with configurable temperature and hybrid deterministic/stochastic game resolution  
+- **2026 live data** via game logs, bracket JSON, and Sweet 16 path inputs for post–First Four updates  
+- **FastAPI endpoints** for round-of-64 matchups and multi-run championship frequency output  
+- **ESPN scraping** and export scripts for refreshing game logs and training datasets  
 
 ---
 

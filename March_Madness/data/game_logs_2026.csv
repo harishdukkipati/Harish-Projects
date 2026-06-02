@@ -1,0 +1,2106 @@
+season,team,espn_team_id,date,opponent,result,team_score,opp_score,is_win
+2026,Duke,150,"Tue, Nov 4",Texas,W 75-60,75,60,True
+2026,Duke,150,"Sat, Nov 8",W Carolina,W 95-54,95,54,True
+2026,Duke,150,"Tue, Nov 11",Army,W 114-59,114,59,True
+2026,Duke,150,"Fri, Nov 14",Indiana St,W 100-62,100,62,True
+2026,Duke,150,"Tue, Nov 18",Kansas,W 78-66,78,66,True
+2026,Duke,150,"Fri, Nov 21",Niagara,W 100-42,100,42,True
+2026,Duke,150,"Sun, Nov 23",Howard,W 93-56,93,56,True
+2026,Duke,150,"Thu, Nov 27",Arkansas,W 80-71,80,71,True
+2026,Duke,150,"Tue, Dec 2",Florida,W 67-66,67,66,True
+2026,Duke,150,"Sat, Dec 6",Michigan St,W 66-60,66,60,True
+2026,Duke,150,"Tue, Dec 16",Lipscomb,W 97-73,97,73,True
+2026,Duke,150,"Sat, Dec 20",Texas Tech,L 82-81,82,81,False
+2026,Duke,150,"Wed, Dec 31",Georgia Tech,W 85-79,85,79,True
+2026,Duke,150,"Sat, Jan 3",Florida St,W 91-87,91,87,True
+2026,Duke,150,"Tue, Jan 6",Louisville,W 84-73,84,73,True
+2026,Duke,150,"Sat, Jan 10",SMU,W 82-75,82,75,True
+2026,Duke,150,"Wed, Jan 14",California,W 71-56,71,56,True
+2026,Duke,150,"Sat, Jan 17",Stanford,W 80-50,80,50,True
+2026,Duke,150,"Sat, Jan 24",Wake Forest,W 90-69,90,69,True
+2026,Duke,150,"Mon, Jan 26",Louisville,W 83-52,83,52,True
+2026,Duke,150,"Sat, Jan 31",Virginia Tech,W 72-58,72,58,True
+2026,Duke,150,"Tue, Feb 3",Boston College,W 67-49,67,49,True
+2026,Duke,150,"Sat, Feb 7",North Carolina,L 71-68,71,68,False
+2026,Duke,150,"Tue, Feb 10",Pittsburgh,W 70-54,70,54,True
+2026,Duke,150,"Sat, Feb 14",Clemson,W 67-54,67,54,True
+2026,Duke,150,"Mon, Feb 16",Syracuse,W 101-64,101,64,True
+2026,Duke,150,"Sat, Feb 21",Michigan,W 68-63,68,63,True
+2026,Duke,150,"Tue, Feb 24",Notre Dame,W 100-56,100,56,True
+2026,Duke,150,"Sat, Feb 28",Virginia,W 77-51,77,51,True
+2026,Duke,150,"Mon, Mar 2",NC State,W 93-64,93,64,True
+2026,Duke,150,"Sat, Mar 7",North Carolina,W 76-61,76,61,True
+2026,Duke,150,"Thu, Mar 12",Florida St,W 80-79,80,79,True
+2026,Duke,150,"Fri, Mar 13",Clemson,W 73-61,73,61,True
+2026,Duke,150,"Sat, Mar 14",Virginia,W 74-70,74,70,True
+2026,Akron,2006,"Mon, Nov 3",James Madison,W 85-71,85,71,True
+2026,Akron,2006,"Sat, Nov 8",Princeton,W 104-69,104,69,True
+2026,Akron,2006,"Wed, Nov 12",Penn State-Shenango,W 109-51,109,51,True
+2026,Akron,2006,"Sun, Nov 16",Purdue,L 97-79,97,79,False
+2026,Akron,2006,"Fri, Nov 21",Iona,W 96-75,96,75,True
+2026,Akron,2006,"Sun, Nov 23",Evansville,W 97-59,97,59,True
+2026,Akron,2006,"Mon, Nov 24",Yale,L 97-94,97,94,False
+2026,Akron,2006,"Sat, Nov 29",WI Milwaukee,W 105-81,105,81,True
+2026,Akron,2006,"Wed, Dec 3",Bucknell,W 97-77,97,77,True
+2026,Akron,2006,"Sat, Dec 6",Tulane,W 88-71,88,71,True
+2026,Akron,2006,"Sat, Dec 13",Murray St,L 115-100,115,100,False
+2026,Akron,2006,"Fri, Dec 19",E Michigan,W 93-72,93,72,True
+2026,Akron,2006,"Mon, Dec 29",Concord,W 115-64,115,64,True
+2026,Akron,2006,"Sat, Jan 3",Miami OH,L 76-73,76,73,False
+2026,Akron,2006,"Tue, Jan 6",C Michigan,W 82-69,82,69,True
+2026,Akron,2006,"Fri, Jan 9",Bowling Green,W 77-67,77,67,True
+2026,Akron,2006,"Tue, Jan 13",Ball St,W 87-77,87,77,True
+2026,Akron,2006,"Sat, Jan 17",W Michigan,W 104-89,104,89,True
+2026,Akron,2006,"Tue, Jan 20",Buffalo,W 82-63,82,63,True
+2026,Akron,2006,"Fri, Jan 23",Ohio,W 86-65,86,65,True
+2026,Akron,2006,"Tue, Jan 27",Toledo,W 91-81,91,81,True
+2026,Akron,2006,"Fri, Jan 30",Kent,W 69-52,69,52,True
+2026,Akron,2006,"Tue, Feb 3",E Michigan,W 66-64,66,64,True
+2026,Akron,2006,"Sat, Feb 7",Troy,L 79-69,79,69,False
+2026,Akron,2006,"Fri, Feb 13",Massachusetts,W 99-92,99,92,True
+2026,Akron,2006,"Tue, Feb 17",W Michigan,W 90-73,90,73,True
+2026,Akron,2006,"Fri, Feb 20",Ball St,W 78-65,78,65,True
+2026,Akron,2006,"Tue, Feb 24",Buffalo,W 99-85,99,85,True
+2026,Akron,2006,"Fri, Feb 27",Kent,W 92-70,92,70,True
+2026,Akron,2006,"Tue, Mar 3",C Michigan,W 77-64,77,64,True
+2026,Akron,2006,"Fri, Mar 6",N Illinois,W 94-55,94,55,True
+2026,Akron,2006,"Thu, Mar 12",Buffalo,W 73-70,73,70,True
+2026,Akron,2006,"Fri, Mar 13",Kent,W 75-68,75,68,True
+2026,Akron,2006,"Sat, Mar 14",Toledo,W 79-76,79,76,True
+2026,Houston,248,"Mon, Nov 3",Lehigh,W 75-57,75,57,True
+2026,Houston,248,"Sat, Nov 8",Towson,W 65-48,65,48,True
+2026,Houston,248,"Wed, Nov 12",Oakland,W 78-45,78,45,True
+2026,Houston,248,"Sun, Nov 16",Auburn,W 73-72,73,72,True
+2026,Houston,248,"Thu, Nov 20",Rider,W 91-45,91,45,True
+2026,Houston,248,"Tue, Nov 25",Tennessee,L 76-73,76,73,False
+2026,Houston,248,"Wed, Nov 26",Notre Dame,W 66-56,66,56,True
+2026,Houston,248,"Sat, Dec 6",Florida St,W 82-67,82,67,True
+2026,Houston,248,"Wed, Dec 10",Jackson St,W 80-38,80,38,True
+2026,Houston,248,"Sat, Dec 13",New Orleans,W 99-57,99,57,True
+2026,Houston,248,"Sat, Dec 20",Arkansas,W 94-85,94,85,True
+2026,Houston,248,"Mon, Dec 29",MTSU,W 69-60,69,60,True
+2026,Houston,248,"Sat, Jan 3",Cincinnati,W 67-60,67,60,True
+2026,Houston,248,"Tue, Jan 6",Texas Tech,W 69-65,69,65,True
+2026,Houston,248,"Sat, Jan 10",Baylor,W 77-55,77,55,True
+2026,Houston,248,"Tue, Jan 13",West Virginia,W 77-48,77,48,True
+2026,Houston,248,"Sun, Jan 18",Arizona St,W 103-73,103,73,True
+2026,Houston,248,"Sat, Jan 24",Texas Tech,L 90-86,90,86,False
+2026,Houston,248,"Wed, Jan 28",TCU,W 79-70,79,70,True
+2026,Houston,248,"Sat, Jan 31",Cincinnati,W 76-54,76,54,True
+2026,Houston,248,"Wed, Feb 4",UCF,W 79-55,79,55,True
+2026,Houston,248,"Sat, Feb 7",BYU,W 77-66,77,66,True
+2026,Houston,248,"Tue, Feb 10",Utah,W 66-52,66,52,True
+2026,Houston,248,"Sat, Feb 14",Kansas St,W 78-64,78,64,True
+2026,Houston,248,"Mon, Feb 16",Iowa St,L 70-67,70,67,False
+2026,Houston,248,"Sat, Feb 21",Arizona,L 73-66,73,66,False
+2026,Houston,248,"Mon, Feb 23",Kansas,L 69-56,69,56,False
+2026,Houston,248,"Sat, Feb 28",Colorado,W 102-62,102,62,True
+2026,Houston,248,"Wed, Mar 4",Baylor,W 77-64,77,64,True
+2026,Houston,248,"Sat, Mar 7",Oklahoma St,W 82-75,82,75,True
+2026,Houston,248,"Thu, Mar 12",BYU,W 73-66,73,66,True
+2026,Houston,248,"Fri, Mar 13",Kansas,W 69-47,69,47,True
+2026,Houston,248,"Sat, Mar 14",Arizona,L 79-74,79,74,False
+2026,Arizona,12,"Mon, Nov 3",Florida,W 93-87,93,87,True
+2026,Arizona,12,"Fri, Nov 7",Utah Tech,W 93-67,93,67,True
+2026,Arizona,12,"Tue, Nov 11",Northern Arizona,W 84-49,84,49,True
+2026,Arizona,12,"Fri, Nov 14",UCLA,W 69-65,69,65,True
+2026,Arizona,12,"Wed, Nov 19",Connecticut,W 71-67,71,67,True
+2026,Arizona,12,"Mon, Nov 24",Denver,W 103-73,103,73,True
+2026,Arizona,12,"Sat, Nov 29",Norfolk St,W 98-61,98,61,True
+2026,Arizona,12,"Sat, Dec 6",Auburn,W 97-68,97,68,True
+2026,Arizona,12,"Sat, Dec 13",Alabama,W 96-75,96,75,True
+2026,Arizona,12,"Tue, Dec 16",Abilene Chr,W 96-62,96,62,True
+2026,Arizona,12,"Sat, Dec 20",San Diego St,W 68-45,68,45,True
+2026,Arizona,12,"Mon, Dec 22",Bethune-Cookman,W 107-71,107,71,True
+2026,Arizona,12,"Mon, Dec 29",S Dakota St,W 99-71,99,71,True
+2026,Arizona,12,"Sat, Jan 3",Utah,W 97-78,97,78,True
+2026,Arizona,12,"Wed, Jan 7",Kansas St,W 101-76,101,76,True
+2026,Arizona,12,"Sat, Jan 10",TCU,W 86-73,86,73,True
+2026,Arizona,12,"Wed, Jan 14",Arizona St,W 89-82,89,82,True
+2026,Arizona,12,"Sat, Jan 17",UCF,W 84-77,84,77,True
+2026,Arizona,12,"Wed, Jan 21",Cincinnati,W 77-51,77,51,True
+2026,Arizona,12,"Sat, Jan 24",West Virginia,W 88-53,88,53,True
+2026,Arizona,12,"Mon, Jan 26",BYU,W 86-83,86,83,True
+2026,Arizona,12,"Sat, Jan 31",Arizona St,W 87-74,87,74,True
+2026,Arizona,12,"Sat, Feb 7",Oklahoma St,W 84-47,84,47,True
+2026,Arizona,12,"Mon, Feb 9",Kansas,L 82-78,82,78,False
+2026,Arizona,12,"Wed, Feb 18",BYU,W 75-68,75,68,True
+2026,Arizona,12,"Sat, Feb 21",Houston,W 73-66,73,66,True
+2026,Arizona,12,"Tue, Feb 24",Baylor,W 87-80,87,80,True
+2026,Arizona,12,"Sat, Feb 28",Kansas,W 84-61,84,61,True
+2026,Arizona,12,"Mon, Mar 2",Iowa St,W 73-57,73,57,True
+2026,Arizona,12,"Sat, Mar 7",Colorado,W 89-79,89,79,True
+2026,Arizona,12,"Thu, Mar 12",UCF,W 81-59,81,59,True
+2026,Arizona,12,"Fri, Mar 13",Iowa St,W 82-80,82,80,True
+2026,Arizona,12,"Sat, Mar 14",Houston,W 79-74,79,74,True
+2026,Florida,57,"Mon, Nov 3",Arizona,L 93-87,93,87,False
+2026,Florida,57,"Thu, Nov 6",North Florida,W 104-64,104,64,True
+2026,Florida,57,"Tue, Nov 11",Florida St,W 78-76,78,76,True
+2026,Florida,57,"Sun, Nov 16",Miami FL,W 82-68,82,68,True
+2026,Florida,57,"Fri, Nov 21",Merrimack,W 80-45,80,45,True
+2026,Florida,57,"Thu, Nov 27",TCU,L 84-80,84,80,False
+2026,Florida,57,"Fri, Nov 28",Providence,W 90-78,90,78,True
+2026,Florida,57,"Tue, Dec 2",Duke,L 67-66,67,66,False
+2026,Florida,57,"Tue, Dec 9",Connecticut,L 77-73,77,73,False
+2026,Florida,57,"Sat, Dec 13",G Washington,W 80-70,80,70,True
+2026,Florida,57,"Wed, Dec 17",Saint Francis,W 102-61,102,61,True
+2026,Florida,57,"Sun, Dec 21",Colgate,W 90-60,90,60,True
+2026,Florida,57,"Mon, Dec 29",Dartmouth,W 94-72,94,72,True
+2026,Florida,57,"Sat, Jan 3",Missouri,L 76-74,76,74,False
+2026,Florida,57,"Tue, Jan 6",Georgia,W 92-77,92,77,True
+2026,Florida,57,"Sat, Jan 10",Tennessee,W 91-67,91,67,True
+2026,Florida,57,"Tue, Jan 13",Oklahoma,W 96-79,96,79,True
+2026,Florida,57,"Sat, Jan 17",Vanderbilt,W 98-94,98,94,True
+2026,Florida,57,"Tue, Jan 20",LSU,W 79-61,79,61,True
+2026,Florida,57,"Sat, Jan 24",Auburn,L 76-67,76,67,False
+2026,Florida,57,"Wed, Jan 28",South Carolina,W 95-48,95,48,True
+2026,Florida,57,"Sun, Feb 1",Alabama,W 100-77,100,77,True
+2026,Florida,57,"Sat, Feb 7",Texas A&M,W 86-67,86,67,True
+2026,Florida,57,"Wed, Feb 11",Georgia,W 86-66,86,66,True
+2026,Florida,57,"Sat, Feb 14",Kentucky,W 92-83,92,83,True
+2026,Florida,57,"Tue, Feb 17",South Carolina,W 76-62,76,62,True
+2026,Florida,57,"Sat, Feb 21",Mississippi,W 94-75,94,75,True
+2026,Florida,57,"Wed, Feb 25",Texas,W 84-71,84,71,True
+2026,Florida,57,"Sat, Feb 28",Arkansas,W 111-77,111,77,True
+2026,Florida,57,"Tue, Mar 3",Mississippi St,W 108-74,108,74,True
+2026,Florida,57,"Sat, Mar 7",Kentucky,W 84-77,84,77,True
+2026,Florida,57,"Fri, Mar 13",Kentucky,W 71-63,71,63,True
+2026,Florida,57,"Sat, Mar 14",Vanderbilt,L 91-74,91,74,False
+2026,Michigan,130,"Mon, Nov 3",Oakland,W 121-78,121,78,True
+2026,Michigan,130,"Fri, Nov 14",TCU,W 67-63,67,63,True
+2026,Michigan,130,"Wed, Nov 19",MTSU,W 86-61,86,61,True
+2026,Michigan,130,"Mon, Nov 24",San Diego St,W 94-54,94,54,True
+2026,Michigan,130,"Tue, Nov 25",Auburn,W 102-72,102,72,True
+2026,Michigan,130,"Wed, Nov 26",Gonzaga,W 101-61,101,61,True
+2026,Michigan,130,"Sat, Dec 6",Rutgers,W 101-60,101,60,True
+2026,Michigan,130,"Tue, Dec 9",Villanova,W 89-61,89,61,True
+2026,Michigan,130,"Sat, Dec 13",Maryland,W 101-83,101,83,True
+2026,Michigan,130,"Sun, Dec 21",La Salle,W 102-50,102,50,True
+2026,Michigan,130,"Mon, Dec 29",McNeese St,W 112-71,112,71,True
+2026,Michigan,130,"Fri, Jan 2",USC,W 96-66,96,66,True
+2026,Michigan,130,"Tue, Jan 6",Penn St,W 74-72,74,72,True
+2026,Michigan,130,"Sat, Jan 10",Wisconsin,L 91-88,91,88,False
+2026,Michigan,130,"Wed, Jan 14",Washington,W 82-72,82,72,True
+2026,Michigan,130,"Sat, Jan 17",Oregon,W 81-71,81,71,True
+2026,Michigan,130,"Tue, Jan 20",Indiana,W 86-72,86,72,True
+2026,Michigan,130,"Fri, Jan 23",Ohio St,W 74-62,74,62,True
+2026,Michigan,130,"Tue, Jan 27",Nebraska,W 75-72,75,72,True
+2026,Michigan,130,"Fri, Jan 30",Michigan St,W 83-71,83,71,True
+2026,Michigan,130,"Thu, Feb 5",Penn St,W 110-69,110,69,True
+2026,Michigan,130,"Sun, Feb 8",Ohio St,W 82-61,82,61,True
+2026,Michigan,130,"Wed, Feb 11",Northwestern,W 87-75,87,75,True
+2026,Michigan,130,"Sat, Feb 14",UCLA,W 86-56,86,56,True
+2026,Michigan,130,"Tue, Feb 17",Purdue,W 91-80,91,80,True
+2026,Michigan,130,"Sat, Feb 21",Duke,L 68-63,68,63,False
+2026,Michigan,130,"Tue, Feb 24",Minnesota,W 77-67,77,67,True
+2026,Michigan,130,"Fri, Feb 27",Illinois,W 84-70,84,70,True
+2026,Michigan,130,"Thu, Mar 5",Iowa,W 71-68,71,68,True
+2026,Michigan,130,"Sun, Mar 8",Michigan St,W 90-80,90,80,True
+2026,Michigan,130,"Fri, Mar 13",Ohio St,W 71-67,71,67,True
+2026,Michigan,130,"Sat, Mar 14",Wisconsin,W 68-65,68,65,True
+2026,Michigan,130,"Sun, Mar 15",Purdue,L 80-72,80,72,False
+2026,Purdue,2509,"Tue, Nov 4",Evansville,W 82-51,82,51,True
+2026,Purdue,2509,"Fri, Nov 7",Oakland,W 87-77,87,77,True
+2026,Purdue,2509,"Thu, Nov 13",Alabama,W 87-80,87,80,True
+2026,Purdue,2509,"Sun, Nov 16",Akron,W 97-79,97,79,True
+2026,Purdue,2509,"Thu, Nov 20",Memphis,W 80-71,80,71,True
+2026,Purdue,2509,"Fri, Nov 21",Texas Tech,W 86-56,86,56,True
+2026,Purdue,2509,"Fri, Nov 28",E Illinois,W 109-62,109,62,True
+2026,Purdue,2509,"Tue, Dec 2",Rutgers,W 81-65,81,65,True
+2026,Purdue,2509,"Sat, Dec 6",Iowa St,L 81-58,81,58,False
+2026,Purdue,2509,"Wed, Dec 10",Minnesota,W 85-57,85,57,True
+2026,Purdue,2509,"Sat, Dec 13",Marquette,W 79-59,79,59,True
+2026,Purdue,2509,"Sat, Dec 20",Auburn,W 88-60,88,60,True
+2026,Purdue,2509,"Mon, Dec 29",Kent,W 101-60,101,60,True
+2026,Purdue,2509,"Sat, Jan 3",Wisconsin,W 89-73,89,73,True
+2026,Purdue,2509,"Wed, Jan 7",Washington,W 81-73,81,73,True
+2026,Purdue,2509,"Sat, Jan 10",Penn St,W 93-85,93,85,True
+2026,Purdue,2509,"Wed, Jan 14",Iowa,W 79-72,79,72,True
+2026,Purdue,2509,"Sat, Jan 17",USC,W 69-64,69,64,True
+2026,Purdue,2509,"Tue, Jan 20",UCLA,L 69-67,69,67,False
+2026,Purdue,2509,"Sat, Jan 24",Illinois,L 88-82,88,82,False
+2026,Purdue,2509,"Tue, Jan 27",Indiana,L 72-67,72,67,False
+2026,Purdue,2509,"Sun, Feb 1",Maryland,W 93-63,93,63,True
+2026,Purdue,2509,"Sat, Feb 7",Oregon,W 68-64,68,64,True
+2026,Purdue,2509,"Sat, Feb 14",Iowa,W 78-57,78,57,True
+2026,Purdue,2509,"Tue, Feb 17",Michigan,L 91-80,91,80,False
+2026,Purdue,2509,"Fri, Feb 20",Indiana,W 93-64,93,64,True
+2026,Purdue,2509,"Thu, Feb 26",Michigan St,L 76-74,76,74,False
+2026,Purdue,2509,"Sun, Mar 1",Ohio St,L 82-74,82,74,False
+2026,Purdue,2509,"Wed, Mar 4",Northwestern,W 70-66,70,66,True
+2026,Purdue,2509,"Sat, Mar 7",Wisconsin,L 97-93,97,93,False
+2026,Purdue,2509,"Thu, Mar 12",Northwestern,W 81-68,81,68,True
+2026,Purdue,2509,"Fri, Mar 13",Nebraska,W 74-58,74,58,True
+2026,Purdue,2509,"Sat, Mar 14",UCLA,W 73-66,73,66,True
+2026,Purdue,2509,"Sun, Mar 15",Michigan,W 80-72,80,72,True
+2026,Connecticut,41,"Mon, Nov 3",New Haven,W 79-55,79,55,True
+2026,Connecticut,41,"Fri, Nov 7",MA Lowell,W 110-47,110,47,True
+2026,Connecticut,41,"Mon, Nov 10",Columbia,W 89-62,89,62,True
+2026,Connecticut,41,"Sat, Nov 15",BYU,W 86-84,86,84,True
+2026,Connecticut,41,"Wed, Nov 19",Arizona,L 71-67,71,67,False
+2026,Connecticut,41,"Sun, Nov 23",Bryant,W 72-49,72,49,True
+2026,Connecticut,41,"Fri, Nov 28",Illinois,W 74-61,74,61,True
+2026,Connecticut,41,"Tue, Dec 2",Kansas,W 61-56,61,56,True
+2026,Connecticut,41,"Fri, Dec 5",East Texas A&M,W 83-59,83,59,True
+2026,Connecticut,41,"Tue, Dec 9",Florida,W 77-73,77,73,True
+2026,Connecticut,41,"Fri, Dec 12",Texas,W 71-63,71,63,True
+2026,Connecticut,41,"Tue, Dec 16",Butler,W 79-60,79,60,True
+2026,Connecticut,41,"Sun, Dec 21",DePaul,W 72-54,72,54,True
+2026,Connecticut,41,"Wed, Dec 31",Xavier,W 90-67,90,67,True
+2026,Connecticut,41,"Sun, Jan 4",Marquette,W 73-57,73,57,True
+2026,Connecticut,41,"Sat, Jan 10",DePaul,W 72-60,72,60,True
+2026,Connecticut,41,"Tue, Jan 13",Seton Hall,W 69-64,69,64,True
+2026,Connecticut,41,"Sat, Jan 17",Georgetown,W 64-62,64,62,True
+2026,Connecticut,41,"Tue, Jan 27",Providence,W 87-81,87,81,True
+2026,Connecticut,41,"Sat, Jan 31",Creighton,W 85-58,85,58,True
+2026,Connecticut,41,"Tue, Feb 3",Xavier,W 92-60,92,60,True
+2026,Connecticut,41,"Fri, Feb 6",St John's,L 81-72,81,72,False
+2026,Connecticut,41,"Wed, Feb 11",Butler,W 80-70,80,70,True
+2026,Connecticut,41,"Sat, Feb 14",Georgetown,W 79-75,79,75,True
+2026,Connecticut,41,"Wed, Feb 18",Creighton,L 91-84,91,84,False
+2026,Connecticut,41,"Sat, Feb 21",Villanova,W 73-63,73,63,True
+2026,Connecticut,41,"Wed, Feb 25",St John's,W 72-40,72,40,True
+2026,Connecticut,41,"Sat, Feb 28",Seton Hall,W 71-67,71,67,True
+2026,Connecticut,41,"Sat, Mar 7",Marquette,L 68-62,68,62,False
+2026,Connecticut,41,"Thu, Mar 12",Xavier,W 93-68,93,68,True
+2026,Connecticut,41,"Fri, Mar 13",Georgetown,W 67-51,67,51,True
+2026,Connecticut,41,"Sat, Mar 14",St John's,L 72-52,72,52,False
+2026,Gonzaga,2250,"Mon, Nov 3",TX Southern,W 98-43,98,43,True
+2026,Gonzaga,2250,"Sat, Nov 8",Oklahoma,W 83-68,83,68,True
+2026,Gonzaga,2250,"Tue, Nov 11",Creighton,W 90-63,90,63,True
+2026,Gonzaga,2250,"Fri, Nov 14",Arizona St,W 77-65,77,65,True
+2026,Gonzaga,2250,"Mon, Nov 17",Southern Utah,W 122-50,122,50,True
+2026,Gonzaga,2250,"Mon, Nov 24",Alabama,W 95-85,95,85,True
+2026,Gonzaga,2250,"Tue, Nov 25",Maryland,W 100-61,100,61,True
+2026,Gonzaga,2250,"Wed, Nov 26",Michigan,L 101-61,101,61,False
+2026,Gonzaga,2250,"Fri, Dec 5",Kentucky,W 94-59,94,59,True
+2026,Gonzaga,2250,"Sun, Dec 7",North Florida,W 109-58,109,58,True
+2026,Gonzaga,2250,"Sat, Dec 13",UCLA,W 82-72,82,72,True
+2026,Gonzaga,2250,"Wed, Dec 17",Campbell,W 98-70,98,70,True
+2026,Gonzaga,2250,"Sun, Dec 21",Oregon,W 91-82,91,82,True
+2026,Gonzaga,2250,"Sun, Dec 28",Pepperdine,W 96-56,96,56,True
+2026,Gonzaga,2250,"Tue, Dec 30",San Diego,W 99-93,99,93,True
+2026,Gonzaga,2250,"Sun, Jan 4",Loy Marymount,W 82-47,82,47,True
+2026,Gonzaga,2250,"Thu, Jan 8",Santa Clara,W 89-77,89,77,True
+2026,Gonzaga,2250,"Thu, Jan 15",Washington St,W 86-65,86,65,True
+2026,Gonzaga,2250,"Sat, Jan 17",Seattle,W 71-50,71,50,True
+2026,Gonzaga,2250,"Wed, Jan 21",Pepperdine,W 84-60,84,60,True
+2026,Gonzaga,2250,"Sat, Jan 24",San Francisco,W 68-66,68,66,True
+2026,Gonzaga,2250,"Sat, Jan 31",St Mary's CA,W 73-65,73,65,True
+2026,Gonzaga,2250,"Wed, Feb 4",Portland,L 87-80,87,80,False
+2026,Gonzaga,2250,"Sat, Feb 7",Oregon St,W 81-61,81,61,True
+2026,Gonzaga,2250,"Tue, Feb 10",Washington St,W 83-53,83,53,True
+2026,Gonzaga,2250,"Sat, Feb 14",Santa Clara,W 94-86,94,86,True
+2026,Gonzaga,2250,"Wed, Feb 18",San Francisco,W 80-59,80,59,True
+2026,Gonzaga,2250,"Sat, Feb 21",Pacific,W 71-62,71,62,True
+2026,Gonzaga,2250,"Wed, Feb 25",Portland,W 89-48,89,48,True
+2026,Gonzaga,2250,"Sat, Feb 28",St Mary's CA,L 70-59,70,59,False
+2026,Gonzaga,2250,"Mon, Mar 9",Oregon St,W 65-56,65,56,True
+2026,Gonzaga,2250,"Tue, Mar 10",Santa Clara,W 79-68,79,68,True
+2026,Kansas,2305,"Mon, Nov 3",WI Green Bay,W 94-51,94,51,True
+2026,Kansas,2305,"Fri, Nov 7",North Carolina,L 87-74,87,74,False
+2026,Kansas,2305,"Tue, Nov 11",TAM C. Christi,W 77-46,77,46,True
+2026,Kansas,2305,"Sat, Nov 15",Princeton,W 76-57,76,57,True
+2026,Kansas,2305,"Tue, Nov 18",Duke,L 78-66,78,66,False
+2026,Kansas,2305,"Mon, Nov 24",Notre Dame,W 71-61,71,61,True
+2026,Kansas,2305,"Tue, Nov 25",Syracuse,W 71-60,71,60,True
+2026,Kansas,2305,"Wed, Nov 26",Tennessee,W 81-76,81,76,True
+2026,Kansas,2305,"Tue, Dec 2",Connecticut,L 61-56,61,56,False
+2026,Kansas,2305,"Sun, Dec 7",Missouri,W 80-60,80,60,True
+2026,Kansas,2305,"Tue, Dec 16",Towson,W 73-49,73,49,True
+2026,Kansas,2305,"Mon, Dec 22",Davidson,W 90-61,90,61,True
+2026,Kansas,2305,"Sat, Jan 3",UCF,L 81-75,81,75,False
+2026,Kansas,2305,"Sat, Jan 10",West Virginia,L 86-75,86,75,False
+2026,Kansas,2305,"Tue, Jan 13",Iowa St,W 84-63,84,63,True
+2026,Kansas,2305,"Fri, Jan 16",Baylor,W 80-62,80,62,True
+2026,Kansas,2305,"Tue, Jan 20",Colorado,W 75-69,75,69,True
+2026,Kansas,2305,"Sat, Jan 24",Kansas St,W 86-62,86,62,True
+2026,Kansas,2305,"Sat, Jan 31",BYU,W 90-82,90,82,True
+2026,Kansas,2305,"Mon, Feb 2",Texas Tech,W 64-61,64,61,True
+2026,Kansas,2305,"Sat, Feb 7",Utah,W 71-59,71,59,True
+2026,Kansas,2305,"Mon, Feb 9",Arizona,W 82-78,82,78,True
+2026,Kansas,2305,"Sat, Feb 14",Iowa St,L 74-56,74,56,False
+2026,Kansas,2305,"Wed, Feb 18",Oklahoma St,W 81-69,81,69,True
+2026,Kansas,2305,"Sat, Feb 21",Cincinnati,L 84-68,84,68,False
+2026,Kansas,2305,"Mon, Feb 23",Houston,W 69-56,69,56,True
+2026,Kansas,2305,"Sat, Feb 28",Arizona,L 84-61,84,61,False
+2026,Kansas,2305,"Tue, Mar 3",Arizona St,L 70-60,70,60,False
+2026,Kansas,2305,"Sat, Mar 7",Kansas St,W 104-85,104,85,True
+2026,Kansas,2305,"Thu, Mar 12",TCU,W 78-73,78,73,True
+2026,Kansas,2305,"Fri, Mar 13",Houston,L 69-47,69,47,False
+2026,Iowa St,66,"Mon, Nov 3",F Dickinson,W 88-50,88,50,True
+2026,Iowa St,66,"Thu, Nov 6",Grambling,W 102-62,102,62,True
+2026,Iowa St,66,"Mon, Nov 10",Mississippi St,W 96-80,96,80,True
+2026,Iowa St,66,"Mon, Nov 17",Stonehill,W 96-57,96,57,True
+2026,Iowa St,66,"Mon, Nov 24",St John's,W 83-82,83,82,True
+2026,Iowa St,66,"Tue, Nov 25",Creighton,W 78-60,78,60,True
+2026,Iowa St,66,"Wed, Nov 26",Syracuse,W 95-64,95,64,True
+2026,Iowa St,66,"Wed, Dec 3",Alcorn St,W 132-68,132,68,True
+2026,Iowa St,66,"Sat, Dec 6",Purdue,W 81-58,81,58,True
+2026,Iowa St,66,"Thu, Dec 11",Iowa,W 66-62,66,62,True
+2026,Iowa St,66,"Sun, Dec 14",E Illinois,W 78-53,78,53,True
+2026,Iowa St,66,"Sun, Dec 21",Long Beach St,W 91-60,91,60,True
+2026,Iowa St,66,"Mon, Dec 29",Houston Chr,W 89-61,89,61,True
+2026,Iowa St,66,"Fri, Jan 2",West Virginia,W 80-59,80,59,True
+2026,Iowa St,66,"Wed, Jan 7",Baylor,W 70-60,70,60,True
+2026,Iowa St,66,"Sat, Jan 10",Oklahoma St,W 83-71,83,71,True
+2026,Iowa St,66,"Tue, Jan 13",Kansas,L 84-63,84,63,False
+2026,Iowa St,66,"Sat, Jan 17",Cincinnati,L 79-70,79,70,False
+2026,Iowa St,66,"Tue, Jan 20",UCF,W 87-57,87,57,True
+2026,Iowa St,66,"Sat, Jan 24",Oklahoma St,W 84-71,84,71,True
+2026,Iowa St,66,"Thu, Jan 29",Colorado,W 97-67,97,67,True
+2026,Iowa St,66,"Sun, Feb 1",Kansas St,W 95-61,95,61,True
+2026,Iowa St,66,"Sat, Feb 7",Baylor,W 72-69,72,69,True
+2026,Iowa St,66,"Tue, Feb 10",TCU,L 62-55,62,55,False
+2026,Iowa St,66,"Sat, Feb 14",Kansas,W 74-56,74,56,True
+2026,Iowa St,66,"Mon, Feb 16",Houston,W 70-67,70,67,True
+2026,Iowa St,66,"Sat, Feb 21",BYU,L 79-69,79,69,False
+2026,Iowa St,66,"Tue, Feb 24",Utah,W 75-59,75,59,True
+2026,Iowa St,66,"Sat, Feb 28",Texas Tech,L 82-73,82,73,False
+2026,Iowa St,66,"Mon, Mar 2",Arizona,L 73-57,73,57,False
+2026,Iowa St,66,"Sat, Mar 7",Arizona St,W 86-65,86,65,True
+2026,Iowa St,66,"Wed, Mar 11",Arizona St,W 91-42,91,42,True
+2026,Iowa St,66,"Thu, Mar 12",Texas Tech,W 75-53,75,53,True
+2026,Iowa St,66,"Fri, Mar 13",Arizona,L 82-80,82,80,False
+2026,Michigan St,127,"Mon, Nov 3",Colgate,W 80-69,80,69,True
+2026,Michigan St,127,"Sat, Nov 8",Arkansas,W 69-66,69,66,True
+2026,Michigan St,127,"Thu, Nov 13",San Jose St,W 79-60,79,60,True
+2026,Michigan St,127,"Tue, Nov 18",Kentucky,W 83-66,83,66,True
+2026,Michigan St,127,"Fri, Nov 21",Detroit,W 84-56,84,56,True
+2026,Michigan St,127,"Tue, Nov 25",East Carolina,W 89-56,89,56,True
+2026,Michigan St,127,"Thu, Nov 27",North Carolina,W 74-58,74,58,True
+2026,Michigan St,127,"Tue, Dec 2",Iowa,W 71-52,71,52,True
+2026,Michigan St,127,"Sat, Dec 6",Duke,L 66-60,66,60,False
+2026,Michigan St,127,"Sat, Dec 13",Penn St,W 76-72,76,72,True
+2026,Michigan St,127,"Tue, Dec 16",Toledo,W 92-69,92,69,True
+2026,Michigan St,127,"Sat, Dec 20",Oakland,W 79-70,79,70,True
+2026,Michigan St,127,"Mon, Dec 29",Cornell,W 114-97,114,97,True
+2026,Michigan St,127,"Fri, Jan 2",Nebraska,L 58-56,58,56,False
+2026,Michigan St,127,"Mon, Jan 5",USC,W 80-51,80,51,True
+2026,Michigan St,127,"Thu, Jan 8",Northwestern,W 76-66,76,66,True
+2026,Michigan St,127,"Tue, Jan 13",Indiana,W 81-60,81,60,True
+2026,Michigan St,127,"Sat, Jan 17",Washington,W 80-63,80,63,True
+2026,Michigan St,127,"Tue, Jan 20",Oregon,W 68-52,68,52,True
+2026,Michigan St,127,"Sat, Jan 24",Maryland,W 91-48,91,48,True
+2026,Michigan St,127,"Fri, Jan 30",Michigan,L 83-71,83,71,False
+2026,Michigan St,127,"Wed, Feb 4",Minnesota,L 76-73,76,73,False
+2026,Michigan St,127,"Fri, Feb 13",Wisconsin,L 92-71,92,71,False
+2026,Michigan St,127,"Tue, Feb 17",UCLA,W 82-59,82,59,True
+2026,Michigan St,127,"Sun, Feb 22",Ohio St,W 66-60,66,60,True
+2026,Michigan St,127,"Thu, Feb 26",Purdue,W 76-74,76,74,True
+2026,Michigan St,127,"Sun, Mar 1",Indiana,W 77-64,77,64,True
+2026,Michigan St,127,"Thu, Mar 5",Rutgers,W 91-87,91,87,True
+2026,Michigan St,127,"Sun, Mar 8",Michigan,L 90-80,90,80,False
+2026,Michigan St,127,"Fri, Mar 13",UCLA,L 88-84,88,84,False
+2026,Illinois,356,"Mon, Nov 3",Jackson St,W 113-55,113,55,True
+2026,Illinois,356,"Fri, Nov 7",FGCU,W 113-70,113,70,True
+2026,Illinois,356,"Tue, Nov 11",Texas Tech,W 81-77,81,77,True
+2026,Illinois,356,"Fri, Nov 14",Colgate,W 84-65,84,65,True
+2026,Illinois,356,"Wed, Nov 19",Alabama,L 90-86,90,86,False
+2026,Illinois,356,"Sat, Nov 22",LIU Brooklyn,W 98-58,98,58,True
+2026,Illinois,356,"Mon, Nov 24",UTRGV,W 87-73,87,73,True
+2026,Illinois,356,"Fri, Nov 28",Connecticut,L 74-61,74,61,False
+2026,Illinois,356,"Sat, Dec 6",Tennessee,W 75-62,75,62,True
+2026,Illinois,356,"Tue, Dec 9",Ohio St,W 88-80,88,80,True
+2026,Illinois,356,"Sat, Dec 13",Nebraska,L 83-80,83,80,False
+2026,Illinois,356,"Mon, Dec 22",Missouri,W 91-48,91,48,True
+2026,Illinois,356,"Mon, Dec 29",Southern Univ,W 90-55,90,55,True
+2026,Illinois,356,"Sat, Jan 3",Penn St,W 73-65,73,65,True
+2026,Illinois,356,"Thu, Jan 8",Rutgers,W 81-55,81,55,True
+2026,Illinois,356,"Sun, Jan 11",Iowa,W 75-69,75,69,True
+2026,Illinois,356,"Wed, Jan 14",Northwestern,W 79-68,79,68,True
+2026,Illinois,356,"Sat, Jan 17",Minnesota,W 77-67,77,67,True
+2026,Illinois,356,"Wed, Jan 21",Maryland,W 89-70,89,70,True
+2026,Illinois,356,"Sat, Jan 24",Purdue,W 88-82,88,82,True
+2026,Illinois,356,"Thu, Jan 29",Washington,W 75-66,75,66,True
+2026,Illinois,356,"Sun, Feb 1",Nebraska,W 78-69,78,69,True
+2026,Illinois,356,"Wed, Feb 4",Northwestern,W 84-44,84,44,True
+2026,Illinois,356,"Sun, Feb 15",Indiana,W 71-51,71,51,True
+2026,Illinois,356,"Wed, Feb 18",USC,W 101-65,101,65,True
+2026,Illinois,356,"Fri, Feb 27",Michigan,L 84-70,84,70,False
+2026,Illinois,356,"Tue, Mar 3",Oregon,W 80-54,80,54,True
+2026,Illinois,356,"Sun, Mar 8",Maryland,W 78-72,78,72,True
+2026,Virginia,258,"Mon, Nov 3",Rider,W 87-53,87,53,True
+2026,Virginia,258,"Fri, Nov 7",NC Central,W 81-62,81,62,True
+2026,Virginia,258,"Tue, Nov 11",Hampton,W 91-53,91,53,True
+2026,Virginia,258,"Sat, Nov 15",Marshall,W 104-78,104,78,True
+2026,Virginia,258,"Fri, Nov 21",Northwestern,W 83-78,83,78,True
+2026,Virginia,258,"Sun, Nov 23",Butler,L 80-73,80,73,False
+2026,Virginia,258,"Fri, Nov 28",Queens NC,W 94-69,94,69,True
+2026,Virginia,258,"Wed, Dec 3",Texas,W 88-69,88,69,True
+2026,Virginia,258,"Sat, Dec 6",Dayton,W 86-73,86,73,True
+2026,Virginia,258,"Tue, Dec 9",MD E Shore,W 84-60,84,60,True
+2026,Virginia,258,"Sat, Dec 20",Maryland,W 80-72,80,72,True
+2026,Virginia,258,"Mon, Dec 22",American Univ,W 95-51,95,51,True
+2026,Virginia,258,"Sat, Jan 3",NC State,W 76-61,76,61,True
+2026,Virginia,258,"Wed, Jan 7",California,W 84-60,84,60,True
+2026,Virginia,258,"Sat, Jan 10",Stanford,W 70-55,70,55,True
+2026,Virginia,258,"Tue, Jan 13",Louisville,W 79-70,79,70,True
+2026,Virginia,258,"Sat, Jan 17",SMU,W 72-68,72,68,True
+2026,Virginia,258,"Sat, Jan 24",North Carolina,L 85-80,85,80,False
+2026,Virginia,258,"Sat, Jan 31",Boston College,W 73-66,73,66,True
+2026,Virginia,258,"Tue, Feb 3",Pittsburgh,W 67-47,67,47,True
+2026,Virginia,258,"Sat, Feb 7",Syracuse,W 72-59,72,59,True
+2026,Virginia,258,"Tue, Feb 10",Florida St,W 61-58,61,58,True
+2026,Virginia,258,"Sat, Feb 14",Ohio St,W 70-66,70,66,True
+2026,Virginia,258,"Wed, Feb 18",Georgia Tech,W 94-68,94,68,True
+2026,Virginia,258,"Sat, Feb 21",Miami FL,W 86-83,86,83,True
+2026,Virginia,258,"Tue, Feb 24",NC State,W 90-61,90,61,True
+2026,Virginia,258,"Sat, Feb 28",Duke,L 77-51,77,51,False
+2026,Virginia,258,"Tue, Mar 3",Wake Forest,W 75-70,75,70,True
+2026,Virginia,258,"Sat, Mar 7",Virginia Tech,W 76-72,76,72,True
+2026,Virginia,258,"Thu, Mar 12",NC State,W 81-74,81,74,True
+2026,Virginia,258,"Fri, Mar 13",Miami FL,W 84-62,84,62,True
+2026,Virginia,258,"Sat, Mar 14",Duke,L 74-70,74,70,False
+2026,Alabama,333,"Mon, Nov 3",North Dakota,W 91-62,91,62,True
+2026,Alabama,333,"Sat, Nov 8",St John's,W 103-96,103,96,True
+2026,Alabama,333,"Thu, Nov 13",Purdue,L 87-80,87,80,False
+2026,Alabama,333,"Wed, Nov 19",Illinois,W 90-86,90,86,True
+2026,Alabama,333,"Mon, Nov 24",Gonzaga,L 95-85,95,85,False
+2026,Alabama,333,"Tue, Nov 25",UNLV,W 115-76,115,76,True
+2026,Alabama,333,"Wed, Nov 26",Maryland,W 105-72,105,72,True
+2026,Alabama,333,"Wed, Dec 3",Clemson,W 90-84,90,84,True
+2026,Alabama,333,"Sun, Dec 7",UT San Antonio,W 97-55,97,55,True
+2026,Alabama,333,"Sat, Dec 13",Arizona,L 96-75,96,75,False
+2026,Alabama,333,"Wed, Dec 17",South Florida,W 104-93,104,93,True
+2026,Alabama,333,"Sun, Dec 21",Kennesaw,W 92-81,92,81,True
+2026,Alabama,333,"Mon, Dec 29",Yale,W 102-78,102,78,True
+2026,Alabama,333,"Sat, Jan 3",Kentucky,W 89-74,89,74,True
+2026,Alabama,333,"Wed, Jan 7",Vanderbilt,L 96-90,96,90,False
+2026,Alabama,333,"Sat, Jan 10",Texas,L 92-88,92,88,False
+2026,Alabama,333,"Tue, Jan 13",Mississippi St,W 97-82,97,82,True
+2026,Alabama,333,"Sat, Jan 17",Oklahoma,W 83-81,83,81,True
+2026,Alabama,333,"Sat, Jan 24",Tennessee,L 79-73,79,73,False
+2026,Alabama,333,"Tue, Jan 27",Missouri,W 90-64,90,64,True
+2026,Alabama,333,"Sun, Feb 1",Florida,L 100-77,100,77,False
+2026,Alabama,333,"Wed, Feb 4",Texas A&M,W 100-97,100,97,True
+2026,Alabama,333,"Sat, Feb 7",Auburn,W 96-92,96,92,True
+2026,Alabama,333,"Wed, Feb 11",Mississippi,W 93-74,93,74,True
+2026,Alabama,333,"Sat, Feb 14",South Carolina,W 89-75,89,75,True
+2026,Alabama,333,"Sat, Feb 21",LSU,W 90-83,90,83,True
+2026,Alabama,333,"Wed, Feb 25",Mississippi St,W 100-75,100,75,True
+2026,Alabama,333,"Sat, Feb 28",Tennessee,W 71-69,71,69,True
+2026,Alabama,333,"Tue, Mar 3",Georgia,L 98-88,98,88,False
+2026,Alabama,333,"Sat, Mar 7",Auburn,W 96-84,96,84,True
+2026,Alabama,333,"Fri, Mar 13",Mississippi,L 80-79,80,79,False
+2026,Louisville,97,"Mon, Nov 3",S Carolina St,W 104-45,104,45,True
+2026,Louisville,97,"Thu, Nov 6",Jackson St,W 106-70,106,70,True
+2026,Louisville,97,"Tue, Nov 11",Kentucky,W 96-88,96,88,True
+2026,Louisville,97,"Sat, Nov 15",Ohio,W 106-81,106,81,True
+2026,Louisville,97,"Fri, Nov 21",Cincinnati,W 74-64,74,64,True
+2026,Louisville,97,"Mon, Nov 24",E Michigan,W 87-46,87,46,True
+2026,Louisville,97,"Wed, Nov 26",NJIT,W 104-47,104,47,True
+2026,Louisville,97,"Wed, Dec 3",Arkansas,L 89-80,89,80,False
+2026,Louisville,97,"Sat, Dec 6",Indiana,W 87-78,87,78,True
+2026,Louisville,97,"Sat, Dec 13",Memphis,W 99-73,99,73,True
+2026,Louisville,97,"Tue, Dec 16",Tennessee,L 83-62,83,62,False
+2026,Louisville,97,"Sat, Dec 20",Montana,W 94-54,94,54,True
+2026,Louisville,97,"Tue, Dec 30",California,W 90-70,90,70,True
+2026,Louisville,97,"Fri, Jan 2",Stanford,L 80-76,80,76,False
+2026,Louisville,97,"Tue, Jan 6",Duke,L 84-73,84,73,False
+2026,Louisville,97,"Sat, Jan 10",Boston College,W 75-62,75,62,True
+2026,Louisville,97,"Tue, Jan 13",Virginia,L 79-70,79,70,False
+2026,Louisville,97,"Sat, Jan 17",Pittsburgh,W 100-59,100,59,True
+2026,Louisville,97,"Sat, Jan 24",Virginia Tech,W 85-71,85,71,True
+2026,Louisville,97,"Mon, Jan 26",Duke,L 83-52,83,52,False
+2026,Louisville,97,"Sat, Jan 31",SMU,W 88-74,88,74,True
+2026,Louisville,97,"Wed, Feb 4",Notre Dame,W 76-65,76,65,True
+2026,Louisville,97,"Sat, Feb 7",Wake Forest,W 88-80,88,80,True
+2026,Louisville,97,"Mon, Feb 9",NC State,W 118-77,118,77,True
+2026,Louisville,97,"Sat, Feb 14",Baylor,W 82-71,82,71,True
+2026,Louisville,97,"Tue, Feb 17",SMU,L 95-85,95,85,False
+2026,Louisville,97,"Sat, Feb 21",Georgia Tech,W 87-70,87,70,True
+2026,Louisville,97,"Mon, Feb 23",North Carolina,L 77-74,77,74,False
+2026,Louisville,97,"Sat, Feb 28",Clemson,L 80-75,80,75,False
+2026,Louisville,97,"Tue, Mar 3",Syracuse,W 77-62,77,62,True
+2026,Louisville,97,"Sat, Mar 7",Miami FL,W 92-89,92,89,True
+2026,Louisville,97,"Wed, Mar 11",SMU,W 62-58,62,58,True
+2026,Louisville,97,"Thu, Mar 12",Miami FL,L 78-73,78,73,False
+2026,Kentucky,96,"Tue, Nov 4",Nicholls St,W 77-51,77,51,True
+2026,Kentucky,96,"Fri, Nov 7",Valparaiso,W 107-59,107,59,True
+2026,Kentucky,96,"Tue, Nov 11",Louisville,L 96-88,96,88,False
+2026,Kentucky,96,"Fri, Nov 14",E Illinois,W 99-53,99,53,True
+2026,Kentucky,96,"Tue, Nov 18",Michigan St,L 83-66,83,66,False
+2026,Kentucky,96,"Fri, Nov 21",Loyola MD,W 88-46,88,46,True
+2026,Kentucky,96,"Wed, Nov 26",Tennessee Tech,W 104-54,104,54,True
+2026,Kentucky,96,"Tue, Dec 2",North Carolina,L 67-64,67,64,False
+2026,Kentucky,96,"Fri, Dec 5",Gonzaga,L 94-59,94,59,False
+2026,Kentucky,96,"Tue, Dec 9",NC Central,W 103-67,103,67,True
+2026,Kentucky,96,"Sat, Dec 13",Indiana,W 72-60,72,60,True
+2026,Kentucky,96,"Sat, Dec 20",St John's,W 78-66,78,66,True
+2026,Kentucky,96,"Tue, Dec 23",Bellarmine,W 99-85,99,85,True
+2026,Kentucky,96,"Sat, Jan 3",Alabama,L 89-74,89,74,False
+2026,Kentucky,96,"Wed, Jan 7",Missouri,L 73-68,73,68,False
+2026,Kentucky,96,"Sat, Jan 10",Mississippi St,W 92-68,92,68,True
+2026,Kentucky,96,"Wed, Jan 14",LSU,W 75-74,75,74,True
+2026,Kentucky,96,"Sat, Jan 17",Tennessee,W 80-78,80,78,True
+2026,Kentucky,96,"Wed, Jan 21",Texas,W 85-80,85,80,True
+2026,Kentucky,96,"Sat, Jan 24",Mississippi,W 72-63,72,63,True
+2026,Kentucky,96,"Tue, Jan 27",Vanderbilt,L 80-55,80,55,False
+2026,Kentucky,96,"Sat, Jan 31",Arkansas,W 85-77,85,77,True
+2026,Kentucky,96,"Wed, Feb 4",Oklahoma,W 94-78,94,78,True
+2026,Kentucky,96,"Sat, Feb 7",Tennessee,W 74-71,74,71,True
+2026,Kentucky,96,"Sat, Feb 14",Florida,L 92-83,92,83,False
+2026,Kentucky,96,"Tue, Feb 17",Georgia,L 86-78,86,78,False
+2026,Kentucky,96,"Sat, Feb 21",Auburn,L 75-74,75,74,False
+2026,Kentucky,96,"Tue, Feb 24",South Carolina,W 72-63,72,63,True
+2026,Kentucky,96,"Sat, Feb 28",Vanderbilt,W 91-77,91,77,True
+2026,Kentucky,96,"Tue, Mar 3",Texas A&M,L 96-85,96,85,False
+2026,Kentucky,96,"Sat, Mar 7",Florida,L 84-77,84,77,False
+2026,Kentucky,96,"Wed, Mar 11",LSU,W 87-82,87,82,True
+2026,Kentucky,96,"Thu, Mar 12",Missouri,W 78-72,78,72,True
+2026,Kentucky,96,"Fri, Mar 13",Florida,L 71-63,71,63,False
+2026,Texas Tech,2641,"Tue, Nov 4",Lindenwood,W 98-60,98,60,True
+2026,Texas Tech,2641,"Fri, Nov 7",Sam Houston St,W 98-77,98,77,True
+2026,Texas Tech,2641,"Tue, Nov 11",Illinois,L 81-77,81,77,False
+2026,Texas Tech,2641,"Fri, Nov 14",WI Milwaukee,W 80-63,80,63,True
+2026,Texas Tech,2641,"Thu, Nov 20",Wake Forest,W 84-83,84,83,True
+2026,Texas Tech,2641,"Fri, Nov 21",Purdue,L 86-56,86,56,False
+2026,Texas Tech,2641,"Wed, Nov 26",New Orleans,W 82-50,82,50,True
+2026,Texas Tech,2641,"Sun, Nov 30",Wyoming,W 76-72,76,72,True
+2026,Texas Tech,2641,"Sun, Dec 7",LSU,W 82-58,82,58,True
+2026,Texas Tech,2641,"Sat, Dec 13",Arkansas,L 93-86,93,86,False
+2026,Texas Tech,2641,"Tue, Dec 16",N Colorado,W 101-90,101,90,True
+2026,Texas Tech,2641,"Sat, Dec 20",Duke,W 82-81,82,81,True
+2026,Texas Tech,2641,"Sun, Dec 28",Winthrop,W 87-57,87,57,True
+2026,Texas Tech,2641,"Sat, Jan 3",Oklahoma St,W 102-80,102,80,True
+2026,Texas Tech,2641,"Tue, Jan 6",Houston,L 69-65,69,65,False
+2026,Texas Tech,2641,"Sat, Jan 10",Colorado,W 73-71,73,71,True
+2026,Texas Tech,2641,"Wed, Jan 14",Utah,W 88-74,88,74,True
+2026,Texas Tech,2641,"Sat, Jan 17",BYU,W 84-71,84,71,True
+2026,Texas Tech,2641,"Tue, Jan 20",Baylor,W 92-73,92,73,True
+2026,Texas Tech,2641,"Sat, Jan 24",Houston,W 90-86,90,86,True
+2026,Texas Tech,2641,"Sat, Jan 31",UCF,L 88-80,88,80,False
+2026,Texas Tech,2641,"Mon, Feb 2",Kansas,L 64-61,64,61,False
+2026,Texas Tech,2641,"Sun, Feb 8",West Virginia,W 70-63,70,63,True
+2026,Texas Tech,2641,"Wed, Feb 11",Colorado,W 78-44,78,44,True
+2026,Texas Tech,2641,"Tue, Feb 17",Arizona St,L 72-67,72,67,False
+2026,Texas Tech,2641,"Sat, Feb 21",Kansas St,W 100-72,100,72,True
+2026,Texas Tech,2641,"Tue, Feb 24",Cincinnati,W 80-68,80,68,True
+2026,Texas Tech,2641,"Sat, Feb 28",Iowa St,W 82-73,82,73,True
+2026,Texas Tech,2641,"Tue, Mar 3",TCU,L 73-65,73,65,False
+2026,Texas Tech,2641,"Sat, Mar 7",BYU,L 82-76,82,76,False
+2026,Texas Tech,2641,"Thu, Mar 12",Iowa St,L 75-53,75,53,False
+2026,Wisconsin,275,"Mon, Nov 3",Campbell,W 96-64,96,64,True
+2026,Wisconsin,275,"Fri, Nov 7",N Illinois,W 97-72,97,72,True
+2026,Wisconsin,275,"Tue, Nov 11",Ball St,W 86-55,86,55,True
+2026,Wisconsin,275,"Mon, Nov 17",SIUE,W 94-69,94,69,True
+2026,Wisconsin,275,"Fri, Nov 21",BYU,L 98-70,98,70,False
+2026,Wisconsin,275,"Thu, Nov 27",Providence,W 104-83,104,83,True
+2026,Wisconsin,275,"Fri, Nov 28",TCU,L 74-63,74,63,False
+2026,Wisconsin,275,"Wed, Dec 3",Northwestern,W 85-73,85,73,True
+2026,Wisconsin,275,"Sat, Dec 6",Marquette,W 96-76,96,76,True
+2026,Wisconsin,275,"Wed, Dec 10",Nebraska,L 90-60,90,60,False
+2026,Wisconsin,275,"Mon, Dec 22",C Michigan,W 88-61,88,61,True
+2026,Wisconsin,275,"Tue, Dec 30",WI Milwaukee,W 80-60,80,60,True
+2026,Wisconsin,275,"Sat, Jan 3",Purdue,L 89-73,89,73,False
+2026,Wisconsin,275,"Tue, Jan 6",UCLA,W 80-72,80,72,True
+2026,Wisconsin,275,"Sat, Jan 10",Michigan,W 91-88,91,88,True
+2026,Wisconsin,275,"Tue, Jan 13",Minnesota,W 78-75,78,75,True
+2026,Wisconsin,275,"Sat, Jan 17",Rutgers,W 96-87,96,87,True
+2026,Wisconsin,275,"Thu, Jan 22",Penn St,W 98-71,98,71,True
+2026,Wisconsin,275,"Sun, Jan 25",USC,L 73-71,73,71,False
+2026,Wisconsin,275,"Wed, Jan 28",Minnesota,W 67-63,67,63,True
+2026,Wisconsin,275,"Sat, Jan 31",Ohio St,W 92-82,92,82,True
+2026,Wisconsin,275,"Fri, Feb 13",Michigan St,W 92-71,92,71,True
+2026,Wisconsin,275,"Tue, Feb 17",Ohio St,L 86-69,86,69,False
+2026,Wisconsin,275,"Sun, Feb 22",Iowa,W 84-71,84,71,True
+2026,Wisconsin,275,"Wed, Feb 25",Oregon,L 85-71,85,71,False
+2026,Wisconsin,275,"Sat, Feb 28",Washington,W 90-73,90,73,True
+2026,Wisconsin,275,"Wed, Mar 4",Maryland,W 78-45,78,45,True
+2026,Wisconsin,275,"Sat, Mar 7",Purdue,W 97-93,97,93,True
+2026,Wisconsin,275,"Thu, Mar 12",Washington,W 85-82,85,82,True
+2026,Wisconsin,275,"Sat, Mar 14",Michigan,L 68-65,68,65,False
+2026,Tennessee,2633,"Mon, Nov 3",Mercer,W 76-61,76,61,True
+2026,Tennessee,2633,"Sat, Nov 8",N Kentucky,W 95-56,95,56,True
+2026,Tennessee,2633,"Wed, Nov 12",North Florida,W 99-66,99,66,True
+2026,Tennessee,2633,"Mon, Nov 17",Rice,W 91-66,91,66,True
+2026,Tennessee,2633,"Thu, Nov 20",Tennessee St,W 89-60,89,60,True
+2026,Tennessee,2633,"Mon, Nov 24",Rutgers,W 85-60,85,60,True
+2026,Tennessee,2633,"Tue, Nov 25",Houston,W 76-73,76,73,True
+2026,Tennessee,2633,"Wed, Nov 26",Kansas,L 81-76,81,76,False
+2026,Tennessee,2633,"Tue, Dec 2",Syracuse,L 62-60,62,60,False
+2026,Tennessee,2633,"Sat, Dec 6",Illinois,L 75-62,75,62,False
+2026,Tennessee,2633,"Tue, Dec 16",Louisville,W 83-62,83,62,True
+2026,Tennessee,2633,"Sun, Dec 21",Gardner Webb,W 94-52,94,52,True
+2026,Tennessee,2633,"Tue, Dec 30",S Carolina St,W 105-54,105,54,True
+2026,Tennessee,2633,"Sat, Jan 3",Arkansas,L 86-75,86,75,False
+2026,Tennessee,2633,"Tue, Jan 6",Texas,W 85-71,85,71,True
+2026,Tennessee,2633,"Sat, Jan 10",Florida,L 91-67,91,67,False
+2026,Tennessee,2633,"Sat, Jan 17",Kentucky,L 80-78,80,78,False
+2026,Tennessee,2633,"Sat, Jan 24",Alabama,W 79-73,79,73,True
+2026,Tennessee,2633,"Sat, Jan 31",Auburn,W 77-69,77,69,True
+2026,Tennessee,2633,"Tue, Feb 3",Mississippi,W 84-66,84,66,True
+2026,Tennessee,2633,"Sat, Feb 7",Kentucky,L 74-71,74,71,False
+2026,Tennessee,2633,"Wed, Feb 11",Mississippi St,W 73-64,73,64,True
+2026,Tennessee,2633,"Sat, Feb 14",LSU,W 73-63,73,63,True
+2026,Tennessee,2633,"Wed, Feb 18",Oklahoma,W 89-66,89,66,True
+2026,Tennessee,2633,"Sat, Feb 21",Vanderbilt,W 69-65,69,65,True
+2026,Tennessee,2633,"Tue, Feb 24",Missouri,L 73-69,73,69,False
+2026,Tennessee,2633,"Sat, Feb 28",Alabama,L 71-69,71,69,False
+2026,Tennessee,2633,"Tue, Mar 3",South Carolina,W 78-59,78,59,True
+2026,Tennessee,2633,"Sat, Mar 7",Vanderbilt,L 86-82,86,82,False
+2026,Tennessee,2633,"Thu, Mar 12",Auburn,W 72-62,72,62,True
+2026,Tennessee,2633,"Fri, Mar 13",Vanderbilt,L 75-68,75,68,False
+2026,Arkansas,8,"Mon, Nov 3",Southern Univ,W 109-77,109,77,True
+2026,Arkansas,8,"Sat, Nov 8",Michigan St,L 69-66,69,66,False
+2026,Arkansas,8,"Tue, Nov 11",Cent Arkansas,W 93-56,93,56,True
+2026,Arkansas,8,"Fri, Nov 14",Samford,W 79-75,79,75,True
+2026,Arkansas,8,"Tue, Nov 18",Winthrop,W 84-83,84,83,True
+2026,Arkansas,8,"Fri, Nov 21",Jackson St,W 115-61,115,61,True
+2026,Arkansas,8,"Thu, Nov 27",Duke,L 80-71,80,71,False
+2026,Arkansas,8,"Wed, Dec 3",Louisville,W 89-80,89,80,True
+2026,Arkansas,8,"Sat, Dec 6",Fresno St,W 82-58,82,58,True
+2026,Arkansas,8,"Sat, Dec 13",Texas Tech,W 93-86,93,86,True
+2026,Arkansas,8,"Tue, Dec 16",Queens NC,W 108-80,108,80,True
+2026,Arkansas,8,"Sat, Dec 20",Houston,L 94-85,94,85,False
+2026,Arkansas,8,"Mon, Dec 29",James Madison,W 103-74,103,74,True
+2026,Arkansas,8,"Sat, Jan 3",Tennessee,W 86-75,86,75,True
+2026,Arkansas,8,"Wed, Jan 7",Mississippi,W 94-87,94,87,True
+2026,Arkansas,8,"Sat, Jan 10",Auburn,L 95-73,95,73,False
+2026,Arkansas,8,"Wed, Jan 14",South Carolina,W 108-74,108,74,True
+2026,Arkansas,8,"Sat, Jan 17",Georgia,L 90-76,90,76,False
+2026,Arkansas,8,"Tue, Jan 20",Vanderbilt,W 93-68,93,68,True
+2026,Arkansas,8,"Sat, Jan 24",LSU,W 85-81,85,81,True
+2026,Arkansas,8,"Tue, Jan 27",Oklahoma,W 83-79,83,79,True
+2026,Arkansas,8,"Sat, Jan 31",Kentucky,L 85-77,85,77,False
+2026,Arkansas,8,"Sat, Feb 7",Mississippi St,W 88-68,88,68,True
+2026,Arkansas,8,"Tue, Feb 10",LSU,W 91-62,91,62,True
+2026,Arkansas,8,"Sat, Feb 14",Auburn,W 88-75,88,75,True
+2026,Arkansas,8,"Sat, Feb 21",Missouri,W 94-86,94,86,True
+2026,Arkansas,8,"Wed, Feb 25",Texas A&M,W 99-84,99,84,True
+2026,Arkansas,8,"Sat, Feb 28",Florida,L 111-77,111,77,False
+2026,Arkansas,8,"Wed, Mar 4",Texas,W 105-85,105,85,True
+2026,Arkansas,8,"Fri, Mar 13",Oklahoma,W 82-79,82,79,True
+2026,Arkansas,8,"Sun, Mar 15",Vanderbilt,W 86-75,86,75,True
+2026,North Carolina,153,"Mon, Nov 3",Cent Arkansas,W 94-54,94,54,True
+2026,North Carolina,153,"Fri, Nov 7",Kansas,W 87-74,87,74,True
+2026,North Carolina,153,"Tue, Nov 11",Radford,W 89-74,89,74,True
+2026,North Carolina,153,"Fri, Nov 14",NC Central,W 97-53,97,53,True
+2026,North Carolina,153,"Tue, Nov 18",Navy,W 73-61,73,61,True
+2026,North Carolina,153,"Tue, Nov 25",St Bonaventure,W 85-70,85,70,True
+2026,North Carolina,153,"Thu, Nov 27",Michigan St,L 74-58,74,58,False
+2026,North Carolina,153,"Tue, Dec 2",Kentucky,W 67-64,67,64,True
+2026,North Carolina,153,"Sun, Dec 7",Georgetown,W 81-61,81,61,True
+2026,North Carolina,153,"Sat, Dec 13",SC Upstate,W 80-62,80,62,True
+2026,North Carolina,153,"Tue, Dec 16",ETSU,W 77-58,77,58,True
+2026,North Carolina,153,"Sat, Dec 20",Ohio St,W 71-70,71,70,True
+2026,North Carolina,153,"Mon, Dec 22",East Carolina,W 99-51,99,51,True
+2026,North Carolina,153,"Tue, Dec 30",Florida St,W 79-66,79,66,True
+2026,North Carolina,153,"Sat, Jan 3",SMU,L 97-83,97,83,False
+2026,North Carolina,153,"Sat, Jan 10",Wake Forest,W 87-84,87,84,True
+2026,North Carolina,153,"Wed, Jan 14",Stanford,L 95-90,95,90,False
+2026,North Carolina,153,"Sat, Jan 17",California,L 84-78,84,78,False
+2026,North Carolina,153,"Wed, Jan 21",Notre Dame,W 91-69,91,69,True
+2026,North Carolina,153,"Sat, Jan 24",Virginia,W 85-80,85,80,True
+2026,North Carolina,153,"Sat, Jan 31",Georgia Tech,W 91-75,91,75,True
+2026,North Carolina,153,"Mon, Feb 2",Syracuse,W 87-77,87,77,True
+2026,North Carolina,153,"Sat, Feb 7",Duke,W 71-68,71,68,True
+2026,North Carolina,153,"Tue, Feb 10",Miami FL,L 75-66,75,66,False
+2026,North Carolina,153,"Sat, Feb 14",Pittsburgh,W 79-65,79,65,True
+2026,North Carolina,153,"Tue, Feb 17",NC State,L 82-58,82,58,False
+2026,North Carolina,153,"Sat, Feb 21",Syracuse,W 77-64,77,64,True
+2026,North Carolina,153,"Mon, Feb 23",Louisville,W 77-74,77,74,True
+2026,North Carolina,153,"Sat, Feb 28",Virginia Tech,W 89-82,89,82,True
+2026,North Carolina,153,"Tue, Mar 3",Clemson,W 67-63,67,63,True
+2026,North Carolina,153,"Sat, Mar 7",Duke,L 76-61,76,61,False
+2026,North Carolina,153,"Thu, Mar 12",Clemson,L 80-79,80,79,False
+2026,UCLA,26,"Mon, Nov 3",E Washington,W 80-74,80,74,True
+2026,UCLA,26,"Fri, Nov 7",Pepperdine,W 74-63,74,63,True
+2026,UCLA,26,"Mon, Nov 10",West Georgia,W 83-62,83,62,True
+2026,UCLA,26,"Fri, Nov 14",Arizona,L 69-65,69,65,False
+2026,UCLA,26,"Tue, Nov 18",CS Sacramento,W 79-48,79,48,True
+2026,UCLA,26,"Fri, Nov 21",Presbyterian,W 86-46,86,46,True
+2026,UCLA,26,"Tue, Nov 25",California,L 80-72,80,72,False
+2026,UCLA,26,"Wed, Dec 3",Washington,W 82-80,82,80,True
+2026,UCLA,26,"Sat, Dec 6",Oregon,W 74-63,74,63,True
+2026,UCLA,26,"Sat, Dec 13",Gonzaga,L 82-72,82,72,False
+2026,UCLA,26,"Wed, Dec 17",Arizona St,W 90-77,90,77,True
+2026,UCLA,26,"Fri, Dec 19",Cal Poly,W 108-87,108,87,True
+2026,UCLA,26,"Tue, Dec 23",UC Riverside,W 97-65,97,65,True
+2026,UCLA,26,"Sat, Jan 3",Iowa,L 74-61,74,61,False
+2026,UCLA,26,"Tue, Jan 6",Wisconsin,L 80-72,80,72,False
+2026,UCLA,26,"Sat, Jan 10",Maryland,W 67-55,67,55,True
+2026,UCLA,26,"Wed, Jan 14",Penn St,W 71-60,71,60,True
+2026,UCLA,26,"Sat, Jan 17",Ohio St,L 86-74,86,74,False
+2026,UCLA,26,"Tue, Jan 20",Purdue,W 69-67,69,67,True
+2026,UCLA,26,"Sat, Jan 24",Northwestern,W 71-64,71,64,True
+2026,UCLA,26,"Wed, Jan 28",Oregon,W 73-57,73,57,True
+2026,UCLA,26,"Tue, Feb 3",Rutgers,W 98-66,98,66,True
+2026,UCLA,26,"Sat, Feb 7",Washington,W 77-73,77,73,True
+2026,UCLA,26,"Sat, Feb 14",Michigan,L 86-56,86,56,False
+2026,UCLA,26,"Tue, Feb 17",Michigan St,L 82-59,82,59,False
+2026,UCLA,26,"Tue, Feb 24",USC,W 81-62,81,62,True
+2026,UCLA,26,"Sat, Feb 28",Minnesota,L 78-73,78,73,False
+2026,UCLA,26,"Tue, Mar 3",Nebraska,W 72-52,72,52,True
+2026,UCLA,26,"Sat, Mar 7",USC,W 89-68,89,68,True
+2026,UCLA,26,"Thu, Mar 12",Rutgers,W 72-59,72,59,True
+2026,UCLA,26,"Fri, Mar 13",Michigan St,W 88-84,88,84,True
+2026,UCLA,26,"Sat, Mar 14",Purdue,L 73-66,73,66,False
+2026,Ohio St,194,"Mon, Nov 3",IUPUI,W 118-102,118,102,True
+2026,Ohio St,194,"Fri, Nov 7",PFW,W 94-68,94,68,True
+2026,Ohio St,194,"Tue, Nov 11",Appalachian St,W 75-53,75,53,True
+2026,Ohio St,194,"Sun, Nov 16",Notre Dame,W 64-63,64,63,True
+2026,Ohio St,194,"Thu, Nov 20",W Michigan,W 91-58,91,58,True
+2026,Ohio St,194,"Tue, Nov 25",Mt St Mary's,W 113-60,113,60,True
+2026,Ohio St,194,"Fri, Nov 28",Pittsburgh,L 67-66,67,66,False
+2026,Ohio St,194,"Sat, Dec 6",Northwestern,W 86-82,86,82,True
+2026,Ohio St,194,"Tue, Dec 9",Illinois,L 88-80,88,80,False
+2026,Ohio St,194,"Sat, Dec 20",North Carolina,L 71-70,71,70,False
+2026,Ohio St,194,"Tue, Dec 23",Grambling,W 89-63,89,63,True
+2026,Ohio St,194,"Fri, Jan 2",Rutgers,W 80-73,80,73,True
+2026,Ohio St,194,"Mon, Jan 5",Nebraska,L 72-69,72,69,False
+2026,Ohio St,194,"Thu, Jan 8",Oregon,W 72-62,72,62,True
+2026,Ohio St,194,"Sun, Jan 11",Washington,L 81-74,81,74,False
+2026,Ohio St,194,"Sat, Jan 17",UCLA,W 86-74,86,74,True
+2026,Ohio St,194,"Fri, Jan 23",Michigan,L 74-62,74,62,False
+2026,Ohio St,194,"Mon, Jan 26",Penn St,W 84-78,84,78,True
+2026,Ohio St,194,"Sat, Jan 31",Wisconsin,L 92-82,92,82,False
+2026,Ohio St,194,"Thu, Feb 5",Maryland,W 82-62,82,62,True
+2026,Ohio St,194,"Sun, Feb 8",Michigan,L 82-61,82,61,False
+2026,Ohio St,194,"Wed, Feb 11",USC,W 89-82,89,82,True
+2026,Ohio St,194,"Sat, Feb 14",Virginia,L 70-66,70,66,False
+2026,Ohio St,194,"Tue, Feb 17",Wisconsin,W 86-69,86,69,True
+2026,Ohio St,194,"Sun, Feb 22",Michigan St,L 66-60,66,60,False
+2026,Ohio St,194,"Wed, Feb 25",Iowa,L 74-57,74,57,False
+2026,Ohio St,194,"Sun, Mar 1",Purdue,W 82-74,82,74,True
+2026,Ohio St,194,"Wed, Mar 4",Penn St,W 94-62,94,62,True
+2026,Ohio St,194,"Sat, Mar 7",Indiana,W 91-78,91,78,True
+2026,Ohio St,194,"Thu, Mar 12",Iowa,W 72-69,72,69,True
+2026,Ohio St,194,"Fri, Mar 13",Michigan,L 71-67,71,67,False
+2026,Villanova,222,"Mon, Nov 3",BYU,L 71-66,71,66,False
+2026,Villanova,222,"Sat, Nov 8",Queens NC,W 94-74,94,74,True
+2026,Villanova,222,"Tue, Nov 11",Sacred Heart,W 94-60,94,60,True
+2026,Villanova,222,"Sat, Nov 15",Duquesne,W 87-77,87,77,True
+2026,Villanova,222,"Wed, Nov 19",La Salle,W 70-55,70,55,True
+2026,Villanova,222,"Tue, Nov 25",Old Dominion,W 89-75,89,75,True
+2026,Villanova,222,"Mon, Dec 1",Temple,W 74-56,74,56,True
+2026,Villanova,222,"Sat, Dec 6",Penn,W 90-63,90,63,True
+2026,Villanova,222,"Tue, Dec 9",Michigan,L 89-61,89,61,False
+2026,Villanova,222,"Sat, Dec 13",Pittsburgh,W 79-61,79,61,True
+2026,Villanova,222,"Tue, Dec 23",Seton Hall,W 64-56,64,56,True
+2026,Villanova,222,"Wed, Dec 31",DePaul,W 71-66,71,66,True
+2026,Villanova,222,"Sat, Jan 3",Butler,W 85-67,85,67,True
+2026,Villanova,222,"Wed, Jan 7",Creighton,L 76-72,76,72,False
+2026,Villanova,222,"Sat, Jan 10",Marquette,W 76-73,76,73,True
+2026,Villanova,222,"Tue, Jan 13",Providence,W 88-82,88,82,True
+2026,Villanova,222,"Sat, Jan 17",St John's,L 86-79,86,79,False
+2026,Villanova,222,"Wed, Jan 21",Georgetown,W 66-51,66,51,True
+2026,Villanova,222,"Fri, Jan 30",Providence,W 87-73,87,73,True
+2026,Villanova,222,"Wed, Feb 4",Seton Hall,W 72-60,72,60,True
+2026,Villanova,222,"Sat, Feb 7",Georgetown,W 80-73,80,73,True
+2026,Villanova,222,"Tue, Feb 10",Marquette,W 77-74,77,74,True
+2026,Villanova,222,"Sat, Feb 14",Creighton,W 80-69,80,69,True
+2026,Villanova,222,"Sat, Feb 21",Connecticut,L 73-63,73,63,False
+2026,Villanova,222,"Wed, Feb 25",Butler,W 82-73,82,73,True
+2026,Villanova,222,"Sat, Feb 28",St John's,L 89-57,89,57,False
+2026,Villanova,222,"Wed, Mar 4",DePaul,W 76-57,76,57,True
+2026,Villanova,222,"Sat, Mar 7",Xavier,W 91-78,91,78,True
+2026,Villanova,222,"Thu, Mar 12",Georgetown,L 78-64,78,64,False
+2026,Vanderbilt,238,"Mon, Nov 3",Lipscomb,W 105-61,105,61,True
+2026,Vanderbilt,238,"Sat, Nov 8",UCF,W 105-93,105,93,True
+2026,Vanderbilt,238,"Wed, Nov 12",E Kentucky,W 92-62,92,62,True
+2026,Vanderbilt,238,"Sat, Nov 15",Ark Pine Bluff,W 104-75,104,75,True
+2026,Vanderbilt,238,"Thu, Nov 20",TX Southern,W 109-74,109,74,True
+2026,Vanderbilt,238,"Wed, Nov 26",WKU,W 83-78,83,78,True
+2026,Vanderbilt,238,"Thu, Nov 27",VCU,W 89-74,89,74,True
+2026,Vanderbilt,238,"Fri, Nov 28",St Mary's CA,W 96-71,96,71,True
+2026,Vanderbilt,238,"Wed, Dec 3",SMU,W 88-69,88,69,True
+2026,Vanderbilt,238,"Sat, Dec 13",Cent Arkansas,W 83-72,83,72,True
+2026,Vanderbilt,238,"Sun, Dec 21",Wake Forest,W 98-67,98,67,True
+2026,Vanderbilt,238,"Mon, Dec 29",New Haven,W 96-53,96,53,True
+2026,Vanderbilt,238,"Sat, Jan 3",South Carolina,W 83-71,83,71,True
+2026,Vanderbilt,238,"Wed, Jan 7",Alabama,W 96-90,96,90,True
+2026,Vanderbilt,238,"Sat, Jan 10",LSU,W 84-73,84,73,True
+2026,Vanderbilt,238,"Wed, Jan 14",Texas,L 80-64,80,64,False
+2026,Vanderbilt,238,"Sat, Jan 17",Florida,L 98-94,98,94,False
+2026,Vanderbilt,238,"Tue, Jan 20",Arkansas,L 93-68,93,68,False
+2026,Vanderbilt,238,"Sat, Jan 24",Mississippi St,W 88-56,88,56,True
+2026,Vanderbilt,238,"Tue, Jan 27",Kentucky,W 80-55,80,55,True
+2026,Vanderbilt,238,"Sat, Jan 31",Mississippi,W 71-68,71,68,True
+2026,Vanderbilt,238,"Sat, Feb 7",Oklahoma,L 92-91,92,91,False
+2026,Vanderbilt,238,"Tue, Feb 10",Auburn,W 84-76,84,76,True
+2026,Vanderbilt,238,"Sat, Feb 14",Texas A&M,W 82-69,82,69,True
+2026,Vanderbilt,238,"Wed, Feb 18",Missouri,L 81-80,81,80,False
+2026,Vanderbilt,238,"Sat, Feb 21",Tennessee,L 69-65,69,65,False
+2026,Vanderbilt,238,"Wed, Feb 25",Georgia,W 88-80,88,80,True
+2026,Vanderbilt,238,"Sat, Feb 28",Kentucky,L 91-77,91,77,False
+2026,Vanderbilt,238,"Sat, Mar 7",Tennessee,W 86-82,86,82,True
+2026,Vanderbilt,238,"Fri, Mar 13",Tennessee,W 75-68,75,68,True
+2026,Vanderbilt,238,"Sat, Mar 14",Florida,W 91-74,91,74,True
+2026,Vanderbilt,238,"Sun, Mar 15",Arkansas,L 86-75,86,75,False
+2026,St John's,2599,"Mon, Nov 3",Quinnipiac,W 108-74,108,74,True
+2026,St John's,2599,"Sat, Nov 8",Alabama,L 103-96,103,96,False
+2026,St John's,2599,"Sat, Nov 15",William & Mary,W 93-60,93,60,True
+2026,St John's,2599,"Thu, Nov 20",Bucknell,W 97-49,97,49,True
+2026,St John's,2599,"Mon, Nov 24",Iowa St,L 83-82,83,82,False
+2026,St John's,2599,"Tue, Nov 25",Baylor,W 96-81,96,81,True
+2026,St John's,2599,"Wed, Nov 26",Auburn,L 85-74,85,74,False
+2026,St John's,2599,"Sat, Dec 6",Mississippi,W 63-58,63,58,True
+2026,St John's,2599,"Sat, Dec 13",Iona,W 91-64,91,64,True
+2026,St John's,2599,"Tue, Dec 16",DePaul,W 79-66,79,66,True
+2026,St John's,2599,"Sat, Dec 20",Kentucky,L 78-66,78,66,False
+2026,St John's,2599,"Tue, Dec 23",Harvard,W 85-59,85,59,True
+2026,St John's,2599,"Wed, Dec 31",Georgetown,W 95-83,95,83,True
+2026,St John's,2599,"Sat, Jan 3",Providence,L 77-71,77,71,False
+2026,St John's,2599,"Tue, Jan 6",Butler,W 84-70,84,70,True
+2026,St John's,2599,"Sat, Jan 10",Creighton,W 90-73,90,73,True
+2026,St John's,2599,"Tue, Jan 13",Marquette,W 92-68,92,68,True
+2026,St John's,2599,"Sat, Jan 17",Villanova,W 86-79,86,79,True
+2026,St John's,2599,"Tue, Jan 20",Seton Hall,W 65-60,65,60,True
+2026,St John's,2599,"Sat, Jan 24",Xavier,W 88-83,88,83,True
+2026,St John's,2599,"Wed, Jan 28",Butler,W 92-70,92,70,True
+2026,St John's,2599,"Tue, Feb 3",DePaul,W 68-56,68,56,True
+2026,St John's,2599,"Fri, Feb 6",Connecticut,W 81-72,81,72,True
+2026,St John's,2599,"Sat, Feb 14",Providence,W 79-69,79,69,True
+2026,St John's,2599,"Wed, Feb 18",Marquette,W 76-70,76,70,True
+2026,St John's,2599,"Sat, Feb 21",Creighton,W 81-52,81,52,True
+2026,St John's,2599,"Wed, Feb 25",Connecticut,L 72-40,72,40,False
+2026,St John's,2599,"Sat, Feb 28",Villanova,W 89-57,89,57,True
+2026,St John's,2599,"Tue, Mar 3",Georgetown,W 72-69,72,69,True
+2026,St John's,2599,"Fri, Mar 6",Seton Hall,W 72-65,72,65,True
+2026,St John's,2599,"Thu, Mar 12",Providence,W 85-72,85,72,True
+2026,St John's,2599,"Fri, Mar 13",Seton Hall,W 78-68,78,68,True
+2026,St John's,2599,"Sat, Mar 14",Connecticut,W 72-52,72,52,True
+2026,Nebraska,158,"Mon, Nov 3",West Georgia,W 86-53,86,53,True
+2026,Nebraska,158,"Sat, Nov 8",Florida Intl,W 96-66,96,66,True
+2026,Nebraska,158,"Tue, Nov 11",MD E Shore,W 69-50,69,50,True
+2026,Nebraska,158,"Sat, Nov 15",Oklahoma,W 105-99,105,99,True
+2026,Nebraska,158,"Thu, Nov 20",New Mexico,W 84-72,84,72,True
+2026,Nebraska,158,"Fri, Nov 21",Kansas St,W 86-85,86,85,True
+2026,Nebraska,158,"Tue, Nov 25",Winthrop,W 80-73,80,73,True
+2026,Nebraska,158,"Sat, Nov 29",SC Upstate,W 72-63,72,63,True
+2026,Nebraska,158,"Sun, Dec 7",Creighton,W 71-50,71,50,True
+2026,Nebraska,158,"Wed, Dec 10",Wisconsin,W 90-60,90,60,True
+2026,Nebraska,158,"Sat, Dec 13",Illinois,W 83-80,83,80,True
+2026,Nebraska,158,"Sun, Dec 21",North Dakota,W 78-55,78,55,True
+2026,Nebraska,158,"Tue, Dec 30",New Hampshire,W 86-55,86,55,True
+2026,Nebraska,158,"Fri, Jan 2",Michigan St,W 58-56,58,56,True
+2026,Nebraska,158,"Mon, Jan 5",Ohio St,W 72-69,72,69,True
+2026,Nebraska,158,"Sat, Jan 10",Indiana,W 83-77,83,77,True
+2026,Nebraska,158,"Tue, Jan 13",Oregon,W 90-55,90,55,True
+2026,Nebraska,158,"Sat, Jan 17",Northwestern,W 77-58,77,58,True
+2026,Nebraska,158,"Wed, Jan 21",Washington,W 76-66,76,66,True
+2026,Nebraska,158,"Sat, Jan 24",Minnesota,W 76-57,76,57,True
+2026,Nebraska,158,"Tue, Jan 27",Michigan,L 75-72,75,72,False
+2026,Nebraska,158,"Sun, Feb 1",Illinois,L 78-69,78,69,False
+2026,Nebraska,158,"Sat, Feb 7",Rutgers,W 80-68,80,68,True
+2026,Nebraska,158,"Sat, Feb 14",Northwestern,W 68-49,68,49,True
+2026,Nebraska,158,"Tue, Feb 17",Iowa,L 57-52,57,52,False
+2026,Nebraska,158,"Sat, Feb 21",Penn St,W 87-64,87,64,True
+2026,Nebraska,158,"Wed, Feb 25",Maryland,W 74-61,74,61,True
+2026,Nebraska,158,"Sat, Feb 28",USC,W 82-67,82,67,True
+2026,Nebraska,158,"Tue, Mar 3",UCLA,L 72-52,72,52,False
+2026,Nebraska,158,"Fri, Mar 13",Purdue,L 74-58,74,58,False
+2026,BYU,252,"Mon, Nov 3",Villanova,W 71-66,71,66,True
+2026,BYU,252,"Sat, Nov 8",Holy Cross,W 98-53,98,53,True
+2026,BYU,252,"Tue, Nov 11",Delaware,W 85-68,85,68,True
+2026,BYU,252,"Sat, Nov 15",Connecticut,L 86-84,86,84,False
+2026,BYU,252,"Fri, Nov 21",Wisconsin,W 98-70,98,70,True
+2026,BYU,252,"Thu, Nov 27",Miami FL,W 72-62,72,62,True
+2026,BYU,252,"Fri, Nov 28",Dayton,W 83-79,83,79,True
+2026,BYU,252,"Wed, Dec 3",Cal Baptist,W 91-60,91,60,True
+2026,BYU,252,"Tue, Dec 9",Clemson,W 67-64,67,64,True
+2026,BYU,252,"Sat, Dec 13",UC Riverside,W 100-53,100,53,True
+2026,BYU,252,"Tue, Dec 16",Pacific,W 93-57,93,57,True
+2026,BYU,252,"Fri, Dec 19",Abilene Chr,W 85-67,85,67,True
+2026,BYU,252,"Mon, Dec 22",E Washington,W 109-81,109,81,True
+2026,BYU,252,"Sat, Jan 3",Kansas St,W 83-73,83,73,True
+2026,BYU,252,"Wed, Jan 7",Arizona St,W 104-76,104,76,True
+2026,BYU,252,"Sat, Jan 10",Utah,W 89-84,89,84,True
+2026,BYU,252,"Wed, Jan 14",TCU,W 76-70,76,70,True
+2026,BYU,252,"Sat, Jan 17",Texas Tech,L 84-71,84,71,False
+2026,BYU,252,"Sat, Jan 24",Utah,W 91-78,91,78,True
+2026,BYU,252,"Mon, Jan 26",Arizona,L 86-83,86,83,False
+2026,BYU,252,"Sat, Jan 31",Kansas,L 90-82,90,82,False
+2026,BYU,252,"Wed, Feb 4",Oklahoma St,L 99-92,99,92,False
+2026,BYU,252,"Sat, Feb 7",Houston,L 77-66,77,66,False
+2026,BYU,252,"Tue, Feb 10",Baylor,W 99-94,99,94,True
+2026,BYU,252,"Wed, Feb 18",Arizona,L 75-68,75,68,False
+2026,BYU,252,"Sat, Feb 21",Iowa St,W 79-69,79,69,True
+2026,BYU,252,"Tue, Feb 24",UCF,L 97-84,97,84,False
+2026,BYU,252,"Sat, Feb 28",West Virginia,L 79-71,79,71,False
+2026,BYU,252,"Tue, Mar 3",Cincinnati,L 90-68,90,68,False
+2026,BYU,252,"Sat, Mar 7",Texas Tech,W 82-76,82,76,True
+2026,BYU,252,"Tue, Mar 10",Kansas St,W 105-91,105,91,True
+2026,BYU,252,"Wed, Mar 11",West Virginia,W 68-48,68,48,True
+2026,BYU,252,"Thu, Mar 12",Houston,L 73-66,73,66,False
+2026,Texas,251,"Tue, Nov 4",Duke,L 75-60,75,60,False
+2026,Texas,251,"Sat, Nov 8",Lafayette,W 97-60,97,60,True
+2026,Texas,251,"Wed, Nov 12",F Dickinson,W 93-58,93,58,True
+2026,Texas,251,"Sat, Nov 15",Missouri KC,W 71-55,71,55,True
+2026,Texas,251,"Tue, Nov 18",Rider,W 99-65,99,65,True
+2026,Texas,251,"Mon, Nov 24",Arizona St,L 87-86,87,86,False
+2026,Texas,251,"Tue, Nov 25",Chaminade,W 119-78,119,78,True
+2026,Texas,251,"Wed, Nov 26",NC State,W 102-97,102,97,True
+2026,Texas,251,"Wed, Dec 3",Virginia,L 88-69,88,69,False
+2026,Texas,251,"Mon, Dec 8",Southern Univ,W 95-69,95,69,True
+2026,Texas,251,"Fri, Dec 12",Connecticut,L 71-63,71,63,False
+2026,Texas,251,"Tue, Dec 16",Le Moyne,W 95-53,95,53,True
+2026,Texas,251,"Mon, Dec 22",MD E Shore,W 94-71,94,71,True
+2026,Texas,251,"Tue, Jan 6",Tennessee,L 85-71,85,71,False
+2026,Texas,251,"Sat, Jan 10",Alabama,W 92-88,92,88,True
+2026,Texas,251,"Wed, Jan 14",Vanderbilt,W 80-64,80,64,True
+2026,Texas,251,"Sat, Jan 17",Texas A&M,L 74-70,74,70,False
+2026,Texas,251,"Wed, Jan 21",Kentucky,L 85-80,85,80,False
+2026,Texas,251,"Sat, Jan 24",Georgia,W 87-67,87,67,True
+2026,Texas,251,"Wed, Jan 28",Auburn,L 88-82,88,82,False
+2026,Texas,251,"Sat, Jan 31",Oklahoma,W 79-69,79,69,True
+2026,Texas,251,"Tue, Feb 3",South Carolina,W 84-75,84,75,True
+2026,Texas,251,"Sat, Feb 7",Mississippi,W 79-68,79,68,True
+2026,Texas,251,"Sat, Feb 14",Missouri,W 85-68,85,68,True
+2026,Texas,251,"Tue, Feb 17",LSU,W 88-85,88,85,True
+2026,Texas,251,"Sat, Feb 21",Georgia,L 91-80,91,80,False
+2026,Texas,251,"Wed, Feb 25",Florida,L 84-71,84,71,False
+2026,Texas,251,"Sat, Feb 28",Texas A&M,W 76-70,76,70,True
+2026,Texas,251,"Wed, Mar 4",Arkansas,L 105-85,105,85,False
+2026,Texas,251,"Wed, Mar 11",Mississippi,L 76-66,76,66,False
+2026,Iowa,2294,"Tue, Nov 4",Robert Morris,W 101-69,101,69,True
+2026,Iowa,2294,"Fri, Nov 7",W Illinois,W 77-58,77,58,True
+2026,Iowa,2294,"Fri, Nov 14",Xavier,W 81-62,81,62,True
+2026,Iowa,2294,"Tue, Nov 18",SE Missouri St,W 99-70,99,70,True
+2026,Iowa,2294,"Thu, Nov 20",Chicago St,W 93-54,93,54,True
+2026,Iowa,2294,"Tue, Nov 25",Mississippi,W 74-69,74,69,True
+2026,Iowa,2294,"Wed, Nov 26",Grand Canyon,W 59-46,59,46,True
+2026,Iowa,2294,"Tue, Dec 2",Michigan St,L 71-52,71,52,False
+2026,Iowa,2294,"Sat, Dec 6",Maryland,W 83-64,83,64,True
+2026,Iowa,2294,"Thu, Dec 11",Iowa St,L 66-62,66,62,False
+2026,Iowa,2294,"Sun, Dec 14",W Michigan,W 91-51,91,51,True
+2026,Iowa,2294,"Sat, Dec 20",Bucknell,W 94-39,94,39,True
+2026,Iowa,2294,"Mon, Dec 29",MA Lowell,W 90-62,90,62,True
+2026,Iowa,2294,"Sat, Jan 3",UCLA,W 74-61,74,61,True
+2026,Iowa,2294,"Tue, Jan 6",Minnesota,L 70-67,70,67,False
+2026,Iowa,2294,"Sun, Jan 11",Illinois,L 75-69,75,69,False
+2026,Iowa,2294,"Wed, Jan 14",Purdue,L 79-72,79,72,False
+2026,Iowa,2294,"Sat, Jan 17",Indiana,W 74-57,74,57,True
+2026,Iowa,2294,"Tue, Jan 20",Rutgers,W 68-62,68,62,True
+2026,Iowa,2294,"Wed, Jan 28",USC,W 73-72,73,72,True
+2026,Iowa,2294,"Sun, Feb 1",Oregon,W 84-66,84,66,True
+2026,Iowa,2294,"Wed, Feb 4",Washington,W 84-74,84,74,True
+2026,Iowa,2294,"Sun, Feb 8",Northwestern,W 76-70,76,70,True
+2026,Iowa,2294,"Wed, Feb 11",Maryland,L 77-70,77,70,False
+2026,Iowa,2294,"Sat, Feb 14",Purdue,L 78-57,78,57,False
+2026,Iowa,2294,"Tue, Feb 17",Nebraska,W 57-52,57,52,True
+2026,Iowa,2294,"Sun, Feb 22",Wisconsin,L 84-71,84,71,False
+2026,Iowa,2294,"Wed, Feb 25",Ohio St,W 74-57,74,57,True
+2026,Iowa,2294,"Sat, Feb 28",Penn St,L 71-69,71,69,False
+2026,Iowa,2294,"Thu, Mar 5",Michigan,L 71-68,71,68,False
+2026,Iowa,2294,"Wed, Mar 11",Maryland,W 75-64,75,64,True
+2026,Iowa,2294,"Thu, Mar 12",Ohio St,L 72-69,72,69,False
+2026,NC State,152,"Mon, Nov 3",NC Central,W 114-66,114,66,True
+2026,NC State,152,"Fri, Nov 7",UAB,W 94-70,94,70,True
+2026,NC State,152,"Wed, Nov 12",UNC Greensboro,W 110-64,110,64,True
+2026,NC State,152,"Mon, Nov 17",VCU,W 85-79,85,79,True
+2026,NC State,152,"Mon, Nov 24",Seton Hall,L 85-74,85,74,False
+2026,NC State,152,"Tue, Nov 25",Boise St,W 81-70,81,70,True
+2026,NC State,152,"Wed, Nov 26",Texas,L 102-97,102,97,False
+2026,NC State,152,"Wed, Dec 3",Auburn,L 83-73,83,73,False
+2026,NC State,152,"Sat, Dec 6",UNC Asheville,W 75-63,75,63,True
+2026,NC State,152,"Wed, Dec 10",Liberty,W 85-45,85,45,True
+2026,NC State,152,"Wed, Dec 17",TX Southern,W 108-72,108,72,True
+2026,NC State,152,"Sun, Dec 21",Mississippi,W 76-62,76,62,True
+2026,NC State,152,"Wed, Dec 31",Wake Forest,W 70-57,70,57,True
+2026,NC State,152,"Sat, Jan 3",Virginia,L 76-61,76,61,False
+2026,NC State,152,"Tue, Jan 6",Boston College,W 79-71,79,71,True
+2026,NC State,152,"Sat, Jan 10",Florida St,W 113-69,113,69,True
+2026,NC State,152,"Sat, Jan 17",Georgia Tech,L 78-74,78,74,False
+2026,NC State,152,"Sat, Jan 24",Pittsburgh,W 81-72,81,72,True
+2026,NC State,152,"Tue, Jan 27",Syracuse,W 88-68,88,68,True
+2026,NC State,152,"Sat, Jan 31",Wake Forest,W 96-78,96,78,True
+2026,NC State,152,"Tue, Feb 3",SMU,W 84-83,84,83,True
+2026,NC State,152,"Sat, Feb 7",Virginia Tech,W 82-73,82,73,True
+2026,NC State,152,"Mon, Feb 9",Louisville,L 118-77,118,77,False
+2026,NC State,152,"Sat, Feb 14",Miami FL,L 77-76,77,76,False
+2026,NC State,152,"Tue, Feb 17",North Carolina,W 82-58,82,58,True
+2026,NC State,152,"Tue, Feb 24",Virginia,L 90-61,90,61,False
+2026,NC State,152,"Mon, Mar 2",Duke,L 93-64,93,64,False
+2026,NC State,152,"Sat, Mar 7",Stanford,L 85-84,85,84,False
+2026,NC State,152,"Wed, Mar 11",Pittsburgh,W 98-88,98,88,True
+2026,NC State,152,"Thu, Mar 12",Virginia,L 81-74,81,74,False
+2026,Miami FL,2390,"Mon, Nov 3",Jacksonville,W 86-69,86,69,True
+2026,Miami FL,2390,"Thu, Nov 6",Bethune-Cookman,W 101-61,101,61,True
+2026,Miami FL,2390,"Mon, Nov 10",Stetson,W 102-61,102,61,True
+2026,Miami FL,2390,"Sun, Nov 16",Florida,L 82-68,82,68,False
+2026,Miami FL,2390,"Thu, Nov 20",Elon,W 99-72,99,72,True
+2026,Miami FL,2390,"Sun, Nov 23",Delaware St,W 97-41,97,41,True
+2026,Miami FL,2390,"Thu, Nov 27",BYU,L 72-62,72,62,False
+2026,Miami FL,2390,"Fri, Nov 28",Georgetown,W 78-65,78,65,True
+2026,Miami FL,2390,"Tue, Dec 2",Mississippi,W 75-66,75,66,True
+2026,Miami FL,2390,"Sat, Dec 6",Southern Miss,W 88-64,88,64,True
+2026,Miami FL,2390,"Sat, Dec 13",ULM,W 104-79,104,79,True
+2026,Miami FL,2390,"Tue, Dec 16",Florida Intl,W 98-81,98,81,True
+2026,Miami FL,2390,"Sun, Dec 21",North Florida,W 105-67,105,67,True
+2026,Miami FL,2390,"Tue, Dec 30",Pittsburgh,W 76-69,76,69,True
+2026,Miami FL,2390,"Wed, Jan 7",Wake Forest,W 81-77,81,77,True
+2026,Miami FL,2390,"Sat, Jan 10",Georgia Tech,W 91-81,91,81,True
+2026,Miami FL,2390,"Tue, Jan 13",Notre Dame,W 81-69,81,69,True
+2026,Miami FL,2390,"Sat, Jan 17",Clemson,L 69-59,69,59,False
+2026,Miami FL,2390,"Tue, Jan 20",Florida St,L 65-63,65,63,False
+2026,Miami FL,2390,"Sat, Jan 24",Syracuse,W 85-76,85,76,True
+2026,Miami FL,2390,"Wed, Jan 28",Stanford,W 79-70,79,70,True
+2026,Miami FL,2390,"Sat, Jan 31",California,L 86-85,86,85,False
+2026,Miami FL,2390,"Sat, Feb 7",Boston College,W 74-68,74,68,True
+2026,Miami FL,2390,"Tue, Feb 10",North Carolina,W 75-66,75,66,True
+2026,Miami FL,2390,"Sat, Feb 14",NC State,W 77-76,77,76,True
+2026,Miami FL,2390,"Tue, Feb 17",Virginia Tech,W 67-66,67,66,True
+2026,Miami FL,2390,"Sat, Feb 21",Virginia,L 86-83,86,83,False
+2026,Miami FL,2390,"Tue, Feb 24",Florida St,W 83-73,83,73,True
+2026,Miami FL,2390,"Sat, Feb 28",Boston College,W 76-54,76,54,True
+2026,Miami FL,2390,"Wed, Mar 4",SMU,W 77-69,77,69,True
+2026,Miami FL,2390,"Sat, Mar 7",Louisville,L 92-89,92,89,False
+2026,Miami FL,2390,"Thu, Mar 12",Louisville,W 78-73,78,73,True
+2026,Miami FL,2390,"Fri, Mar 13",Virginia,L 84-62,84,62,False
+2026,Texas A&M,245,"Mon, Nov 3",Northwestern LA,W 98-68,98,68,True
+2026,Texas A&M,245,"Thu, Nov 6",TX Southern,W 104-70,104,70,True
+2026,Texas A&M,245,"Sun, Nov 9",Oklahoma St,L 87-63,87,63,False
+2026,Texas A&M,245,"Fri, Nov 14",UCF,L 86-74,86,74,False
+2026,Texas A&M,245,"Tue, Nov 18",Montana,W 86-81,86,81,True
+2026,Texas A&M,245,"Fri, Nov 21",Manhattan,W 109-68,109,68,True
+2026,Texas A&M,245,"Tue, Nov 25",MS Valley St,W 120-84,120,84,True
+2026,Texas A&M,245,"Fri, Nov 28",Florida St,W 95-59,95,59,True
+2026,Texas A&M,245,"Tue, Dec 2",Pittsburgh,W 81-73,81,73,True
+2026,Texas A&M,245,"Sun, Dec 14",Jacksonville,W 112-75,112,75,True
+2026,Texas A&M,245,"Sun, Dec 21",East Texas A&M,W 118-77,118,77,True
+2026,Texas A&M,245,"Mon, Dec 29",Prairie View,W 111-82,111,82,True
+2026,Texas A&M,245,"Sat, Jan 3",LSU,W 75-72,75,72,True
+2026,Texas A&M,245,"Tue, Jan 6",Auburn,W 90-88,90,88,True
+2026,Texas A&M,245,"Sat, Jan 10",Oklahoma,W 83-76,83,76,True
+2026,Texas A&M,245,"Sat, Jan 17",Texas,W 74-70,74,70,True
+2026,Texas A&M,245,"Wed, Jan 21",Mississippi St,W 88-68,88,68,True
+2026,Texas A&M,245,"Sat, Jan 24",South Carolina,W 92-69,92,69,True
+2026,Texas A&M,245,"Sat, Jan 31",Georgia,W 92-77,92,77,True
+2026,Texas A&M,245,"Wed, Feb 4",Alabama,L 100-97,100,97,False
+2026,Texas A&M,245,"Sat, Feb 7",Florida,L 86-67,86,67,False
+2026,Texas A&M,245,"Wed, Feb 11",Missouri,L 86-85,86,85,False
+2026,Texas A&M,245,"Sat, Feb 14",Vanderbilt,L 82-69,82,69,False
+2026,Texas A&M,245,"Wed, Feb 18",Mississippi,W 80-77,80,77,True
+2026,Texas A&M,245,"Sat, Feb 21",Oklahoma,W 75-71,75,71,True
+2026,Texas A&M,245,"Wed, Feb 25",Arkansas,L 99-84,99,84,False
+2026,Texas A&M,245,"Sat, Feb 28",Texas,L 76-70,76,70,False
+2026,Texas A&M,245,"Tue, Mar 3",Kentucky,W 96-85,96,85,True
+2026,Texas A&M,245,"Thu, Mar 12",Oklahoma,L 83-63,83,63,False
+2026,St Mary's CA,2608,"Mon, Nov 3",St. Thomas-Minnesota,W 84-58,84,58,True
+2026,St Mary's CA,2608,"Fri, Nov 7",Chattanooga,W 87-66,87,66,True
+2026,St Mary's CA,2608,"Tue, Nov 11",Ohio,W 90-60,90,60,True
+2026,St Mary's CA,2608,"Fri, Nov 14",North Texas,W 80-49,80,49,True
+2026,St Mary's CA,2608,"Wed, Nov 19",Arkansas St,W 85-72,85,72,True
+2026,St Mary's CA,2608,"Sat, Nov 22",UC Merced,W 96-42,96,42,True
+2026,St Mary's CA,2608,"Wed, Nov 26",Wichita St,W 70-65,70,65,True
+2026,St Mary's CA,2608,"Thu, Nov 27",Virginia Tech,W 77-66,77,66,True
+2026,St Mary's CA,2608,"Fri, Nov 28",Vanderbilt,L 96-71,96,71,False
+2026,St Mary's CA,2608,"Sun, Dec 7",Davidson,W 70-61,70,61,True
+2026,St Mary's CA,2608,"Sun, Dec 14",Boise St,L 68-67,68,67,False
+2026,St Mary's CA,2608,"Fri, Dec 19",FL Atlantic,W 88-75,88,75,True
+2026,St Mary's CA,2608,"Mon, Dec 22",Northern Iowa,W 63-58,63,58,True
+2026,St Mary's CA,2608,"Sun, Dec 28",Loy Marymount,W 78-73,78,73,True
+2026,St Mary's CA,2608,"Tue, Dec 30",Pepperdine,W 72-45,72,45,True
+2026,St Mary's CA,2608,"Fri, Jan 2",Portland,W 78-57,78,57,True
+2026,St Mary's CA,2608,"Sun, Jan 4",Seattle,W 93-76,93,76,True
+2026,St Mary's CA,2608,"Sat, Jan 10",Washington St,W 88-82,88,82,True
+2026,St Mary's CA,2608,"Tue, Jan 13",San Francisco,W 82-68,82,68,True
+2026,St Mary's CA,2608,"Sat, Jan 17",Santa Clara,L 62-54,62,54,False
+2026,St Mary's CA,2608,"Wed, Jan 21",Oregon St,W 81-51,81,51,True
+2026,St Mary's CA,2608,"Sat, Jan 24",Portland,W 75-69,75,69,True
+2026,St Mary's CA,2608,"Sat, Jan 31",Gonzaga,L 73-65,73,65,False
+2026,St Mary's CA,2608,"Wed, Feb 4",San Diego,W 87-60,87,60,True
+2026,St Mary's CA,2608,"Sat, Feb 7",San Francisco,W 79-54,79,54,True
+2026,St Mary's CA,2608,"Wed, Feb 11",Pepperdine,W 88-60,88,60,True
+2026,St Mary's CA,2608,"Sat, Feb 14",Pacific,W 72-61,72,61,True
+2026,St Mary's CA,2608,"Wed, Feb 18",Seattle,W 72-70,72,70,True
+2026,St Mary's CA,2608,"Sat, Feb 21",Washington St,W 83-67,83,67,True
+2026,St Mary's CA,2608,"Wed, Feb 25",Santa Clara,W 86-67,86,67,True
+2026,St Mary's CA,2608,"Sat, Feb 28",Gonzaga,W 70-59,70,59,True
+2026,St Mary's CA,2608,"Mon, Mar 9",Santa Clara,L 76-71,76,71,False
+2026,Clemson,228,"Mon, Nov 3",New Hampshire,W 88-38,88,38,True
+2026,Clemson,228,"Fri, Nov 7",Gardner Webb,W 97-59,97,59,True
+2026,Clemson,228,"Tue, Nov 11",Morehead St,W 83-56,83,56,True
+2026,Clemson,228,"Sat, Nov 15",Georgetown,L 79-74,79,74,False
+2026,Clemson,228,"Mon, Nov 17",North Alabama,W 81-61,81,61,True
+2026,Clemson,228,"Fri, Nov 21",West Virginia,W 70-67,70,67,True
+2026,Clemson,228,"Fri, Nov 28",Alabama A&M,W 92-56,92,56,True
+2026,Clemson,228,"Wed, Dec 3",Alabama,L 90-84,90,84,False
+2026,Clemson,228,"Tue, Dec 9",BYU,L 67-64,67,64,False
+2026,Clemson,228,"Sat, Dec 13",Mercer,W 70-63,70,63,True
+2026,Clemson,228,"Tue, Dec 16",South Carolina,W 68-61,68,61,True
+2026,Clemson,228,"Sun, Dec 21",Cincinnati,W 68-65,68,65,True
+2026,Clemson,228,"Wed, Dec 31",Syracuse,W 64-61,64,61,True
+2026,Clemson,228,"Sat, Jan 3",Pittsburgh,W 73-68,73,68,True
+2026,Clemson,228,"Wed, Jan 7",SMU,W 74-70,74,70,True
+2026,Clemson,228,"Sat, Jan 10",Notre Dame,W 76-61,76,61,True
+2026,Clemson,228,"Tue, Jan 13",Boston College,W 74-50,74,50,True
+2026,Clemson,228,"Sat, Jan 17",Miami FL,W 69-59,69,59,True
+2026,Clemson,228,"Sat, Jan 24",Georgia Tech,W 77-63,77,63,True
+2026,Clemson,228,"Sat, Jan 31",Pittsburgh,W 63-52,63,52,True
+2026,Clemson,228,"Wed, Feb 4",Stanford,W 66-64,66,64,True
+2026,Clemson,228,"Sat, Feb 7",California,W 77-55,77,55,True
+2026,Clemson,228,"Wed, Feb 11",Virginia Tech,L 76-66,76,66,False
+2026,Clemson,228,"Sat, Feb 14",Duke,L 67-54,67,54,False
+2026,Clemson,228,"Wed, Feb 18",Wake Forest,L 85-77,85,77,False
+2026,Clemson,228,"Sat, Feb 21",Florida St,L 70-65,70,65,False
+2026,Clemson,228,"Sat, Feb 28",Louisville,W 80-75,80,75,True
+2026,Clemson,228,"Tue, Mar 3",North Carolina,L 67-63,67,63,False
+2026,Clemson,228,"Sat, Mar 7",Georgia Tech,W 79-76,79,76,True
+2026,Clemson,228,"Wed, Mar 11",Wake Forest,W 71-62,71,62,True
+2026,Clemson,228,"Thu, Mar 12",North Carolina,W 80-79,80,79,True
+2026,Clemson,228,"Fri, Mar 13",Duke,L 73-61,73,61,False
+2026,Missouri,2623,"Tue, Nov 4",Missouri Southern State,W 88-70,88,70,True
+2026,Missouri,2623,"Sat, Nov 8",Northwestern Oklahoma State,W 106-57,106,57,True
+2026,Missouri,2623,"Tue, Nov 11",Arkansas St,L 86-85,86,85,False
+2026,Missouri,2623,"Sat, Nov 15",UT Arlington,L 67-49,67,49,False
+2026,Missouri,2623,"Sat, Nov 22",UTRGV,W 74-67,74,67,True
+2026,Missouri,2623,"Mon, Nov 24",LIU Brooklyn,L 75-61,75,61,False
+2026,Missouri,2623,"Sun, Nov 30",Northeastern State,W 92-71,92,71,True
+2026,Missouri,2623,"Sat, Dec 6",Tulsa,L 98-74,98,74,False
+2026,Missouri,2623,"Fri, Dec 12",Xavier,L 75-57,75,57,False
+2026,Missouri,2623,"Tue, Dec 16",Oral Roberts,W 63-62,63,62,True
+2026,Missouri,2623,"Tue, Dec 23",Lindenwood,W 70-65,70,65,True
+2026,Missouri,2623,"Mon, Dec 29",Delaware,W 61-43,61,43,True
+2026,Missouri,2623,"Fri, Jan 2",UTEP,W 79-55,79,55,True
+2026,Missouri,2623,"Sun, Jan 4",New Mexico St,W 89-82,89,82,True
+2026,Missouri,2623,"Wed, Jan 7",Kennesaw,L 90-80,90,80,False
+2026,Missouri,2623,"Sat, Jan 10",Florida Intl,W 79-71,79,71,True
+2026,Missouri,2623,"Wed, Jan 14",WKU,L 87-72,87,72,False
+2026,Missouri,2623,"Thu, Jan 22",New Mexico St,W 84-75,84,75,True
+2026,Missouri,2623,"Sat, Jan 24",UTEP,W 62-57,62,57,True
+2026,Missouri,2623,"Wed, Jan 28",Sam Houston St,L 80-71,80,71,False
+2026,Missouri,2623,"Sat, Jan 31",Jacksonville St,W 74-67,74,67,True
+2026,Missouri,2623,"Sat, Feb 7",Liberty,L 79-76,79,76,False
+2026,Missouri,2623,"Sat, Feb 14",Delaware,L 76-67,76,67,False
+2026,Missouri,2623,"Wed, Feb 18",Kennesaw,L 91-87,91,87,False
+2026,Missouri,2623,"Sat, Feb 21",Florida Intl,L 70-67,70,67,False
+2026,Missouri,2623,"Thu, Feb 26",Louisiana Tech,L 72-70,72,70,False
+2026,Missouri,2623,"Sat, Feb 28",Sam Houston St,L 86-81,86,81,False
+2026,Missouri,2623,"Thu, Mar 5",WKU,W 87-74,87,74,True
+2026,Missouri,2623,"Sat, Mar 7",MTSU,L 75-63,75,63,False
+2026,Missouri,2623,"Tue, Mar 10",Florida Intl,W 75-72,75,72,True
+2026,Missouri,2623,"Wed, Mar 11",Liberty,W 77-69,77,69,True
+2026,Missouri,2623,"Fri, Mar 13",Louisiana Tech,L 69-66,69,66,False
+2026,Santa Clara,2541,"Tue, Nov 4",Humboldt State,W 83-53,83,53,True
+2026,Santa Clara,2541,"Fri, Nov 7",McNeese St,W 79-67,79,67,True
+2026,Santa Clara,2541,"Mon, Nov 10",Xavier,W 87-68,87,68,True
+2026,Santa Clara,2541,"Sat, Nov 15",Nevada,W 98-83,98,83,True
+2026,Santa Clara,2541,"Tue, Nov 18",Idaho St,W 64-55,64,55,True
+2026,Santa Clara,2541,"Fri, Nov 21",Louisiana,W 80-43,80,43,True
+2026,Santa Clara,2541,"Thu, Nov 27",St Louis,L 71-70,71,70,False
+2026,Santa Clara,2541,"Fri, Nov 28",Minnesota,W 86-75,86,75,True
+2026,Santa Clara,2541,"Wed, Dec 3",Utah Tech,W 90-80,90,80,True
+2026,Santa Clara,2541,"Sat, Dec 6",New Mexico,L 98-71,98,71,False
+2026,Santa Clara,2541,"Sat, Dec 13",Arizona St,L 82-79,82,79,False
+2026,Santa Clara,2541,"Wed, Dec 17",North Texas,W 63-60,63,60,True
+2026,Santa Clara,2541,"Sat, Dec 20",Loyola-Chicago,L 80-78,80,78,False
+2026,Santa Clara,2541,"Sun, Dec 28",Oregon St,W 102-64,102,64,True
+2026,Santa Clara,2541,"Tue, Dec 30",Portland,W 92-85,92,85,True
+2026,Santa Clara,2541,"Fri, Jan 2",Pepperdine,W 82-63,82,63,True
+2026,Santa Clara,2541,"Sun, Jan 4",San Diego,W 98-70,98,70,True
+2026,Santa Clara,2541,"Thu, Jan 8",Gonzaga,L 89-77,89,77,False
+2026,Santa Clara,2541,"Sat, Jan 10",Loy Marymount,W 103-72,103,72,True
+2026,Santa Clara,2541,"Wed, Jan 14",Pacific,W 85-69,85,69,True
+2026,Santa Clara,2541,"Sat, Jan 17",St Mary's CA,W 62-54,62,54,True
+2026,Santa Clara,2541,"Sat, Jan 24",San Diego,W 85-73,85,73,True
+2026,Santa Clara,2541,"Wed, Jan 28",San Francisco,W 88-73,88,73,True
+2026,Santa Clara,2541,"Sat, Jan 31",Loy Marymount,W 104-73,104,73,True
+2026,Santa Clara,2541,"Wed, Feb 4",Pacific,W 71-56,71,56,True
+2026,Santa Clara,2541,"Sat, Feb 7",Washington St,W 96-92,96,92,True
+2026,Santa Clara,2541,"Wed, Feb 11",Seattle,W 84-72,84,72,True
+2026,Santa Clara,2541,"Sat, Feb 14",Gonzaga,L 94-86,94,86,False
+2026,Santa Clara,2541,"Sat, Feb 21",San Francisco,W 94-73,94,73,True
+2026,Santa Clara,2541,"Wed, Feb 25",St Mary's CA,L 86-67,86,67,False
+2026,Santa Clara,2541,"Sat, Feb 28",Oregon St,W 93-72,93,72,True
+2026,Santa Clara,2541,"Sun, Mar 8",Pacific,W 76-68,76,68,True
+2026,Santa Clara,2541,"Mon, Mar 9",St Mary's CA,W 76-71,76,71,True
+2026,Santa Clara,2541,"Tue, Mar 10",Gonzaga,L 79-68,79,68,False
+2026,SMU,2567,"Mon, Nov 3",Tarleton St,W 96-76,96,76,True
+2026,SMU,2567,"Thu, Nov 6",TAM C. Christi,W 69-58,69,58,True
+2026,SMU,2567,"Tue, Nov 11",Murray St,W 102-91,102,91,True
+2026,SMU,2567,"Sat, Nov 15",Butler,W 87-85,87,85,True
+2026,SMU,2567,"Tue, Nov 18",Ark Pine Bluff,W 106-60,106,60,True
+2026,SMU,2567,"Fri, Nov 21",Arkansas St,W 100-69,100,69,True
+2026,SMU,2567,"Mon, Nov 24",Radford,W 89-72,89,72,True
+2026,SMU,2567,"Wed, Dec 3",Vanderbilt,L 88-69,88,69,False
+2026,SMU,2567,"Sat, Dec 13",LSU,L 89-77,89,77,False
+2026,SMU,2567,"Sun, Dec 21",Cent Arkansas,W 99-82,99,82,True
+2026,SMU,2567,"Sun, Dec 28",CS Fullerton,W 110-63,110,63,True
+2026,SMU,2567,"Sat, Jan 3",North Carolina,W 97-83,97,83,True
+2026,SMU,2567,"Wed, Jan 7",Clemson,L 74-70,74,70,False
+2026,SMU,2567,"Sat, Jan 10",Duke,L 82-75,82,75,False
+2026,SMU,2567,"Wed, Jan 14",Virginia Tech,W 77-76,77,76,True
+2026,SMU,2567,"Sat, Jan 17",Virginia,L 72-68,72,68,False
+2026,SMU,2567,"Tue, Jan 20",Wake Forest,W 91-79,91,79,True
+2026,SMU,2567,"Sat, Jan 24",Florida St,W 83-80,83,80,True
+2026,SMU,2567,"Sat, Jan 31",Louisville,L 88-74,88,74,False
+2026,SMU,2567,"Tue, Feb 3",NC State,L 84-83,84,83,False
+2026,SMU,2567,"Sat, Feb 7",Pittsburgh,W 86-67,86,67,True
+2026,SMU,2567,"Tue, Feb 10",Notre Dame,W 89-81,89,81,True
+2026,SMU,2567,"Sat, Feb 14",Syracuse,L 79-78,79,78,False
+2026,SMU,2567,"Tue, Feb 17",Louisville,W 95-85,95,85,True
+2026,SMU,2567,"Sat, Feb 21",Boston College,W 94-70,94,70,True
+2026,SMU,2567,"Wed, Feb 25",California,L 73-69,73,69,False
+2026,SMU,2567,"Sat, Feb 28",Stanford,L 95-75,95,75,False
+2026,SMU,2567,"Wed, Mar 4",Miami FL,L 77-69,77,69,False
+2026,SMU,2567,"Sat, Mar 7",Florida St,L 91-78,91,78,False
+2026,SMU,2567,"Tue, Mar 10",Syracuse,W 86-69,86,69,True
+2026,SMU,2567,"Wed, Mar 11",Louisville,L 62-58,62,58,False
+2026,VCU,2670,"Mon, Nov 3",Wagner,W 103-74,103,74,True
+2026,VCU,2670,"Fri, Nov 7",Utah St,L 80-77,80,77,False
+2026,VCU,2670,"Wed, Nov 12",St Peter's,W 78-61,78,61,True
+2026,VCU,2670,"Mon, Nov 17",NC State,L 85-79,85,79,False
+2026,VCU,2670,"Sat, Nov 22",Coppin St,W 101-58,101,58,True
+2026,VCU,2670,"Wed, Nov 26",South Florida,W 78-66,78,66,True
+2026,VCU,2670,"Thu, Nov 27",Vanderbilt,L 89-74,89,74,False
+2026,VCU,2670,"Fri, Nov 28",Virginia Tech,W 86-68,86,68,True
+2026,VCU,2670,"Fri, Dec 5",Samford,W 83-57,83,57,True
+2026,VCU,2670,"Wed, Dec 10",New Mexico,L 81-78,81,78,False
+2026,VCU,2670,"Mon, Dec 15",Niagara,W 84-58,84,58,True
+2026,VCU,2670,"Thu, Dec 18",American Univ,W 105-83,105,83,True
+2026,VCU,2670,"Mon, Dec 22",Rider,W 100-79,100,79,True
+2026,VCU,2670,"Wed, Dec 31",St Bonaventure,W 89-82,89,82,True
+2026,VCU,2670,"Sat, Jan 3",Duquesne,W 93-80,93,80,True
+2026,VCU,2670,"Wed, Jan 7",St Louis,L 71-62,71,62,False
+2026,VCU,2670,"Sat, Jan 10",George Mason,L 86-80,86,80,False
+2026,VCU,2670,"Wed, Jan 14",Rhode Island,W 84-75,84,75,True
+2026,VCU,2670,"Mon, Jan 19",St Joseph's PA,W 79-72,79,72,True
+2026,VCU,2670,"Sat, Jan 24",Davidson,W 75-69,75,69,True
+2026,VCU,2670,"Tue, Jan 27",Richmond,W 77-69,77,69,True
+2026,VCU,2670,"Fri, Jan 30",Loyola-Chicago,W 89-75,89,75,True
+2026,VCU,2670,"Tue, Feb 3",Fordham,W 63-59,63,59,True
+2026,VCU,2670,"Fri, Feb 6",Dayton,W 99-73,99,73,True
+2026,VCU,2670,"Wed, Feb 11",La Salle,W 77-68,77,68,True
+2026,VCU,2670,"Sat, Feb 14",Richmond,W 78-67,78,67,True
+2026,VCU,2670,"Tue, Feb 17",G Washington,W 89-75,89,75,True
+2026,VCU,2670,"Fri, Feb 20",St Louis,L 88-75,88,75,False
+2026,VCU,2670,"Sat, Feb 28",Fordham,W 82-63,82,63,True
+2026,VCU,2670,"Tue, Mar 3",George Mason,W 70-65,70,65,True
+2026,VCU,2670,"Fri, Mar 6",Dayton,W 68-62,68,62,True
+2026,VCU,2670,"Fri, Mar 13",Duquesne,W 71-66,71,66,True
+2026,VCU,2670,"Sat, Mar 14",St Joseph's PA,W 77-64,77,64,True
+2026,VCU,2670,"Sun, Mar 15",Dayton,W 70-62,70,62,True
+2026,Georgia,61,"Mon, Nov 3",Bellarmine,W 104-59,104,59,True
+2026,Georgia,61,"Wed, Nov 5",MD E Shore,W 94-29,94,29,True
+2026,Georgia,61,"Sun, Nov 9",Morehead St,W 120-81,120,81,True
+2026,Georgia,61,"Fri, Nov 14",Georgia Tech,W 92-87,92,87,True
+2026,Georgia,61,"Mon, Nov 17",Florida A&M,W 87-57,87,57,True
+2026,Georgia,61,"Fri, Nov 21",Xavier,W 78-77,78,77,True
+2026,Georgia,61,"Sat, Nov 29",Tennessee Tech,W 123-81,123,81,True
+2026,Georgia,61,"Tue, Dec 2",Florida St,W 107-73,107,73,True
+2026,Georgia,61,"Sat, Dec 13",Cincinnati,W 84-65,84,65,True
+2026,Georgia,61,"Thu, Dec 18",W Carolina,W 112-82,112,82,True
+2026,Georgia,61,"Mon, Dec 22",West Georgia,W 103-74,103,74,True
+2026,Georgia,61,"Mon, Dec 29",LIU Brooklyn,W 89-74,89,74,True
+2026,Georgia,61,"Tue, Jan 6",Florida,L 92-77,92,77,False
+2026,Georgia,61,"Sat, Jan 10",South Carolina,W 75-70,75,70,True
+2026,Georgia,61,"Sat, Jan 17",Arkansas,W 90-76,90,76,True
+2026,Georgia,61,"Tue, Jan 20",Missouri,W 74-72,74,72,True
+2026,Georgia,61,"Sat, Jan 24",Texas,L 87-67,87,67,False
+2026,Georgia,61,"Sat, Jan 31",Texas A&M,L 92-77,92,77,False
+2026,Georgia,61,"Sat, Feb 7",LSU,W 83-71,83,71,True
+2026,Georgia,61,"Wed, Feb 11",Florida,L 86-66,86,66,False
+2026,Georgia,61,"Sat, Feb 14",Oklahoma,L 94-78,94,78,False
+2026,Georgia,61,"Tue, Feb 17",Kentucky,W 86-78,86,78,True
+2026,Georgia,61,"Sat, Feb 21",Texas,W 91-80,91,80,True
+2026,Georgia,61,"Wed, Feb 25",Vanderbilt,L 88-80,88,80,False
+2026,Georgia,61,"Sat, Feb 28",South Carolina,W 87-68,87,68,True
+2026,Georgia,61,"Tue, Mar 3",Alabama,W 98-88,98,88,True
+2026,Georgia,61,"Sat, Mar 7",Mississippi St,W 102-96,102,96,True
+2026,Georgia,61,"Thu, Mar 12",Mississippi,L 76-72,76,72,False
+2026,UCF,2116,"Mon, Nov 3",Hofstra,W 82-78,82,78,True
+2026,UCF,2116,"Sat, Nov 8",Vanderbilt,L 105-93,105,93,False
+2026,UCF,2116,"Tue, Nov 11",Florida A&M,W 97-60,97,60,True
+2026,UCF,2116,"Fri, Nov 14",Texas A&M,W 86-74,86,74,True
+2026,UCF,2116,"Mon, Nov 17",Oakland,W 87-83,87,83,True
+2026,UCF,2116,"Thu, Nov 20",Pittsburgh,W 77-67,77,67,True
+2026,UCF,2116,"Tue, Nov 25",Quinnipiac,W 102-91,102,91,True
+2026,UCF,2116,"Sat, Nov 29",VMI,W 82-57,82,57,True
+2026,UCF,2116,"Sun, Dec 7",Towson,W 86-61,86,61,True
+2026,UCF,2116,"Wed, Dec 17",Mercer,W 81-63,81,63,True
+2026,UCF,2116,"Sat, Dec 20",FGCU,W 102-80,102,80,True
+2026,UCF,2116,"Tue, Dec 23",FL Atlantic,W 85-80,85,80,True
+2026,UCF,2116,"Sat, Jan 3",Kansas,W 81-75,81,75,True
+2026,UCF,2116,"Tue, Jan 6",Oklahoma St,L 87-76,87,76,False
+2026,UCF,2116,"Sun, Jan 11",Cincinnati,W 73-72,73,72,True
+2026,UCF,2116,"Wed, Jan 14",Kansas St,W 82-73,82,73,True
+2026,UCF,2116,"Sat, Jan 17",Arizona,L 84-77,84,77,False
+2026,UCF,2116,"Tue, Jan 20",Iowa St,L 87-57,87,57,False
+2026,UCF,2116,"Sat, Jan 24",Colorado,W 95-86,95,86,True
+2026,UCF,2116,"Tue, Jan 27",Arizona St,W 79-76,79,76,True
+2026,UCF,2116,"Sat, Jan 31",Texas Tech,W 88-80,88,80,True
+2026,UCF,2116,"Wed, Feb 4",Houston,L 79-55,79,55,False
+2026,UCF,2116,"Sun, Feb 8",Cincinnati,L 92-72,92,72,False
+2026,UCF,2116,"Sat, Feb 14",West Virginia,L 74-67,74,67,False
+2026,UCF,2116,"Tue, Feb 17",TCU,W 82-71,82,71,True
+2026,UCF,2116,"Sat, Feb 21",Utah,W 73-71,73,71,True
+2026,UCF,2116,"Tue, Feb 24",BYU,W 97-84,97,84,True
+2026,UCF,2116,"Sat, Feb 28",Baylor,L 87-86,87,86,False
+2026,UCF,2116,"Fri, Mar 6",West Virginia,L 77-62,77,62,False
+2026,UCF,2116,"Thu, Mar 12",Arizona,L 81-59,81,59,False
+2026,TCU,2628,"Mon, Nov 3",New Orleans,L 78-74,78,74,False
+2026,TCU,2628,"Thu, Nov 6",Saint Francis,W 104-63,104,63,True
+2026,TCU,2628,"Mon, Nov 10",Lamar,W 78-65,78,65,True
+2026,TCU,2628,"Fri, Nov 14",Michigan,L 67-63,67,63,False
+2026,TCU,2628,"Wed, Nov 19",Missouri KC,W 81-45,81,45,True
+2026,TCU,2628,"Thu, Nov 27",Florida,W 84-80,84,80,True
+2026,TCU,2628,"Fri, Nov 28",Wisconsin,W 74-63,74,63,True
+2026,TCU,2628,"Sun, Dec 7",North Texas,W 65-55,65,55,True
+2026,TCU,2628,"Mon, Dec 15",Incarnate Word,W 69-65,69,65,True
+2026,TCU,2628,"Thu, Dec 18",Oral Roberts,W 72-53,72,53,True
+2026,TCU,2628,"Sun, Dec 21",Florida A&M,W 80-56,80,56,True
+2026,TCU,2628,"Mon, Dec 29",Jackson St,W 115-64,115,64,True
+2026,TCU,2628,"Sat, Jan 3",Baylor,W 69-63,69,63,True
+2026,TCU,2628,"Sat, Jan 10",Arizona,L 86-73,86,73,False
+2026,TCU,2628,"Wed, Jan 14",BYU,L 76-70,76,70,False
+2026,TCU,2628,"Sat, Jan 17",Utah,L 82-79,82,79,False
+2026,TCU,2628,"Tue, Jan 20",Oklahoma St,W 68-65,68,65,True
+2026,TCU,2628,"Sat, Jan 24",Baylor,W 97-90,97,90,True
+2026,TCU,2628,"Wed, Jan 28",Houston,L 79-70,79,70,False
+2026,TCU,2628,"Sun, Feb 1",Colorado,L 87-61,87,61,False
+2026,TCU,2628,"Sat, Feb 7",Kansas St,W 84-82,84,82,True
+2026,TCU,2628,"Tue, Feb 10",Iowa St,W 62-55,62,55,True
+2026,TCU,2628,"Tue, Feb 17",UCF,L 82-71,82,71,False
+2026,TCU,2628,"Sat, Feb 21",West Virginia,W 60-54,60,54,True
+2026,TCU,2628,"Tue, Feb 24",Arizona St,W 90-78,90,78,True
+2026,TCU,2628,"Sat, Feb 28",Kansas St,W 77-68,77,68,True
+2026,TCU,2628,"Tue, Mar 3",Texas Tech,W 73-65,73,65,True
+2026,TCU,2628,"Sat, Mar 7",Cincinnati,W 73-63,73,63,True
+2026,TCU,2628,"Wed, Mar 11",Oklahoma St,W 95-88,95,88,True
+2026,TCU,2628,"Thu, Mar 12",Kansas,L 78-73,78,73,False
+2026,Utah St,328,"Mon, Nov 3",Westminster (UT),W 110-54,110,54,True
+2026,Utah St,328,"Fri, Nov 7",VCU,W 80-77,80,77,True
+2026,Utah St,328,"Wed, Nov 12",Weber St,W 83-73,83,73,True
+2026,Utah St,328,"Sat, Nov 15",UTEP,W 75-51,75,51,True
+2026,Utah St,328,"Fri, Nov 21",Tulane,W 96-75,96,75,True
+2026,Utah St,328,"Sun, Nov 23",Davidson,W 94-60,94,60,True
+2026,Utah St,328,"Thu, Dec 4",South Florida,L 74-61,74,61,False
+2026,Utah St,328,"Sun, Dec 7",Charlotte,W 79-53,79,53,True
+2026,Utah St,328,"Sat, Dec 13",Illinois St,W 83-78,83,78,True
+2026,Utah St,328,"Sat, Dec 20",Colorado St,W 100-58,100,58,True
+2026,Utah St,328,"Tue, Dec 30",Fresno St,W 72-63,72,63,True
+2026,Utah St,328,"Sat, Jan 3",San Jose St,W 96-78,96,78,True
+2026,Utah St,328,"Tue, Jan 6",Air Force,W 99-62,99,62,True
+2026,Utah St,328,"Sat, Jan 10",Boise St,W 93-68,93,68,True
+2026,Utah St,328,"Wed, Jan 14",Nevada,W 71-62,71,62,True
+2026,Utah St,328,"Sat, Jan 17",Grand Canyon,L 84-74,84,74,False
+2026,Utah St,328,"Tue, Jan 20",UNLV,L 86-76,86,76,False
+2026,Utah St,328,"Fri, Jan 23",Colorado St,W 65-61,65,61,True
+2026,Utah St,328,"Wed, Jan 28",Wyoming,W 94-62,94,62,True
+2026,Utah St,328,"Sat, Jan 31",San Diego St,W 71-66,71,66,True
+2026,Utah St,328,"Wed, Feb 4",New Mexico,W 86-66,86,66,True
+2026,Utah St,328,"Sat, Feb 7",Wyoming,W 85-83,85,83,True
+2026,Utah St,328,"Tue, Feb 10",Fresno St,W 91-78,91,78,True
+2026,Utah St,328,"Sat, Feb 14",Memphis,W 99-75,99,75,True
+2026,Utah St,328,"Wed, Feb 18",Boise St,W 75-56,75,56,True
+2026,Utah St,328,"Sat, Feb 21",Nevada,L 80-77,80,77,False
+2026,Utah St,328,"Wed, Feb 25",San Diego St,L 89-72,89,72,False
+2026,Utah St,328,"Sat, Feb 28",Grand Canyon,W 74-69,74,69,True
+2026,Utah St,328,"Tue, Mar 3",UNLV,L 92-65,92,65,False
+2026,Utah St,328,"Sat, Mar 7",New Mexico,W 94-90,94,90,True
+2026,Utah St,328,"Thu, Mar 12",UNLV,W 80-60,80,60,True
+2026,Utah St,328,"Fri, Mar 13",Nevada,W 79-66,79,66,True
+2026,Utah St,328,"Sat, Mar 14",San Diego St,W 73-62,73,62,True
+2026,St Louis,139,"Mon, Nov 3",SE Missouri St,W 92-67,92,67,True
+2026,St Louis,139,"Thu, Nov 6",Chicago St,W 108-86,108,86,True
+2026,St Louis,139,"Mon, Nov 10",Lindenwood,W 109-66,109,66,True
+2026,St Louis,139,"Sat, Nov 15",Grand Canyon,W 78-64,78,64,True
+2026,St Louis,139,"Fri, Nov 21",PFW,W 91-60,91,60,True
+2026,St Louis,139,"Thu, Nov 27",Santa Clara,W 71-70,71,70,True
+2026,St Louis,139,"Fri, Nov 28",Stanford,L 78-77,78,77,False
+2026,St Louis,139,"Tue, Dec 2",Loy Marymount,W 91-70,91,70,True
+2026,St Louis,139,"Sun, Dec 7",C Michigan,W 107-65,107,65,True
+2026,St Louis,139,"Sat, Dec 13",San Francisco,W 85-75,85,75,True
+2026,St Louis,139,"Wed, Dec 17",Bethune-Cookman,W 112-53,112,53,True
+2026,St Louis,139,"Sun, Dec 21",New Hampshire,W 93-79,93,79,True
+2026,St Louis,139,"Sun, Dec 28",Principia College,W 114-33,114,33,True
+2026,St Louis,139,"Wed, Dec 31",St Joseph's PA,W 102-79,102,79,True
+2026,St Louis,139,"Wed, Jan 7",VCU,W 71-62,71,62,True
+2026,St Louis,139,"Sat, Jan 10",La Salle,W 84-72,84,72,True
+2026,St Louis,139,"Wed, Jan 14",Fordham,W 78-56,78,56,True
+2026,St Louis,139,"Sat, Jan 17",Richmond,W 88-63,88,63,True
+2026,St Louis,139,"Tue, Jan 20",Duquesne,W 81-77,81,77,True
+2026,St Louis,139,"Fri, Jan 23",St Bonaventure,W 97-62,97,62,True
+2026,St Louis,139,"Tue, Jan 27",G Washington,W 79-76,79,76,True
+2026,St Louis,139,"Fri, Jan 30",Dayton,W 102-71,102,71,True
+2026,St Louis,139,"Tue, Feb 3",Davidson,W 91-82,91,82,True
+2026,St Louis,139,"Sat, Feb 7",La Salle,W 82-58,82,58,True
+2026,St Louis,139,"Fri, Feb 13",Loyola-Chicago,W 86-59,86,59,True
+2026,St Louis,139,"Tue, Feb 17",Rhode Island,L 81-76,81,76,False
+2026,St Louis,139,"Fri, Feb 20",VCU,W 88-75,88,75,True
+2026,St Louis,139,"Tue, Feb 24",Dayton,L 77-62,77,62,False
+2026,St Louis,139,"Sat, Feb 28",Duquesne,W 91-76,91,76,True
+2026,St Louis,139,"Wed, Mar 4",Loyola-Chicago,W 79-65,79,65,True
+2026,St Louis,139,"Sat, Mar 7",George Mason,L 86-57,86,57,False
+2026,St Louis,139,"Fri, Mar 13",G Washington,W 88-81,88,81,True
+2026,St Louis,139,"Sat, Mar 14",Dayton,L 70-69,70,69,False
+2026,South Florida,58,"Mon, Nov 3",Florida A&M,W 102-67,102,67,True
+2026,South Florida,58,"Sat, Nov 8",G Washington,L 99-95,99,95,False
+2026,South Florida,58,"Wed, Nov 12",Coppin St,W 100-50,100,50,True
+2026,South Florida,58,"Sun, Nov 16",Kennesaw,W 108-89,108,89,True
+2026,South Florida,58,"Wed, Nov 19",Oklahoma St,L 103-95,103,95,False
+2026,South Florida,58,"Wed, Nov 26",VCU,L 78-66,78,66,False
+2026,South Florida,58,"Fri, Nov 28",Colorado St,L 83-68,83,68,False
+2026,South Florida,58,"Thu, Dec 4",Utah St,W 74-61,74,61,True
+2026,South Florida,58,"Wed, Dec 10",Col Charleston,W 81-75,81,75,True
+2026,South Florida,58,"Wed, Dec 17",Alabama,L 104-93,104,93,False
+2026,South Florida,58,"Sun, Dec 21",UMBC,W 94-69,94,69,True
+2026,South Florida,58,"Mon, Dec 29",Georgia College,W 111-50,111,50,True
+2026,South Florida,58,"Wed, Jan 7",North Texas,W 74-70,74,70,True
+2026,South Florida,58,"Sat, Jan 10",Tulsa,W 93-78,93,78,True
+2026,South Florida,58,"Wed, Jan 14",East Carolina,W 82-71,82,71,True
+2026,South Florida,58,"Thu, Jan 22",UAB,W 82-69,82,69,True
+2026,South Florida,58,"Sun, Jan 25",FL Atlantic,W 89-75,89,75,True
+2026,South Florida,58,"Wed, Jan 28",Tulane,W 97-83,97,83,True
+2026,South Florida,58,"Sat, Jan 31",Temple,L 79-78,79,78,False
+2026,South Florida,58,"Wed, Feb 4",UT San Antonio,W 109-88,109,88,True
+2026,South Florida,58,"Sun, Feb 8",Tulsa,W 80-74,80,74,True
+2026,South Florida,58,"Wed, Feb 11",Wichita St,W 66-58,66,58,True
+2026,South Florida,58,"Thu, Feb 19",Memphis,W 87-66,87,66,True
+2026,South Florida,58,"Wed, Feb 25",Rice,W 75-56,75,56,True
+2026,South Florida,58,"Sun, Mar 1",Tulane,W 90-62,90,62,True
+2026,South Florida,58,"Thu, Mar 5",Memphis,W 96-89,96,89,True
+2026,South Florida,58,"Sun, Mar 8",Charlotte,W 83-60,83,60,True
+2026,South Florida,58,"Sat, Mar 14",Charlotte,W 86-64,86,64,True
+2026,South Florida,58,"Sun, Mar 15",Wichita St,W 70-55,70,55,True
+2026,Northern Iowa,2460,"Thu, Nov 6",CS Northridge,W 86-57,86,57,True
+2026,Northern Iowa,2460,"Sun, Nov 9",S Dakota St,W 65-58,65,58,True
+2026,Northern Iowa,2460,"Fri, Nov 14",Furman,W 70-54,70,54,True
+2026,Northern Iowa,2460,"Tue, Nov 18",N Illinois,W 70-57,70,57,True
+2026,Northern Iowa,2460,"Tue, Nov 25",Loyola-Chicago,W 72-51,72,51,True
+2026,Northern Iowa,2460,"Wed, Nov 26",Tulsa,L 63-60,63,60,False
+2026,Northern Iowa,2460,"Mon, Dec 1",Coe,W 99-34,99,34,True
+2026,Northern Iowa,2460,"Sat, Dec 13",Oakland,W 75-63,75,63,True
+2026,Northern Iowa,2460,"Wed, Dec 17",IL Chicago,W 60-54,60,54,True
+2026,Northern Iowa,2460,"Mon, Dec 22",St Mary's CA,L 63-58,63,58,False
+2026,Northern Iowa,2460,"Mon, Dec 29",Valparaiso,W 58-48,58,48,True
+2026,Northern Iowa,2460,"Thu, Jan 1",Indiana St,W 75-66,75,66,True
+2026,Northern Iowa,2460,"Sun, Jan 4",Evansville,W 62-48,62,48,True
+2026,Northern Iowa,2460,"Wed, Jan 7",Belmont,L 78-65,78,65,False
+2026,Northern Iowa,2460,"Sat, Jan 10",Bradley,L 75-69,75,69,False
+2026,Northern Iowa,2460,"Tue, Jan 13",IL Chicago,L 69-61,69,61,False
+2026,Northern Iowa,2460,"Sat, Jan 17",Valparaiso,L 54-44,54,44,False
+2026,Northern Iowa,2460,"Wed, Jan 21",Illinois St,L 59-54,59,54,False
+2026,Northern Iowa,2460,"Sat, Jan 24",Murray St,W 81-76,81,76,True
+2026,Northern Iowa,2460,"Wed, Jan 28",S Illinois,L 65-50,65,50,False
+2026,Northern Iowa,2460,"Sat, Jan 31",Evansville,W 71-55,71,55,True
+2026,Northern Iowa,2460,"Fri, Feb 6",Bradley,W 61-49,61,49,True
+2026,Northern Iowa,2460,"Mon, Feb 9",Murray St,W 89-60,89,60,True
+2026,Northern Iowa,2460,"Thu, Feb 12",Belmont,L 91-86,91,86,False
+2026,Northern Iowa,2460,"Sun, Feb 15",Drake,W 86-62,86,62,True
+2026,Northern Iowa,2460,"Wed, Feb 18",Indiana St,W 81-60,81,60,True
+2026,Northern Iowa,2460,"Sat, Feb 21",S Illinois,L 59-57,59,57,False
+2026,Northern Iowa,2460,"Wed, Feb 25",Illinois St,L 71-69,71,69,False
+2026,Northern Iowa,2460,"Sun, Mar 1",Drake,W 75-53,75,53,True
+2026,Northern Iowa,2460,"Thu, Mar 5",Evansville,W 68-59,68,59,True
+2026,Northern Iowa,2460,"Fri, Mar 6",Illinois St,W 74-52,74,52,True
+2026,Northern Iowa,2460,"Sat, Mar 7",Bradley,W 73-69,73,69,True
+2026,Northern Iowa,2460,"Sun, Mar 8",IL Chicago,W 84-69,84,69,True
+2026,Miami OH,193,"Mon, Nov 3",Old Dominion,W 87-72,87,72,True
+2026,Miami OH,193,"Fri, Nov 7",Trinity Christian (IL),W 129-49,129,49,True
+2026,Miami OH,193,"Sat, Nov 15",Air Force,W 76-61,76,61,True
+2026,Miami OH,193,"Thu, Nov 20",Mercyhurst,W 76-71,76,71,True
+2026,Miami OH,193,"Sun, Nov 23",Ark Pine Bluff,W 111-84,111,84,True
+2026,Miami OH,193,"Wed, Nov 26",UNC Greensboro,W 82-71,82,71,True
+2026,Miami OH,193,"Tue, Dec 2",Indiana University East,W 109-65,109,65,True
+2026,Miami OH,193,"Sat, Dec 6",Maine,W 93-61,93,61,True
+2026,Miami OH,193,"Sat, Dec 13",E Kentucky,W 79-69,79,69,True
+2026,Miami OH,193,"Tue, Dec 16",Wright St,W 83-76,83,76,True
+2026,Miami OH,193,"Sat, Dec 20",Ball St,W 86-77,86,77,True
+2026,Miami OH,193,"Mon, Dec 22",Milligan,W 135-81,135,81,True
+2026,Miami OH,193,"Tue, Dec 30",Bowling Green,W 93-83,93,83,True
+2026,Miami OH,193,"Sat, Jan 3",Akron,W 76-73,76,73,True
+2026,Miami OH,193,"Tue, Jan 6",W Michigan,W 87-76,87,76,True
+2026,Miami OH,193,"Fri, Jan 9",Toledo,W 87-73,87,73,True
+2026,Miami OH,193,"Tue, Jan 13",C Michigan,W 100-61,100,61,True
+2026,Miami OH,193,"Tue, Jan 27",Massachusetts,W 86-84,86,84,True
+2026,Miami OH,193,"Sat, Jan 31",N Illinois,W 85-61,85,61,True
+2026,Miami OH,193,"Tue, Feb 3",Buffalo,W 73-71,73,71,True
+2026,Miami OH,193,"Sat, Feb 7",Marshall,W 90-74,90,74,True
+2026,Miami OH,193,"Fri, Feb 13",Ohio,W 90-74,90,74,True
+2026,Miami OH,193,"Tue, Feb 17",Massachusetts,W 86-77,86,77,True
+2026,Miami OH,193,"Fri, Feb 20",Bowling Green,W 91-77,91,77,True
+2026,Miami OH,193,"Tue, Feb 24",E Michigan,W 74-64,74,64,True
+2026,Miami OH,193,"Fri, Feb 27",W Michigan,W 69-67,69,67,True
+2026,Miami OH,193,"Tue, Mar 3",Toledo,W 74-72,74,72,True
+2026,Miami OH,193,"Thu, Mar 12",Massachusetts,L 87-83,87,83,False
+2026,McNeese St,2377,"Mon, Nov 3",Champion Christian,W 127-65,127,65,True
+2026,McNeese St,2377,"Fri, Nov 7",Santa Clara,L 79-67,79,67,False
+2026,McNeese St,2377,"Mon, Nov 10",College Of Biblical Studies,W 132-50,132,50,True
+2026,McNeese St,2377,"Fri, Nov 14",Louisiana,W 88-62,88,62,True
+2026,McNeese St,2377,"Sun, Nov 23",G Washington,W 92-86,92,86,True
+2026,McNeese St,2377,"Mon, Nov 24",Murray St,W 73-60,73,60,True
+2026,McNeese St,2377,"Tue, Nov 25",MTSU,W 72-62,72,62,True
+2026,McNeese St,2377,"Mon, Dec 1",Incarnate Word,L 71-67,71,67,False
+2026,McNeese St,2377,"Fri, Dec 5",Northwestern LA,W 92-54,92,54,True
+2026,McNeese St,2377,"Tue, Dec 9",Rhode Island,W 66-64,66,64,True
+2026,McNeese St,2377,"Fri, Dec 12",East Texas A&M,W 102-66,102,66,True
+2026,McNeese St,2377,"Mon, Dec 15",Houston Chr,W 78-68,78,68,True
+2026,McNeese St,2377,"Mon, Dec 29",Michigan,L 112-71,112,71,False
+2026,McNeese St,2377,"Fri, Jan 2",Lamar,W 82-70,82,70,True
+2026,McNeese St,2377,"Mon, Jan 5",SF Austin,W 66-64,66,64,True
+2026,McNeese St,2377,"Sat, Jan 10",SE Louisiana,W 73-61,73,61,True
+2026,McNeese St,2377,"Mon, Jan 12",Nicholls St,W 94-68,94,68,True
+2026,McNeese St,2377,"Sat, Jan 17",UTRGV,L 79-76,79,76,False
+2026,McNeese St,2377,"Mon, Jan 19",TAM C. Christi,W 69-53,69,53,True
+2026,McNeese St,2377,"Sat, Jan 24",New Orleans,W 82-63,82,63,True
+2026,McNeese St,2377,"Tue, Jan 27",SE Louisiana,W 76-66,76,66,True
+2026,McNeese St,2377,"Sat, Jan 31",Lamar,W 64-63,64,63,True
+2026,McNeese St,2377,"Mon, Feb 2",SF Austin,L 67-60,67,60,False
+2026,McNeese St,2377,"Sat, Feb 7",Incarnate Word,W 81-64,81,64,True
+2026,McNeese St,2377,"Mon, Feb 9",Houston Chr,W 73-69,73,69,True
+2026,McNeese St,2377,"Sat, Feb 14",East Texas A&M,W 97-54,97,54,True
+2026,McNeese St,2377,"Mon, Feb 16",Northwestern LA,W 75-64,75,64,True
+2026,McNeese St,2377,"Sat, Feb 21",TAM C. Christi,W 70-54,70,54,True
+2026,McNeese St,2377,"Mon, Feb 23",UTRGV,W 75-68,75,68,True
+2026,McNeese St,2377,"Sat, Feb 28",New Orleans,W 66-63,66,63,True
+2026,McNeese St,2377,"Mon, Mar 2",Nicholls St,W 75-65,75,65,True
+2026,McNeese St,2377,"Wed, Mar 11",SF Austin,W 76-59,76,59,True
+2026,Hofstra,2275,"Mon, Nov 3",UCF,L 82-78,82,78,False
+2026,Hofstra,2275,"Fri, Nov 7",Iona,L 81-73,81,73,False
+2026,Hofstra,2275,"Mon, Nov 10",Molloy,W 95-61,95,61,True
+2026,Hofstra,2275,"Fri, Nov 14",Bucknell,W 83-77,83,77,True
+2026,Hofstra,2275,"Wed, Nov 19",Temple,L 81-76,81,76,False
+2026,Hofstra,2275,"Fri, Nov 28",La Salle,W 63-58,63,58,True
+2026,Hofstra,2275,"Sat, Nov 29",Merrimack,W 78-58,78,58,True
+2026,Hofstra,2275,"Sun, Nov 30",Penn,W 77-60,77,60,True
+2026,Hofstra,2275,"Wed, Dec 3",Columbia,L 72-70,72,70,False
+2026,Hofstra,2275,"Sun, Dec 7",Pittsburgh,W 80-73,80,73,True
+2026,Hofstra,2275,"Wed, Dec 10",Old Westbury,W 92-23,92,23,True
+2026,Hofstra,2275,"Sat, Dec 13",Syracuse,W 70-69,70,69,True
+2026,Hofstra,2275,"Sun, Dec 21",Quinnipiac,W 74-66,74,66,True
+2026,Hofstra,2275,"Mon, Dec 29",Campbell,W 86-72,86,72,True
+2026,Hofstra,2275,"Sat, Jan 3",Drexel,W 70-67,70,67,True
+2026,Hofstra,2275,"Thu, Jan 8",Towson,W 78-67,78,67,True
+2026,Hofstra,2275,"Thu, Jan 15",Stony Brook,L 76-71,76,71,False
+2026,Hofstra,2275,"Sat, Jan 17",Elon,L 89-85,89,85,False
+2026,Hofstra,2275,"Thu, Jan 22",NC A&T,L 79-78,79,78,False
+2026,Hofstra,2275,"Sat, Jan 24",William & Mary,L 89-82,89,82,False
+2026,Hofstra,2275,"Thu, Jan 29",Col Charleston,L 66-64,66,64,False
+2026,Hofstra,2275,"Sat, Jan 31",Monmouth NJ,W 73-57,73,57,True
+2026,Hofstra,2275,"Thu, Feb 5",Northeastern,W 80-63,80,63,True
+2026,Hofstra,2275,"Sat, Feb 7",Towson,W 71-49,71,49,True
+2026,Hofstra,2275,"Thu, Feb 12",Col Charleston,W 66-62,66,62,True
+2026,Hofstra,2275,"Sat, Feb 14",UNC Wilmington,L 70-66,70,66,False
+2026,Hofstra,2275,"Thu, Feb 19",Hampton,W 79-43,79,43,True
+2026,Hofstra,2275,"Sat, Feb 21",Northeastern,W 82-68,82,68,True
+2026,Hofstra,2275,"Sat, Feb 28",Stony Brook,W 67-58,67,58,True
+2026,Hofstra,2275,"Tue, Mar 3",Drexel,W 62-51,62,51,True
+2026,Hofstra,2275,"Sun, Mar 8",William & Mary,W 92-61,92,61,True
+2026,Hofstra,2275,"Tue, Mar 10",Monmouth NJ,W 75-69,75,69,True
+2026,Cal Baptist,2856,"Mon, Nov 3",SC Upstate,W 87-75,87,75,True
+2026,Cal Baptist,2856,"Fri, Nov 7",UC Irvine,W 69-61,69,61,True
+2026,Cal Baptist,2856,"Fri, Nov 14",W Illinois,W 69-59,69,59,True
+2026,Cal Baptist,2856,"Tue, Nov 18",UC Riverside,W 80-57,80,57,True
+2026,Cal Baptist,2856,"Fri, Nov 21",Grambling,W 72-59,72,59,True
+2026,Cal Baptist,2856,"Tue, Nov 25",San Diego,W 76-61,76,61,True
+2026,Cal Baptist,2856,"Sat, Nov 29",Oregon St,W 75-69,75,69,True
+2026,Cal Baptist,2856,"Mon, Dec 1",Colorado,L 78-70,78,70,False
+2026,Cal Baptist,2856,"Wed, Dec 3",BYU,L 91-60,91,60,False
+2026,Cal Baptist,2856,"Sat, Dec 6",Utah,L 91-85,91,85,False
+2026,Cal Baptist,2856,"Fri, Dec 12",E Washington,W 88-83,88,83,True
+2026,Cal Baptist,2856,"Tue, Dec 16",Southern Univ,W 75-67,75,67,True
+2026,Cal Baptist,2856,"Sat, Dec 20",CS Sacramento,W 74-67,74,67,True
+2026,Cal Baptist,2856,"Mon, Dec 29",Utah Valley,L 73-66,73,66,False
+2026,Cal Baptist,2856,"Thu, Jan 1",UT Arlington,L 63-51,63,51,False
+2026,Cal Baptist,2856,"Thu, Jan 8",Utah Tech,W 84-72,84,72,True
+2026,Cal Baptist,2856,"Sat, Jan 10",Southern Utah,W 58-55,58,55,True
+2026,Cal Baptist,2856,"Thu, Jan 15",Abilene Chr,W 74-58,74,58,True
+2026,Cal Baptist,2856,"Wed, Jan 21",Utah Tech,W 73-64,73,64,True
+2026,Cal Baptist,2856,"Thu, Feb 5",Tarleton St,W 56-55,56,55,True
+2026,Cal Baptist,2856,"Sat, Feb 7",Abilene Chr,W 65-63,65,63,True
+2026,Cal Baptist,2856,"Thu, Feb 12",Southern Utah,W 83-66,83,66,True
+2026,Cal Baptist,2856,"Sat, Feb 14",Utah Tech,L 70-65,70,65,False
+2026,Cal Baptist,2856,"Thu, Feb 19",Utah Valley,L 65-46,65,46,False
+2026,Cal Baptist,2856,"Thu, Feb 26",UT Arlington,W 68-56,68,56,True
+2026,Cal Baptist,2856,"Sat, Feb 28",Tarleton St,W 82-67,82,67,True
+2026,Cal Baptist,2856,"Thu, Mar 5",Abilene Chr,W 87-48,87,48,True
+2026,Cal Baptist,2856,"Sat, Mar 7",Southern Utah,W 82-75,82,75,True
+2026,Cal Baptist,2856,"Fri, Mar 13",Utah Tech,W 86-72,86,72,True
+2026,Cal Baptist,2856,"Sat, Mar 14",Utah Valley,W 63-61,63,61,True
+2026,Hawaii,62,"Tue, Nov 4",Oregon,L 60-59,60,59,False
+2026,Hawaii,62,"Mon, Nov 10",East Texas A&M,W 100-74,100,74,True
+2026,Hawaii,62,"Wed, Nov 12",MS Valley St,W 88-56,88,56,True
+2026,Hawaii,62,"Fri, Nov 14",Manhattan,W 86-56,86,56,True
+2026,Hawaii,62,"Sat, Nov 15",Utah Tech,W 68-62,68,62,True
+2026,Hawaii,62,"Thu, Nov 20",Arizona St,L 83-76,83,76,False
+2026,Hawaii,62,"Mon, Nov 24",Hawai'i Pacific,W 88-76,88,76,True
+2026,Hawaii,62,"Fri, Nov 28",North Dakota,W 92-55,92,55,True
+2026,Hawaii,62,"Thu, Dec 4",UC Davis,W 75-69,75,69,True
+2026,Hawaii,62,"Sat, Dec 6",CS Fullerton,W 69-59,69,59,True
+2026,Hawaii,62,"Wed, Dec 10",Hawai'i Hilo,W 98-46,98,46,True
+2026,Hawaii,62,"Sat, Dec 13",UTEP,W 66-61,66,61,True
+2026,Hawaii,62,"Thu, Jan 1",UC Riverside,W 88-45,88,45,True
+2026,Hawaii,62,"Sat, Jan 3",UC San Diego,L 83-73,83,73,False
+2026,Hawaii,62,"Sat, Jan 10",UC Irvine,W 67-66,67,66,True
+2026,Hawaii,62,"Thu, Jan 15",Cal Poly,W 86-66,86,66,True
+2026,Hawaii,62,"Sat, Jan 17",UC Santa Barbara,L 77-62,77,62,False
+2026,Hawaii,62,"Thu, Jan 22",CS Bakersfield,W 98-71,98,71,True
+2026,Hawaii,62,"Sat, Jan 24",CS Northridge,W 89-68,89,68,True
+2026,Hawaii,62,"Sat, Jan 31",Long Beach St,W 89-82,89,82,True
+2026,Hawaii,62,"Sat, Feb 7",UC San Diego,W 72-67,72,67,True
+2026,Hawaii,62,"Thu, Feb 12",CS Bakersfield,W 89-74,89,74,True
+2026,Hawaii,62,"Sat, Feb 14",CS Northridge,L 84-60,84,60,False
+2026,Hawaii,62,"Thu, Feb 19",Cal Poly,L 86-75,86,75,False
+2026,Hawaii,62,"Thu, Feb 26",UC Davis,W 77-73,77,73,True
+2026,Hawaii,62,"Sat, Feb 28",CS Fullerton,W 87-85,87,85,True
+2026,Hawaii,62,"Thu, Mar 5",UC Riverside,W 93-74,93,74,True
+2026,Hawaii,62,"Sat, Mar 7",Long Beach St,L 84-75,84,75,False
+2026,Hawaii,62,"Fri, Mar 13",CS Fullerton,W 78-63,78,63,True
+2026,Hawaii,62,"Sat, Mar 14",UC Irvine,W 71-64,71,64,True
+2026,High Point,2272,"Mon, Nov 3",Furman,W 97-71,97,71,True
+2026,High Point,2272,"Sat, Nov 8",Averett,W 127-52,127,52,True
+2026,High Point,2272,"Tue, Nov 11",Jacksonville,W 85-64,85,64,True
+2026,High Point,2272,"Fri, Nov 14",UAB,L 91-74,91,74,False
+2026,High Point,2272,"Mon, Nov 17",Canisius,W 93-50,93,50,True
+2026,High Point,2272,"Thu, Nov 20",IL Chicago,W 90-80,90,80,True
+2026,High Point,2272,"Sat, Nov 22",Incarnate Word,W 91-80,91,80,True
+2026,High Point,2272,"Sat, Nov 29",W Carolina,W 93-73,93,73,True
+2026,High Point,2272,"Wed, Dec 3",S Illinois,L 86-84,86,84,False
+2026,High Point,2272,"Fri, Dec 5",NJIT,W 89-72,89,72,True
+2026,High Point,2272,"Tue, Dec 16",Mary Baldwin,W 129-47,129,47,True
+2026,High Point,2272,"Fri, Dec 19",La Salle,W 84-72,84,72,True
+2026,High Point,2272,"Mon, Dec 22",Bryant,W 93-47,93,47,True
+2026,High Point,2272,"Sun, Dec 28",Pfeiffer,W 123-64,123,64,True
+2026,High Point,2272,"Wed, Dec 31",UNC Asheville,W 87-69,87,69,True
+2026,High Point,2272,"Sat, Jan 3",Longwood,W 80-67,80,67,True
+2026,High Point,2272,"Wed, Jan 7",Gardner Webb,W 104-49,104,49,True
+2026,High Point,2272,"Wed, Jan 14",Winthrop,L 92-75,92,75,False
+2026,High Point,2272,"Sat, Jan 17",SC Upstate,W 89-69,89,69,True
+2026,High Point,2272,"Fri, Jan 23",Radford,W 93-83,93,83,True
+2026,High Point,2272,"Thu, Jan 29",Presbyterian,W 84-81,84,81,True
+2026,High Point,2272,"Sat, Jan 31",Longwood,W 71-59,71,59,True
+2026,High Point,2272,"Wed, Feb 4",Charleston So,W 80-55,80,55,True
+2026,High Point,2272,"Sat, Feb 7",Radford,W 86-77,86,77,True
+2026,High Point,2272,"Thu, Feb 12",SC Upstate,W 95-70,95,70,True
+2026,High Point,2272,"Sat, Feb 14",Gardner Webb,W 112-87,112,87,True
+2026,High Point,2272,"Thu, Feb 19",UNC Asheville,W 74-48,74,48,True
+2026,High Point,2272,"Sat, Feb 21",Winthrop,W 89-87,89,87,True
+2026,High Point,2272,"Thu, Feb 26",Presbyterian,W 79-73,79,73,True
+2026,High Point,2272,"Fri, Mar 6",Gardner Webb,W 81-59,81,59,True
+2026,High Point,2272,"Sat, Mar 7",UNC Asheville,W 75-71,75,71,True
+2026,High Point,2272,"Sun, Mar 8",Winthrop,W 91-76,91,76,True
+2026,Idaho,70,"Mon, Nov 3",Washington St,W 83-81,83,81,True
+2026,Idaho,70,"Fri, Nov 7",Whitman,W 94-49,94,49,True
+2026,Idaho,70,"Wed, Nov 12",San Diego,L 78-74,78,74,False
+2026,Idaho,70,"Sat, Nov 15",UC San Diego,L 75-67,75,67,False
+2026,Idaho,70,"Sat, Nov 22",Eastern Oregon,W 97-68,97,68,True
+2026,Idaho,70,"Wed, Nov 26",CS Northridge,W 78-64,78,64,True
+2026,Idaho,70,"Fri, Nov 28",Sam Houston St,L 94-68,94,68,False
+2026,Idaho,70,"Wed, Dec 3",North Dakota,W 90-58,90,58,True
+2026,Idaho,70,"Sat, Dec 6",S Dakota St,W 84-81,84,81,True
+2026,Idaho,70,"Wed, Dec 10",Notre Dame,L 80-65,80,65,False
+2026,Idaho,70,"Sun, Dec 14",Evergreen State,W 109-55,109,55,True
+2026,Idaho,70,"Tue, Dec 23",CS Bakersfield,L 64-63,64,63,False
+2026,Idaho,70,"Sat, Jan 3",E Washington,W 84-81,84,81,True
+2026,Idaho,70,"Thu, Jan 8",Montana,L 79-73,79,73,False
+2026,Idaho,70,"Sat, Jan 10",Montana St,W 92-89,92,89,True
+2026,Idaho,70,"Thu, Jan 15",Idaho St,L 76-68,76,68,False
+2026,Idaho,70,"Sat, Jan 17",Weber St,W 75-67,75,67,True
+2026,Idaho,70,"Thu, Jan 22",CS Sacramento,W 86-76,86,76,True
+2026,Idaho,70,"Sat, Jan 24",Portland St,L 69-66,69,66,False
+2026,Idaho,70,"Thu, Jan 29",N Colorado,L 91-83,91,83,False
+2026,Idaho,70,"Sat, Jan 31",Northern Arizona,W 79-62,79,62,True
+2026,Idaho,70,"Thu, Feb 5",Montana St,L 73-66,73,66,False
+2026,Idaho,70,"Sat, Feb 7",Montana,L 73-68,73,68,False
+2026,Idaho,70,"Thu, Feb 12",Weber St,L 83-72,83,72,False
+2026,Idaho,70,"Sat, Feb 14",Idaho St,W 99-69,99,69,True
+2026,Idaho,70,"Thu, Feb 19",Portland St,L 77-67,77,67,False
+2026,Idaho,70,"Sat, Feb 21",CS Sacramento,W 86-80,86,80,True
+2026,Idaho,70,"Thu, Feb 26",Northern Arizona,W 78-58,78,58,True
+2026,Idaho,70,"Sat, Feb 28",N Colorado,L 76-67,76,67,False
+2026,Idaho,70,"Mon, Mar 2",E Washington,W 85-81,85,81,True
+2026,Idaho,70,"Sat, Mar 7",CS Sacramento,W 68-45,68,45,True
+2026,Idaho,70,"Sun, Mar 8",Montana St,W 78-74,78,74,True
+2026,Idaho,70,"Tue, Mar 10",E Washington,W 81-68,81,68,True
+2026,Idaho,70,"Wed, Mar 11",Montana,W 77-66,77,66,True
+2026,N Dakota St,2449,"Mon, Nov 3",Oregon St,L 67-65,67,65,False
+2026,N Dakota St,2449,"Wed, Nov 5",UC Davis,L 80-68,80,68,False
+2026,N Dakota St,2449,"Tue, Nov 11",CS Northridge,W 90-68,90,68,True
+2026,N Dakota St,2449,"Wed, Nov 12",St. Scholastica,W 111-38,111,38,True
+2026,N Dakota St,2449,"Mon, Nov 17",S Illinois,W 92-85,92,85,True
+2026,N Dakota St,2449,"Wed, Nov 19",Jamestown,W 82-67,82,67,True
+2026,N Dakota St,2449,"Wed, Nov 26",Jacksonville St,W 56-43,56,43,True
+2026,N Dakota St,2449,"Wed, Dec 3",Montana,W 81-72,81,72,True
+2026,N Dakota St,2449,"Sat, Dec 6",Northern Arizona,W 69-68,69,68,True
+2026,N Dakota St,2449,"Thu, Dec 11",CS Bakersfield,W 80-69,80,69,True
+2026,N Dakota St,2449,"Sat, Dec 13",Drake,W 99-94,99,94,True
+2026,N Dakota St,2449,"Mon, Dec 15",Minnesota Crookston,W 101-67,101,67,True
+2026,N Dakota St,2449,"Sun, Dec 21",UC Irvine,L 74-73,74,73,False
+2026,N Dakota St,2449,"Mon, Dec 22",UTEP,L 76-66,76,66,False
+2026,N Dakota St,2449,"Wed, Dec 31",South Dakota,W 84-61,84,61,True
+2026,N Dakota St,2449,"Thu, Jan 8",Missouri KC,W 97-73,97,73,True
+2026,N Dakota St,2449,"Sat, Jan 10",NE Omaha,W 78-76,78,76,True
+2026,N Dakota St,2449,"Wed, Jan 14",S Dakota St,W 76-65,76,65,True
+2026,N Dakota St,2449,"Sat, Jan 17",St. Thomas-Minnesota,W 68-65,68,65,True
+2026,N Dakota St,2449,"Thu, Jan 22",Denver,W 82-77,82,77,True
+2026,N Dakota St,2449,"Sat, Jan 24",Oral Roberts,W 86-58,86,58,True
+2026,N Dakota St,2449,"Thu, Feb 5",Denver,L 78-71,78,71,False
+2026,N Dakota St,2449,"Sat, Feb 7",NE Omaha,W 92-84,92,84,True
+2026,N Dakota St,2449,"Sat, Feb 14",North Dakota,W 83-66,83,66,True
+2026,N Dakota St,2449,"Wed, Feb 18",S Dakota St,W 74-66,74,66,True
+2026,N Dakota St,2449,"Sat, Feb 21",Missouri KC,W 95-59,95,59,True
+2026,N Dakota St,2449,"Thu, Feb 26",St. Thomas-Minnesota,L 84-62,84,62,False
+2026,N Dakota St,2449,"Sat, Feb 28",North Dakota,W 96-63,96,63,True
+2026,N Dakota St,2449,"Thu, Mar 5",Oral Roberts,W 76-65,76,65,True
+2026,N Dakota St,2449,"Sat, Mar 7",NE Omaha,W 74-50,74,50,True
+2026,N Dakota St,2449,"Sun, Mar 8",North Dakota,W 70-62,70,62,True
+2026,Queens NC,2511,"Mon, Nov 3",Winthrop,L 81-74,81,74,False
+2026,Queens NC,2511,"Wed, Nov 5",Lynchburg,W 87-76,87,76,True
+2026,Queens NC,2511,"Sat, Nov 8",Villanova,L 94-74,94,74,False
+2026,Queens NC,2511,"Sat, Nov 15",Sacred Heart,W 81-64,81,64,True
+2026,Queens NC,2511,"Thu, Nov 20",UNC Greensboro,W 101-94,101,94,True
+2026,Queens NC,2511,"Sun, Nov 23",Furman,L 90-79,90,79,False
+2026,Queens NC,2511,"Fri, Nov 28",Virginia,L 94-69,94,69,False
+2026,Queens NC,2511,"Wed, Dec 3",Gardner Webb,W 107-74,107,74,True
+2026,Queens NC,2511,"Fri, Dec 12",S Carolina St,W 102-78,102,78,True
+2026,Queens NC,2511,"Sun, Dec 14",Wake Forest,L 111-73,111,73,False
+2026,Queens NC,2511,"Tue, Dec 16",Arkansas,L 108-80,108,80,False
+2026,Queens NC,2511,"Mon, Dec 29",Auburn,L 106-65,106,65,False
+2026,Queens NC,2511,"Thu, Jan 1",E Kentucky,W 91-89,91,89,True
+2026,Queens NC,2511,"Sat, Jan 3",Bellarmine,W 98-76,98,76,True
+2026,Queens NC,2511,"Thu, Jan 8",Jacksonville,W 77-51,77,51,True
+2026,Queens NC,2511,"Sat, Jan 10",North Florida,W 89-82,89,82,True
+2026,Queens NC,2511,"Thu, Jan 15",FGCU,W 85-74,85,74,True
+2026,Queens NC,2511,"Sat, Jan 17",Stetson,W 87-81,87,81,True
+2026,Queens NC,2511,"Wed, Jan 21",North Alabama,W 87-62,87,62,True
+2026,Queens NC,2511,"Sat, Jan 24",West Georgia,L 74-66,74,66,False
+2026,Queens NC,2511,"Wed, Jan 28",Cent Arkansas,L 100-90,100,90,False
+2026,Queens NC,2511,"Sat, Jan 31",Bellarmine,L 78-75,78,75,False
+2026,Queens NC,2511,"Thu, Feb 5",Jacksonville,W 93-84,93,84,True
+2026,Queens NC,2511,"Sat, Feb 7",North Florida,W 91-72,91,72,True
+2026,Queens NC,2511,"Wed, Feb 11",Austin Peay,L 95-87,95,87,False
+2026,Queens NC,2511,"Sat, Feb 14",Lipscomb,W 87-81,87,81,True
+2026,Queens NC,2511,"Wed, Feb 18",North Alabama,W 85-78,85,78,True
+2026,Queens NC,2511,"Sat, Feb 21",West Georgia,W 91-84,91,84,True
+2026,Queens NC,2511,"Wed, Feb 25",E Kentucky,W 96-79,96,79,True
+2026,Queens NC,2511,"Sat, Feb 28",Cent Arkansas,L 84-79,84,79,False
+2026,Queens NC,2511,"Fri, Mar 6",West Georgia,W 71-63,71,63,True
+2026,Queens NC,2511,"Sat, Mar 7",Austin Peay,W 90-83,90,83,True
+2026,Troy,2653,"Fri, Nov 7",Furman,W 64-61,64,61,True
+2026,Troy,2653,"Tue, Nov 11",Pensacola Christian College,W 121-56,121,56,True
+2026,Troy,2653,"Fri, Nov 14",Loy Marymount,L 74-63,74,63,False
+2026,Troy,2653,"Sun, Nov 16",CS Northridge,L 94-85,94,85,False
+2026,Troy,2653,"Mon, Nov 24",Toledo,L 75-68,75,68,False
+2026,Troy,2653,"Wed, Nov 26",Saint Francis,W 74-64,74,64,True
+2026,Troy,2653,"Sat, Dec 6",LaGrange,W 101-47,101,47,True
+2026,Troy,2653,"Sun, Dec 14",UAB,W 86-85,86,85,True
+2026,Troy,2653,"Sat, Dec 20",Marshall,W 70-63,70,63,True
+2026,Troy,2653,"Wed, Dec 31",Texas St,W 100-80,100,80,True
+2026,Troy,2653,"Sat, Jan 3",South Alabama,W 59-49,59,49,True
+2026,Troy,2653,"Wed, Jan 7",Arkansas St,L 86-74,86,74,False
+2026,Troy,2653,"Sat, Jan 10",Louisiana,W 90-70,90,70,True
+2026,Troy,2653,"Wed, Jan 14",Southern Miss,W 91-65,91,65,True
+2026,Troy,2653,"Sat, Jan 17",Arkansas St,W 99-74,99,74,True
+2026,Troy,2653,"Sat, Jan 24",Ga Southern,W 83-78,83,78,True
+2026,Troy,2653,"Thu, Jan 29",James Madison,L 73-64,73,64,False
+2026,Troy,2653,"Sat, Jan 31",Appalachian St,L 66-44,66,44,False
+2026,Troy,2653,"Wed, Feb 4",Georgia St,W 74-63,74,63,True
+2026,Troy,2653,"Sat, Feb 7",Akron,W 79-69,79,69,True
+2026,Troy,2653,"Wed, Feb 11",Texas St,L 74-62,74,62,False
+2026,Troy,2653,"Sat, Feb 14",Southern Miss,L 69-65,69,65,False
+2026,Troy,2653,"Wed, Feb 18",ULM,W 77-76,77,76,True
+2026,Troy,2653,"Sat, Feb 21",South Alabama,L 65-54,65,54,False
+2026,Troy,2653,"Tue, Feb 24",Louisiana,W 78-59,78,59,True
+2026,Troy,2653,"Fri, Feb 27",ULM,W 80-65,80,65,True
+2026,Troy,2653,"Sun, Mar 8",Southern Miss,W 78-70,78,70,True
+2026,Troy,2653,"Mon, Mar 9",Ga Southern,W 77-61,77,61,True
+2026,Furman,231,"Mon, Nov 3",High Point,L 97-71,97,71,False
+2026,Furman,231,"Fri, Nov 7",Troy,L 64-61,64,61,False
+2026,Furman,231,"Mon, Nov 10",Columbia International,W 89-59,89,59,True
+2026,Furman,231,"Fri, Nov 14",Northern Iowa,L 70-54,70,54,False
+2026,Furman,231,"Wed, Nov 19",Ohio Christian,W 79-44,79,44,True
+2026,Furman,231,"Sun, Nov 23",Queens NC,W 90-79,90,79,True
+2026,Furman,231,"Thu, Nov 27",Richmond,W 73-72,73,72,True
+2026,Furman,231,"Fri, Nov 28",Illinois St,L 72-65,72,65,False
+2026,Furman,231,"Wed, Dec 3",Elon,W 97-88,97,88,True
+2026,Furman,231,"Sat, Dec 6",Harvard,W 79-69,79,69,True
+2026,Furman,231,"Tue, Dec 9",Bob Jones,W 105-57,105,57,True
+2026,Furman,231,"Thu, Dec 18",Manhattan,W 75-68,75,68,True
+2026,Furman,231,"Sun, Dec 21",Charleston So,W 84-76,84,76,True
+2026,Furman,231,"Wed, Dec 31",Mercer,W 74-72,74,72,True
+2026,Furman,231,"Wed, Jan 7",Chattanooga,W 78-67,78,67,True
+2026,Furman,231,"Sat, Jan 10",VMI,W 69-48,69,48,True
+2026,Furman,231,"Wed, Jan 14",Samford,W 77-73,77,73,True
+2026,Furman,231,"Sat, Jan 17",Wofford,L 74-70,74,70,False
+2026,Furman,231,"Fri, Jan 23",UNC Greensboro,W 89-66,89,66,True
+2026,Furman,231,"Thu, Jan 29",Samford,W 78-73,78,73,True
+2026,Furman,231,"Sun, Feb 1",Chattanooga,W 75-70,75,70,True
+2026,Furman,231,"Sun, Feb 8",UNC Greensboro,L 67-64,67,64,False
+2026,Furman,231,"Wed, Feb 11",Mercer,L 69-64,69,64,False
+2026,Furman,231,"Sat, Feb 14",VMI,W 90-72,90,72,True
+2026,Furman,231,"Wed, Feb 18",ETSU,L 78-69,78,69,False
+2026,Furman,231,"Sat, Feb 21",Wofford,W 76-67,76,67,True
+2026,Furman,231,"Wed, Feb 25",Citadel,W 72-51,72,51,True
+2026,Furman,231,"Sat, Feb 28",W Carolina,L 86-67,86,67,False
+2026,Furman,231,"Sat, Mar 7",Samford,W 86-81,86,81,True
+2026,Furman,231,"Sun, Mar 8",UNC Greensboro,W 81-75,81,75,True
+2026,Furman,231,"Mon, Mar 9",ETSU,W 76-61,76,61,True
+2026,Kennesaw,338,"Mon, Nov 3",Paine,W 105-29,105,29,True
+2026,Kennesaw,338,"Sat, Nov 8",Florida A&M,W 92-72,92,72,True
+2026,Kennesaw,338,"Wed, Nov 12",Point University,W 111-60,111,60,True
+2026,Kennesaw,338,"Sun, Nov 16",South Florida,L 108-89,108,89,False
+2026,Kennesaw,338,"Tue, Nov 25",Oral Roberts,L 91-83,91,83,False
+2026,Kennesaw,338,"Tue, Dec 2",Jackson St,W 88-73,88,73,True
+2026,Kennesaw,338,"Sat, Dec 6",Georgia St,W 92-69,92,69,True
+2026,Kennesaw,338,"Mon, Dec 8",Southern Wesleyan,W 121-66,121,66,True
+2026,Kennesaw,338,"Wed, Dec 17",MTSU,L 68-67,68,67,False
+2026,Kennesaw,338,"Sun, Dec 21",Alabama,L 92-81,92,81,False
+2026,Kennesaw,338,"Fri, Jan 2",Liberty,L 81-73,81,73,False
+2026,Kennesaw,338,"Sun, Jan 4",Delaware,L 67-52,67,52,False
+2026,Kennesaw,338,"Wed, Jan 7",Missouri St,W 90-80,90,80,True
+2026,Kennesaw,338,"Sat, Jan 10",Jacksonville St,W 88-82,88,82,True
+2026,Kennesaw,338,"Wed, Jan 14",Florida Intl,W 89-86,89,86,True
+2026,Kennesaw,338,"Sat, Jan 17",WKU,W 81-65,81,65,True
+2026,Kennesaw,338,"Wed, Jan 21",Sam Houston St,L 93-87,93,87,False
+2026,Kennesaw,338,"Fri, Jan 23",Louisiana Tech,L 82-76,82,76,False
+2026,Kennesaw,338,"Wed, Jan 28",WKU,W 72-69,72,69,True
+2026,Kennesaw,338,"Sat, Jan 31",New Mexico St,W 76-53,76,53,True
+2026,Kennesaw,338,"Sat, Feb 7",Jacksonville St,L 77-58,77,58,False
+2026,Kennesaw,338,"Thu, Feb 12",MTSU,L 90-87,90,87,False
+2026,Kennesaw,338,"Sat, Feb 14",Sam Houston St,L 83-79,83,79,False
+2026,Kennesaw,338,"Wed, Feb 18",Missouri St,W 91-87,91,87,True
+2026,Kennesaw,338,"Sat, Feb 21",Louisiana Tech,W 58-55,58,55,True
+2026,Kennesaw,338,"Thu, Feb 26",Liberty,W 74-65,74,65,True
+2026,Kennesaw,338,"Sat, Feb 28",Delaware,W 90-82,90,82,True
+2026,Kennesaw,338,"Thu, Mar 5",UTEP,L 78-71,78,71,False
+2026,Kennesaw,338,"Sat, Mar 7",New Mexico St,L 79-76,79,76,False
+2026,Kennesaw,338,"Thu, Mar 12",WKU,W 96-87,96,87,True
+2026,Kennesaw,338,"Fri, Mar 13",Sam Houston St,W 79-73,79,73,True
+2026,Kennesaw,338,"Sat, Mar 14",Louisiana Tech,W 71-60,71,60,True
+2026,Wright St,2750,"Mon, Nov 3",Franklin,W 86-37,86,37,True
+2026,Wright St,2750,"Thu, Nov 6",California,L 77-67,77,67,False
+2026,Wright St,2750,"Tue, Nov 11",Toledo,L 81-71,81,71,False
+2026,Wright St,2750,"Sat, Nov 15",Radford,W 92-59,92,59,True
+2026,Wright St,2750,"Thu, Nov 20",Ohio Wesleyan,W 100-47,100,47,True
+2026,Wright St,2750,"Tue, Nov 25",Stetson,W 79-62,79,62,True
+2026,Wright St,2750,"Fri, Nov 28",Butler,L 94-69,94,69,False
+2026,Wright St,2750,"Wed, Dec 3",Youngstown St,L 69-68,69,68,False
+2026,Wright St,2750,"Sun, Dec 7",WI Green Bay,W 86-58,86,58,True
+2026,Wright St,2750,"Sat, Dec 13",Marshall,L 76-74,76,74,False
+2026,Wright St,2750,"Tue, Dec 16",Miami OH,L 83-76,83,76,False
+2026,Wright St,2750,"Mon, Dec 22",E Michigan,W 70-64,70,64,True
+2026,Wright St,2750,"Mon, Dec 29",Oakland,W 88-73,88,73,True
+2026,Wright St,2750,"Thu, Jan 1",WI Milwaukee,W 76-70,76,70,True
+2026,Wright St,2750,"Sun, Jan 4",IUPUI,W 81-77,81,77,True
+2026,Wright St,2750,"Fri, Jan 9",Detroit,W 84-82,84,82,True
+2026,Wright St,2750,"Sun, Jan 11",Oakland,W 94-84,94,84,True
+2026,Wright St,2750,"Thu, Jan 15",Youngstown St,W 93-83,93,83,True
+2026,Wright St,2750,"Wed, Jan 21",Cleveland St,L 85-79,85,79,False
+2026,Wright St,2750,"Sat, Jan 24",N Kentucky,W 88-80,88,80,True
+2026,Wright St,2750,"Fri, Jan 30",WI Milwaukee,W 76-69,76,69,True
+2026,Wright St,2750,"Sun, Feb 1",WI Green Bay,W 83-75,83,75,True
+2026,Wright St,2750,"Wed, Feb 4",Robert Morris,L 72-66,72,66,False
+2026,Wright St,2750,"Sat, Feb 7",PFW,W 73-68,73,68,True
+2026,Wright St,2750,"Thu, Feb 12",Detroit,L 77-74,77,74,False
+2026,Wright St,2750,"Sun, Feb 15",Cleveland St,W 102-90,102,90,True
+2026,Wright St,2750,"Thu, Feb 19",IUPUI,W 85-73,85,73,True
+2026,Wright St,2750,"Sun, Feb 22",Robert Morris,L 81-68,81,68,False
+2026,Wright St,2750,"Wed, Feb 25",PFW,W 74-70,74,70,True
+2026,Wright St,2750,"Sat, Feb 28",N Kentucky,W 92-91,92,91,True
+2026,Wright St,2750,"Wed, Mar 4",Cleveland St,W 90-61,90,61,True
+2026,Wright St,2750,"Mon, Mar 9",N Kentucky,W 103-90,103,90,True
+2026,Wright St,2750,"Tue, Mar 10",Detroit,W 66-63,66,63,True
+2026,Tennessee St,2634,"Mon, Nov 3",Fisk,W 101-50,101,50,True
+2026,Tennessee St,2634,"Sat, Nov 8",Belmont,L 87-79,87,79,False
+2026,Tennessee St,2634,"Tue, Nov 11",Oakwood,W 114-76,114,76,True
+2026,Tennessee St,2634,"Sun, Nov 16",WKU,L 95-82,95,82,False
+2026,Tennessee St,2634,"Thu, Nov 20",Tennessee,L 89-60,89,60,False
+2026,Tennessee St,2634,"Tue, Nov 25",UNC Asheville,W 75-73,75,73,True
+2026,Tennessee St,2634,"Sat, Nov 29",Tennessee Wesleyan,W 98-77,98,77,True
+2026,Tennessee St,2634,"Sun, Nov 30",Chattanooga,W 70-64,70,64,True
+2026,Tennessee St,2634,"Wed, Dec 3",Alabama A&M,L 80-53,80,53,False
+2026,Tennessee St,2634,"Sat, Dec 13",UNLV,W 63-60,63,60,True
+2026,Tennessee St,2634,"Thu, Dec 18",TN Martin,W 78-71,78,71,True
+2026,Tennessee St,2634,"Sat, Dec 20",SE Missouri St,L 91-82,91,82,False
+2026,Tennessee St,2634,"Tue, Dec 30",Tennessee Tech,W 88-76,88,76,True
+2026,Tennessee St,2634,"Sat, Jan 3",Ark Little Rock,W 84-79,84,79,True
+2026,Tennessee St,2634,"Thu, Jan 8",W Illinois,W 90-68,90,68,True
+2026,Tennessee St,2634,"Sat, Jan 10",E Illinois,L 74-70,74,70,False
+2026,Tennessee St,2634,"Sat, Jan 17",Southern Indiana,W 73-67,73,67,True
+2026,Tennessee St,2634,"Thu, Jan 22",SIUE,L 74-66,74,66,False
+2026,Tennessee St,2634,"Sat, Jan 24",Lindenwood,W 96-86,96,86,True
+2026,Tennessee St,2634,"Thu, Jan 29",Ark Little Rock,W 70-63,70,63,True
+2026,Tennessee St,2634,"Mon, Feb 2",Tennessee Tech,L 90-85,90,85,False
+2026,Tennessee St,2634,"Thu, Feb 5",E Illinois,W 77-68,77,68,True
+2026,Tennessee St,2634,"Sat, Feb 7",W Illinois,W 83-56,83,56,True
+2026,Tennessee St,2634,"Thu, Feb 12",Southern Indiana,W 73-71,73,71,True
+2026,Tennessee St,2634,"Sat, Feb 14",Morehead St,L 94-86,94,86,False
+2026,Tennessee St,2634,"Thu, Feb 19",Lindenwood,W 89-80,89,80,True
+2026,Tennessee St,2634,"Sat, Feb 21",SIUE,W 80-53,80,53,True
+2026,Tennessee St,2634,"Thu, Feb 26",SE Missouri St,W 79-71,79,71,True
+2026,Tennessee St,2634,"Sat, Feb 28",TN Martin,W 67-42,67,42,True
+2026,Tennessee St,2634,"Fri, Mar 6",TN Martin,W 68-55,68,55,True
+2026,Tennessee St,2634,"Sat, Mar 7",Morehead St,W 93-67,93,67,True
+2026,Penn,219,"Fri, Nov 7",Rowan,W 119-72,119,72,True
+2026,Penn,219,"Sun, Nov 9",American Univ,L 84-78,84,78,False
+2026,Penn,219,"Tue, Nov 11",Providence,L 106-81,106,81,False
+2026,Penn,219,"Mon, Nov 17",St Joseph's PA,W 83-74,83,74,True
+2026,Penn,219,"Fri, Nov 21",Drexel,W 84-68,84,68,True
+2026,Penn,219,"Fri, Nov 28",Merrimack,W 77-65,77,65,True
+2026,Penn,219,"Sat, Nov 29",La Salle,W 73-71,73,71,True
+2026,Penn,219,"Sun, Nov 30",Hofstra,L 77-60,77,60,False
+2026,Penn,219,"Sat, Dec 6",Villanova,L 90-63,90,63,False
+2026,Penn,219,"Mon, Dec 8",Lafayette,W 74-72,74,72,True
+2026,Penn,219,"Sat, Dec 20",Rutgers,L 70-69,70,69,False
+2026,Penn,219,"Sun, Dec 28",George Mason,L 83-79,83,79,False
+2026,Penn,219,"Wed, Dec 31",NJIT,W 80-61,80,61,True
+2026,Penn,219,"Mon, Jan 5",Princeton,L 78-76,78,76,False
+2026,Penn,219,"Sat, Jan 10",Brown,W 81-73,81,73,True
+2026,Penn,219,"Sat, Jan 17",Dartmouth,W 84-74,84,74,True
+2026,Penn,219,"Mon, Jan 19",Harvard,L 64-63,64,63,False
+2026,Penn,219,"Sat, Jan 24",Yale,L 77-60,77,60,False
+2026,Penn,219,"Fri, Jan 30",Columbia,L 72-67,72,67,False
+2026,Penn,219,"Sat, Jan 31",Cornell,W 91-81,91,81,True
+2026,Penn,219,"Sat, Feb 7",Princeton,W 61-60,61,60,True
+2026,Penn,219,"Fri, Feb 13",Columbia,W 76-67,76,67,True
+2026,Penn,219,"Sat, Feb 14",Cornell,W 82-76,82,76,True
+2026,Penn,219,"Sat, Feb 21",Yale,L 74-70,74,70,False
+2026,Penn,219,"Fri, Feb 27",Dartmouth,W 80-71,80,71,True
+2026,Penn,219,"Sat, Feb 28",Harvard,W 64-61,64,61,True
+2026,Penn,219,"Fri, Mar 6",Brown,W 82-61,82,61,True
+2026,Siena,2561,"Mon, Nov 3",Bryant,W 82-66,82,66,True
+2026,Siena,2561,"Fri, Nov 7",Brown,W 62-46,62,46,True
+2026,Siena,2561,"Wed, Nov 12",St Bonaventure,L 75-66,75,66,False
+2026,Siena,2561,"Mon, Nov 17",Colgate,L 72-69,72,69,False
+2026,Siena,2561,"Fri, Nov 21",SUNY Albany,W 73-63,73,63,True
+2026,Siena,2561,"Mon, Nov 24",Holy Cross,W 73-69,73,69,True
+2026,Siena,2561,"Fri, Nov 28",Longwood,W 70-63,70,63,True
+2026,Siena,2561,"Sat, Nov 29",American Univ,W 59-55,59,55,True
+2026,Siena,2561,"Sun, Nov 30",Maine,W 64-60,64,60,True
+2026,Siena,2561,"Fri, Dec 5",Niagara,W 83-54,83,54,True
+2026,Siena,2561,"Sun, Dec 7",Canisius,W 74-52,74,52,True
+2026,Siena,2561,"Wed, Dec 17",Vermont,L 83-69,83,69,False
+2026,Siena,2561,"Mon, Dec 22",Indiana,L 81-60,81,60,False
+2026,Siena,2561,"Fri, Jan 2",Iona,L 75-72,75,72,False
+2026,Siena,2561,"Sun, Jan 4",Rider,W 74-65,74,65,True
+2026,Siena,2561,"Fri, Jan 9",Merrimack,L 63-59,63,59,False
+2026,Siena,2561,"Sun, Jan 11",Mt St Mary's,W 67-50,67,50,True
+2026,Siena,2561,"Wed, Jan 14",Sacred Heart,L 86-80,86,80,False
+2026,Siena,2561,"Sat, Jan 17",Manhattan,W 74-59,74,59,True
+2026,Siena,2561,"Mon, Jan 19",Fairfield,W 85-77,85,77,True
+2026,Siena,2561,"Thu, Jan 22",Marist,W 69-50,69,50,True
+2026,Siena,2561,"Fri, Jan 30",Niagara,W 82-79,82,79,True
+2026,Siena,2561,"Sun, Feb 1",Canisius,W 78-63,78,63,True
+2026,Siena,2561,"Thu, Feb 5",Iona,W 79-72,79,72,True
+2026,Siena,2561,"Sat, Feb 7",St Peter's,L 70-65,70,65,False
+2026,Siena,2561,"Fri, Feb 13",Quinnipiac,L 74-62,74,62,False
+2026,Siena,2561,"Sun, Feb 15",Marist,W 67-63,67,63,True
+2026,Siena,2561,"Sun, Feb 22",St Peter's,W 72-63,72,63,True
+2026,Siena,2561,"Fri, Feb 27",Fairfield,L 72-58,72,58,False
+2026,Siena,2561,"Sun, Mar 1",Rider,W 76-61,76,61,True
+2026,Siena,2561,"Sat, Mar 7",Mt St Mary's,W 63-58,63,58,True
+2026,Siena,2561,"Sun, Mar 8",Fairfield,W 76-61,76,61,True
+2026,Siena,2561,"Tue, Mar 10",Merrimack,W 64-54,64,54,True
+2026,UMBC,2378,"Tue, Nov 4",Penn State-York,W 74-53,74,53,True
+2026,UMBC,2378,"Sat, Nov 8",Dayton,L 77-71,77,71,False
+2026,UMBC,2378,"Tue, Nov 11",Morgan St,W 81-79,81,79,True
+2026,UMBC,2378,"Wed, Nov 19",G Washington,L 89-52,89,52,False
+2026,UMBC,2378,"Mon, Nov 24",Notre Dame (MD),W 102-52,102,52,True
+2026,UMBC,2378,"Sat, Nov 29",Delaware St,W 71-57,71,57,True
+2026,UMBC,2378,"Wed, Dec 3",Georgetown,L 90-81,90,81,False
+2026,UMBC,2378,"Sat, Dec 6",Bucknell,W 73-66,73,66,True
+2026,UMBC,2378,"Tue, Dec 9",Buffalo,L 83-79,83,79,False
+2026,UMBC,2378,"Fri, Dec 12",Army,L 63-60,63,60,False
+2026,UMBC,2378,"Sun, Dec 21",South Florida,L 94-69,94,69,False
+2026,UMBC,2378,"Mon, Dec 29",Coppin St,W 93-59,93,59,True
+2026,UMBC,2378,"Thu, Jan 8",Maine,W 69-62,69,62,True
+2026,UMBC,2378,"Sat, Jan 10",New Hampshire,W 75-74,75,74,True
+2026,UMBC,2378,"Mon, Jan 19",Binghamton,W 78-60,78,60,True
+2026,UMBC,2378,"Thu, Jan 22",NJIT,W 87-74,87,74,True
+2026,UMBC,2378,"Sat, Jan 24",MA Lowell,W 79-56,79,56,True
+2026,UMBC,2378,"Thu, Jan 29",Vermont,L 64-55,64,55,False
+2026,UMBC,2378,"Sat, Jan 31",SUNY Albany,W 68-65,68,65,True
+2026,UMBC,2378,"Thu, Feb 5",Binghamton,W 79-62,79,62,True
+2026,UMBC,2378,"Thu, Feb 12",Maine,W 78-62,78,62,True
+2026,UMBC,2378,"Sat, Feb 14",New Hampshire,W 85-63,85,63,True
+2026,UMBC,2378,"Thu, Feb 19",Vermont,W 75-62,75,62,True
+2026,UMBC,2378,"Sat, Feb 21",SUNY Albany,W 66-62,66,62,True
+2026,UMBC,2378,"Thu, Feb 26",Bryant,W 70-58,70,58,True
+2026,UMBC,2378,"Sat, Feb 28",MA Lowell,W 84-60,84,60,True
+2026,UMBC,2378,"Tue, Mar 3",NJIT,W 91-52,91,52,True
+2026,UMBC,2378,"Sat, Mar 7",New Hampshire,W 84-69,84,69,True
+2026,UMBC,2378,"Tue, Mar 10",MA Lowell,W 91-69,91,69,True
+2026,UMBC,2378,"Sat, Mar 14",Vermont,W 74-59,74,59,True
+2026,Prairie View,2507,"Mon, Nov 3",Holy Cross,W 89-79,89,79,True
+2026,Prairie View,2507,"Tue, Nov 11",Penn,W 106-81,106,81,True
+2026,Prairie View,2507,"Fri, Nov 14",Colorado,L 97-88,97,88,False
+2026,Prairie View,2507,"Tue, Nov 18",New Hampshire,W 98-66,98,66,True
+2026,Prairie View,2507,"Sat, Nov 22",Penn St,W 77-65,77,65,True
+2026,Prairie View,2507,"Thu, Nov 27",Wisconsin,L 104-83,104,83,False
+2026,Prairie View,2507,"Fri, Nov 28",Florida,L 90-78,90,78,False
+2026,Prairie View,2507,"Tue, Dec 2",F Dickinson,W 94-64,94,64,True
+2026,Prairie View,2507,"Sat, Dec 6",Rhode Island,W 90-71,90,71,True
+2026,Prairie View,2507,"Tue, Dec 9",Brown,W 86-79,86,79,True
+2026,Prairie View,2507,"Fri, Dec 19",Seton Hall,L 72-67,72,67,False
+2026,Prairie View,2507,"Sat, Jan 3",St John's,W 77-71,77,71,True
+2026,Prairie View,2507,"Sat, Jan 10",Xavier,L 97-84,97,84,False
+2026,Prairie View,2507,"Tue, Jan 13",Villanova,L 88-82,88,82,False
+2026,Prairie View,2507,"Fri, Jan 16",Creighton,W 93-88,93,88,True
+2026,Prairie View,2507,"Sat, Jan 24",Georgetown,L 81-78,81,78,False
+2026,Prairie View,2507,"Tue, Jan 27",Connecticut,L 87-81,87,81,False
+2026,Prairie View,2507,"Fri, Jan 30",Villanova,L 87-73,87,73,False
+2026,Prairie View,2507,"Sat, Feb 7",DePaul,W 90-72,90,72,True
+2026,Prairie View,2507,"Wed, Feb 11",Seton Hall,L 87-80,87,80,False
+2026,Prairie View,2507,"Sat, Feb 14",St John's,L 79-69,79,69,False
+2026,Prairie View,2507,"Sat, Feb 21",DePaul,W 71-68,71,68,True
+2026,Prairie View,2507,"Wed, Feb 25",Xavier,W 94-84,94,84,True
+2026,Prairie View,2507,"Sat, Feb 28",Creighton,W 79-76,79,76,True
+2026,Prairie View,2507,"Wed, Mar 4",Marquette,L 78-56,78,56,False
+2026,Prairie View,2507,"Sat, Mar 7",Georgetown,L 80-79,80,79,False
+2026,Prairie View,2507,"Wed, Mar 11",Butler,W 91-81,91,81,True
+2026,Prairie View,2507,"Thu, Mar 12",St John's,L 85-72,85,72,False
+2026,LIU Brooklyn,2358,"Sun, Nov 9",Louisiana Tech,L 93-35,93,35,False
+2026,Howard,47,"Mon, Nov 3",Missouri,L 88-67,88,67,False
+2026,Howard,47,"Thu, Nov 6",District Of Columbia,W 103-71,103,71,True
+2026,Howard,47,"Sun, Nov 9",Grambling,L 73-70,73,70,False
+2026,Howard,47,"Thu, Nov 13",Alcorn St,W 72-64,72,64,True
+2026,Howard,47,"Wed, Nov 19",Stetson,L 64-60,64,60,False
+2026,Howard,47,"Sat, Nov 22",Niagara,W 80-70,80,70,True
+2026,Howard,47,"Sun, Nov 23",Duke,L 93-56,93,56,False
+2026,Howard,47,"Wed, Nov 26",St. Mary's (MD),W 115-61,115,61,True
+2026,Howard,47,"Sat, Nov 29",Mt St Mary's,L 79-75,79,75,False
+2026,Howard,47,"Sat, Dec 6",Bowie State,W 85-69,85,69,True
+2026,Howard,47,"Tue, Dec 9",NC A&T,W 73-69,73,69,True
+2026,Howard,47,"Sat, Dec 13",Hampton,W 61-57,61,57,True
+2026,Howard,47,"Tue, Dec 16",Drexel,W 74-66,74,66,True
+2026,Howard,47,"Sat, Dec 20",UNC Wilmington,W 67-66,67,66,True
+2026,Howard,47,"Tue, Dec 30",Northwestern,L 80-60,80,60,False
+2026,Howard,47,"Sat, Jan 3",S Carolina St,L 58-57,58,57,False
+2026,Howard,47,"Sat, Jan 10",MD E Shore,L 69-57,69,57,False
+2026,Howard,47,"Mon, Jan 12",Delaware St,W 84-58,84,58,True
+2026,Howard,47,"Sat, Jan 17",NC Central,W 83-69,83,69,True
+2026,Howard,47,"Mon, Jan 19",Morehouse,W 78-69,78,69,True
+2026,Howard,47,"Sat, Jan 24",Morgan St,L 78-77,78,77,False
+2026,Howard,47,"Sat, Jan 31",Norfolk St,W 88-60,88,60,True
+2026,Howard,47,"Mon, Feb 2",Coppin St,W 72-53,72,53,True
+2026,Howard,47,"Sat, Feb 7",S Carolina St,W 85-57,85,57,True
+2026,Howard,47,"Sat, Feb 14",MD E Shore,W 79-53,79,53,True
+2026,Howard,47,"Mon, Feb 16",Delaware St,W 91-59,91,59,True
+2026,Howard,47,"Sat, Feb 21",NC Central,W 100-67,100,67,True
+2026,Howard,47,"Sat, Feb 28",Morgan St,W 84-59,84,59,True
+2026,Howard,47,"Mon, Mar 2",Coppin St,W 90-70,90,70,True
+2026,Howard,47,"Thu, Mar 5",Norfolk St,W 84-76,84,76,True
+2026,Howard,47,"Fri, Mar 13",S Carolina St,W 78-61,78,61,True
+2026,Howard,47,"Sat, Mar 14",NC Central,W 70-63,70,63,True
+2026,Lehigh,2329,"Mon, Nov 3",Houston,L 75-57,75,57,False
+2026,Lehigh,2329,"Thu, Nov 6",Valley Forge,W 91-52,91,52,True
+2026,Lehigh,2329,"Sun, Nov 9",West Virginia,L 69-47,69,47,False
+2026,Lehigh,2329,"Fri, Nov 14",Rutgers,L 84-72,84,72,False
+2026,Lehigh,2329,"Tue, Nov 18",Saint Francis,W 79-62,79,62,True
+2026,Lehigh,2329,"Fri, Nov 21",Columbia,L 82-67,82,67,False
+2026,Lehigh,2329,"Tue, Nov 25",Marist,L 78-55,78,55,False
+2026,Lehigh,2329,"Fri, Nov 28",UC Santa Barbara,L 72-70,72,70,False
+2026,Lehigh,2329,"Sat, Dec 6",LIU Brooklyn,L 87-82,87,82,False
+2026,Lehigh,2329,"Thu, Dec 18",Penn State Hazleton,W 83-74,83,74,True
+2026,Lehigh,2329,"Sun, Dec 21",Monmouth NJ,L 76-62,76,62,False
+2026,Lehigh,2329,"Sat, Jan 3",Bucknell,L 72-65,72,65,False
+2026,Lehigh,2329,"Wed, Jan 7",Holy Cross,W 66-58,66,58,True
+2026,Lehigh,2329,"Sat, Jan 10",Colgate,W 78-77,78,77,True
+2026,Lehigh,2329,"Mon, Jan 19",Loyola MD,W 88-81,88,81,True
+2026,Lehigh,2329,"Sat, Jan 24",Lafayette,W 64-59,64,59,True
+2026,Lehigh,2329,"Wed, Jan 28",Army,L 67-64,67,64,False
+2026,Lehigh,2329,"Sat, Feb 7",Holy Cross,L 76-67,76,67,False
+2026,Lehigh,2329,"Wed, Feb 11",American Univ,W 90-82,90,82,True
+2026,Lehigh,2329,"Sat, Feb 14",Lafayette,W 78-69,78,69,True
+2026,Lehigh,2329,"Wed, Feb 18",Navy,L 72-49,72,49,False
+2026,Lehigh,2329,"Sun, Feb 22",Boston Univ,W 70-67,70,67,True
+2026,Lehigh,2329,"Wed, Feb 25",American Univ,W 78-73,78,73,True
+2026,Lehigh,2329,"Sat, Feb 28",Bucknell,W 89-79,89,79,True
+2026,Lehigh,2329,"Thu, Mar 5",Holy Cross,W 69-66,69,66,True
+2026,Lehigh,2329,"Sun, Mar 8",Colgate,W 76-69,76,69,True
+2026,Lehigh,2329,"Wed, Mar 11",Boston Univ,W 74-60,74,60,True

@@ -1,0 +1,7 @@
+{
+    "East": [["Duke", "St John's"], ["Michigan St", "Connecticut"]],
+    "South": [["Iowa", "Nebraska"], ["Illinois", "Houston"]],
+    "West": [["Arizona", "Arkansas"], ["Purdue", "Texas"]],
+    "Midwest": [["Michigan", "Alabama"], ["Tennessee", "Iowa St"]]
+
+}
