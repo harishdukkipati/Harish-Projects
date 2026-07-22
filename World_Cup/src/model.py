@@ -19,9 +19,7 @@ from .features import (
 
 MODEL_NAME = "random_forest"
 
-# Training window: SofaScore historical CSVs from 2006 onward.
 DEFAULT_MIN_YEAR = 2006
-# Recency: weight halves every N years before ref 2022 (2006 < 2010 < … < 2022).
 DEFAULT_RECENCY_HALF_LIFE = 8.0
 
 

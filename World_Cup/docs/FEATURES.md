@@ -1,4 +1,4 @@
-# Phase 1 — Feature reference (what the model actually uses)
+# Feature reference (what the model actually uses)
 
 **Active model inputs: 16 columns** (`FEATURE_COLS` in `src/features.py`)
 
@@ -58,7 +58,7 @@ flowchart LR
 ¹ Older exports of `team_2026_features.csv` may omit `last12mo_avg_opponent_elo` and `is_host`. Regenerate:
 
 ```bash
-cd World_Cup/phase_1/scripts
+cd World_Cup/scripts
 python3 export_2026_features.py --years 2026
 ```
 

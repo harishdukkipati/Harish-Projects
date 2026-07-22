@@ -29,7 +29,6 @@ from .features import (
 )
 from .model import apply_feature_weights
 
-# Poisson scaling: map P(team_a wins) + goal rates → expected goals (keeps draws).
 POISSON_BASE = 1.35
 
 
@@ -229,7 +228,6 @@ class MatchupModel:
         gf_b = max(0.35, float(feats_b[idx["last12mo_goals_for_per_match"]]))
         ga_b = max(0.35, float(feats_b[idx["last12mo_goals_against_per_match"]]))
         p = p_win if p_win is not None else self.p_team_a_wins(feats_a, feats_b)
-        # Symmetric lambdas: stronger attack vs weaker defense, tilt by matchup logit.
         tilt = 0.35 * (p - 0.5)
         lam_a = POISSON_BASE * (0.5 * (gf_a + ga_b)) * np.exp(tilt)
         lam_b = POISSON_BASE * (0.5 * (gf_b + ga_a)) * np.exp(-tilt)

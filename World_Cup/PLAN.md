@@ -1,4 +1,4 @@
-# Phase 1 — Predict the 2026 World Cup Champion (only)
+# Predict the 2026 World Cup Champion (only)
 
 ## Goal
 
@@ -88,7 +88,7 @@ Spot checks: 2022 should rank Argentina top-3, 2018 France top-3, 2014 Germany t
 ## Skeleton
 
 ```
-World_Cup/phase_1/
+World_Cup/
   PLAN.md                      # this file
   data/
     kaggle/                    # raw downloaded CSVs (4 datasets below)

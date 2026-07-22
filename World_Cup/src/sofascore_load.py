@@ -9,8 +9,8 @@ import pandas as pd
 
 from . import load_data as ld
 
-PHASE1 = Path(__file__).resolve().parent.parent
-SOFASCORE_DIR = PHASE1 / "data" / "sofascore"
+ROOT = Path(__file__).resolve().parent.parent
+SOFASCORE_DIR = ROOT / "data" / "sofascore"
 QUAL_CSV = SOFASCORE_DIR / "team_wc_qual_stats.csv"
 HISTORICAL_DIR = SOFASCORE_DIR / "historical"
 
@@ -117,7 +117,6 @@ def lookup_advanced_features(team: str, year: int) -> Dict[str, float]:
     }
 
 
-# Backwards compatibility for fetch scripts / docs
 def sofascore_csv_available() -> bool:
     return QUAL_CSV.is_file()
 

@@ -11,7 +11,6 @@ from typing import Any, Dict, List, Optional, Tuple
 
 API_BASE = "https://www.sofascore.com/api/v1"
 
-# WC Qual competition name patterns (men's football).
 _QUAL_RE = re.compile(r"world\s*cup\s*qual", re.I)
 _FIFA_WC_RE = re.compile(r"fifa\s*world\s*cup", re.I)
 _YOUTH_RE = re.compile(r"\bU\d{2}\b", re.I)
@@ -21,7 +20,6 @@ _SKIP_FALLBACK_RE = re.compile(
     re.I,
 )
 
-# Continental / competitive fallbacks when WC qual stats are sparse (higher = prefer).
 _FALLBACK_TIERS: List[Tuple[re.Pattern[str], int]] = [
     (re.compile(r"africa\s*cup\s*of\s*nations(?!\s*qual)", re.I), 100),
     (re.compile(r"asian\s*cup(?!\s*qual)", re.I), 100),
@@ -43,7 +41,6 @@ ADVANCED_STAT_KEYS = (
 )
 CORE_ADVANCED_KEYS = ADVANCED_STAT_KEYS[:3]
 
-# Search query overrides when canonical name does not match SofaScore.
 SEARCH_QUERY_OVERRIDES: Dict[str, str] = {
     "United States": "USA",
     "South Korea": "Korea Republic",
@@ -64,7 +61,7 @@ class SeasonCandidate:
     season_id: int
     competition: str
     season: str
-    source: str  # wc_qual | fallback
+    source: str
     priority: int
     season_year: int
     has_event_player_statistics: bool
@@ -178,7 +175,6 @@ class SofascoreClient:
         if not candidates:
             raise ValueError(f"No national football team found for search {query!r}")
 
-        # Prefer exact name match (case-insensitive), else highest userCount.
         q_lower = query.lower()
         exact = [c for c in candidates if c[1].lower() == q_lower]
         pool = exact if exact else candidates
@@ -209,7 +205,6 @@ class SofascoreClient:
         if not qual_rows:
             raise ValueError("No World Cup Qualification tournament in standings/seasons")
 
-        # If multiple qual comps (rare), prefer name with shortest extra text.
         qual_rows.sort(key=lambda r: len(str((r.get("uniqueTournament") or {}).get("name") or "")))
 
         row = qual_rows[0]
@@ -463,7 +458,6 @@ class SofascoreClient:
             except (TypeError, ValueError):
                 y = 0
             exact_year = 2 if y == wc_year or year_str in name else 0
-            # Prefer seasons at or before wc_year (avoid grabbing a future edition).
             not_future = 1 if y <= wc_year or y == 0 else 0
             return (exact_year, not_future, y)
 
@@ -510,7 +504,7 @@ def extract_advanced_stats(stats: Dict[str, Any]) -> Dict[str, float]:
 
     poss = _f("averageBallPossession")
     pass_pct = _f("accuratePassesPercentage")
-    if pass_pct != pass_pct:  # nan
+    if pass_pct != pass_pct:
         acc = _f("accuratePasses")
         tot = _f("totalPasses")
         if tot and tot == tot and tot > 0:
@@ -522,7 +516,6 @@ def extract_advanced_stats(stats: Dict[str, Any]) -> Dict[str, float]:
     if shots == shots and shots > 0 and sot == sot:
         sot_pct = 100.0 * sot / shots
 
-    # Rough set-piece proxy: goals from set plays vs attempts (often sparse).
     sp_goals = _f("penaltyGoals") + _f("freeKickGoals")
     sp_attempts = _f("penaltiesTaken") + _f("freeKickShots")
     set_piece = float("nan")

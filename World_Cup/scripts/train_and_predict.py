@@ -2,7 +2,7 @@
 """
 Step 5: Build features, leave-one-WC-out CV (Random Forest), rank 2026 teams.
 
-Usage (from phase_1):
+Usage (from World_Cup):
   ../../venv/bin/python scripts/train_and_predict.py
   ../../venv/bin/python scripts/train_and_predict.py --save-features
 
@@ -15,10 +15,10 @@ import argparse
 import sys
 from pathlib import Path
 
-PHASE1 = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(PHASE1))
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
 
-from src.features import (  # noqa: E402
+from src.features import (
     DEFAULT_ADVANCED_WEIGHT,
     DEFAULT_FIFA_SCORE_WEIGHT,
     DEFAULT_HOST_WEIGHT,
@@ -26,7 +26,7 @@ from src.features import (  # noqa: E402
     build_training_frame,
     save_training_frame,
 )
-from src.model import (  # noqa: E402
+from src.model import (
     DEFAULT_MIN_YEAR,
     DEFAULT_RECENCY_HALF_LIFE,
     describe_tournament_weights,

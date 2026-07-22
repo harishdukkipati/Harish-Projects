@@ -1,8 +1,8 @@
-# Decision tree vs random forest (World Cup Phase 1)
+# Decision tree vs random forest (World Cup Predictor)
 
-How a **single tree** and the **random forest** shipped in Phase 1 use your features to predict **“will this team win this World Cup?”** (`label = 1` for the champion, `0` for everyone else).
+How a **single tree** and the **random forest** this project ships use the features to predict **“will this team win this World Cup?”** (`label = 1` for the champion, `0` for everyone else).
 
-**Phase 1 uses Random Forest only** (no gradient boosting).
+**This project uses Random Forest only** (no gradient boosting).
 
 Each training row is one **(team, WC year)** pair — e.g. `(Brazil, 2022)`, `(Argentina, 2022)`, … with ~48 rows per tournament and exactly **one** `label = 1` per year.
 
@@ -172,13 +172,13 @@ Typical settings: **hundreds** of trees (e.g. 100–500), each shallow-ish (`max
 
 ```
 
-| | Single tree | Random forest (Phase 1) |
+| | Single tree | Random forest (shipped) |
 |--|-------------|-------------------------|
 | **# trees** | 1 | 300 (default) |
 | **How combined** | n/a | Average predicted P(win) across trees |
 | **Variance** | High | Lower |
 | **Interpretability** | Easiest (one path) | Feature importances |
-| **Phase 1 fit** | Exploratory only | **Shipped model** |
+| **Fit** | Exploratory only | **Shipped model** |
 
 ---
 
@@ -233,7 +233,7 @@ Logistic regression uses **all features at once** in one formula; trees use **on
 
 ---
 
-## 7. What to do in Phase 1 (recommendation)
+## 7. Recommendation
 
 1. **Fit one shallow tree** (`max_depth=3`) → print the diagram / `export_graphviz` → see which features split first.
 2. **Do not ship** that single tree as the final champion model.

@@ -9,7 +9,7 @@ Uses the same JSON endpoints as the website (no browser automation):
 
 Example:
 
-  cd World_Cup/phase_1/data/sofascore
+  cd World_Cup/data/sofascore
   ../../venv/bin/python fetch_sofascore_team_stats.py
   ../../venv/bin/python fetch_sofascore_team_stats.py --teams Argentina Brazil
   ../../venv/bin/python fetch_sofascore_team_stats.py --no-cache
@@ -37,21 +37,20 @@ from sofascore_client import (
 )
 
 _SOFA_DIR = Path(__file__).resolve().parent
-_PHASE1 = _SOFA_DIR.parent.parent
-_DEFAULT_TEAMS_JSON = _PHASE1 / "data" / "inputs" / "teams_2026.json"
+_ROOT = _SOFA_DIR.parent.parent
+_DEFAULT_TEAMS_JSON = _ROOT / "data" / "inputs" / "teams_2026.json"
 _CACHE = _SOFA_DIR / "cache"
 _OUT_CSV = _SOFA_DIR / "team_wc_qual_stats.csv"
 _TEAM_IDS_JSON = _SOFA_DIR / "cache" / "team_ids.json"
 
-# Verified men's national team ids (skip search when present).
 _SEED_TEAM_IDS: Dict[str, int] = {
     "Argentina": 4819,
     "Brazil": 4748,
 }
 
 
-def _phase1_on_path() -> None:
-    root = str(_PHASE1)
+def _root_on_path() -> None:
+    root = str(_ROOT)
     if root not in sys.path:
         sys.path.insert(0, root)
 
@@ -97,8 +96,8 @@ def fetch_team_row(
     use_cache: bool,
     prefer_year: int,
 ) -> Dict[str, Any]:
-    _phase1_on_path()
-    from src import load_data as ld  # noqa: WPS433
+    _root_on_path()
+    from src import load_data as ld
 
     aliases = ld.load_aliases()
     canon = ld.normalize_team(canonical, aliases)
@@ -234,8 +233,8 @@ def main() -> None:
     failed: List[str] = []
 
     for name in targets:
-        _phase1_on_path()
-        from src import load_data as ld  # noqa: WPS433
+        _root_on_path()
+        from src import load_data as ld
 
         canon = ld.normalize_team(name)
         tid = id_cache.get(canon)

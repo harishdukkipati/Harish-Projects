@@ -14,11 +14,10 @@ from pathlib import Path
 
 import pandas as pd
 
-PHASE1 = Path(__file__).resolve().parent.parent
-INPUTS = PHASE1 / "data" / "inputs"
-KAGGLE = PHASE1 / "data" / "kaggle" / "martj_dataset"
+ROOT = Path(__file__).resolve().parent.parent
+INPUTS = ROOT / "data" / "inputs"
+KAGGLE = ROOT / "data" / "kaggle" / "martj_dataset"
 
-# Keys = spelling in source data; values = martj-style canonical name
 STATIC_ALIASES: dict[str, str] = {
     "Germany FR": "Germany",
     "FRG": "Germany",
@@ -84,7 +83,6 @@ def main() -> None:
     martj = _martj_team_set()
     for wp_name in _worldpicks_teams():
         if martj and wp_name not in martj:
-            # Already canonical in teams_2026 after scrape normalization
             for candidate in [wp_name, STATIC_ALIASES.get(wp_name, wp_name)]:
                 if candidate in martj:
                     if candidate != wp_name:

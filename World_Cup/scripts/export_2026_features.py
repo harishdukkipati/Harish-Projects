@@ -6,10 +6,10 @@ import argparse
 import sys
 from pathlib import Path
 
-PHASE1 = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(PHASE1))
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
 
-from src.features import save_model_year_features, save_year_features  # noqa: E402
+from src.features import save_model_year_features, save_year_features
 
 
 def main() -> None:

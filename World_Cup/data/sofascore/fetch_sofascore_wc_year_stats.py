@@ -12,7 +12,7 @@ Flow per team:
 
 Example:
 
-  cd World_Cup/phase_1/data/sofascore
+  cd World_Cup/data/sofascore
   python3 fetch_sofascore_wc_year_stats.py --year 2018
   python3 fetch_sofascore_wc_year_stats.py --year 2022 --teams Argentina Brazil
   python3 fetch_sofascore_wc_year_stats.py --year 2018 --no-cache
@@ -35,14 +35,14 @@ import pandas as pd
 from sofascore_client import SofascoreClient, extract_advanced_stats
 from fetch_sofascore_team_stats import (
     _load_team_id_cache,
-    _phase1_on_path,
+    _root_on_path,
     _save_team_id_cache,
     _search_query,
 )
 
 _SOFA_DIR = Path(__file__).resolve().parent
-_PHASE1 = _SOFA_DIR.parent.parent
-_PARTICIPANTS_JSON = _PHASE1 / "data" / "inputs" / "wc_participants.json"
+_ROOT = _SOFA_DIR.parent.parent
+_PARTICIPANTS_JSON = _ROOT / "data" / "inputs" / "wc_participants.json"
 _HISTORICAL_DIR = _SOFA_DIR / "historical"
 
 
@@ -65,8 +65,8 @@ def fetch_team_row_for_wc_year(
     team_id: Optional[int],
     use_cache: bool,
 ) -> Dict[str, Any]:
-    _phase1_on_path()
-    from src import load_data as ld  # noqa: WPS433
+    _root_on_path()
+    from src import load_data as ld
 
     aliases = ld.load_aliases()
     canon = ld.normalize_team(team_name, aliases)
@@ -156,8 +156,8 @@ def main() -> None:
     print(f"Fetching FIFA World Cup SofaScore stats for WC {wc_year} ({len(targets)} teams)")
 
     for name in targets:
-        _phase1_on_path()
-        from src import load_data as ld  # noqa: WPS433
+        _root_on_path()
+        from src import load_data as ld
 
         canon = ld.normalize_team(name)
         tid = id_cache.get(canon)

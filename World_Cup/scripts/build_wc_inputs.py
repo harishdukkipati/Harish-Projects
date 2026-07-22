@@ -2,7 +2,7 @@
 """
 Step 1–2: Build wc_participants.json and wc_winners.json from Kaggle martj CSVs.
 
-Usage (from repo root or phase_1):
+Usage (from repo root or World_Cup):
   python scripts/build_wc_inputs.py
 """
 from __future__ import annotations
@@ -12,8 +12,8 @@ from pathlib import Path
 
 import pandas as pd
 
-PHASE1 = Path(__file__).resolve().parent.parent
-DATA = PHASE1 / "data"
+ROOT = Path(__file__).resolve().parent.parent
+DATA = ROOT / "data"
 KAGGLE = DATA / "kaggle" / "martj_dataset"
 INPUTS = DATA / "inputs"
 WC_TOURNAMENT = "FIFA World Cup"
@@ -30,7 +30,6 @@ def _load_results() -> pd.DataFrame:
     df = df.dropna(subset=["date"])
     df = df.dropna(subset=["home_score", "away_score"])
     df["year"] = df["date"].dt.year.astype(int)
-    # martj may list future 2026 fixtures without results; training uses 1930–2022
     df = df[df["year"] <= 2022]
     return df
 

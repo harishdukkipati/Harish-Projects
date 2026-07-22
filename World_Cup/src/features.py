@@ -11,10 +11,9 @@ import pandas as pd
 from . import load_data as ld
 from . import sofascore_load as sofascore
 
-PHASE1 = Path(__file__).resolve().parent.parent
-PROCESSED = PHASE1 / "data" / "processed"
+ROOT = Path(__file__).resolve().parent.parent
+PROCESSED = ROOT / "data" / "processed"
 
-# Columns fed to the classifier (WC pedigree excluded — see PEDIGREE_COLS).
 FEATURE_COLS = [
     "pre_wc_elo",
     "fifa_rank_score",
@@ -34,10 +33,8 @@ FEATURE_COLS = [
 
 BINARY_FEATURE_COLS = ["is_host"]
 
-# Export-only context flags (not in FEATURE_COLS).
 CONTEXT_COLS = ["host_confederation_match"]
 
-# Still computed in build_row for CSV export; not in FEATURE_COLS.
 PEDIGREE_COLS = [
     "prior_wc_titles",
     "prior_wc_finals",
@@ -70,12 +67,9 @@ ADVANCED_COLS = [
 
 CONF_COLS = [f"conf_{c}" for c in ld.CONFEDERATIONS]
 
-# Extra emphasis on fifa_rank_score (= 1 / FIFA rank) in the model.
 DEFAULT_FIFA_SCORE_WEIGHT = 4.0
-DEFAULT_FIFA_RANK_WEIGHT = DEFAULT_FIFA_SCORE_WEIGHT  # backwards compat
-# Host advantage is real but weaker than strength/form signals.
+DEFAULT_FIFA_RANK_WEIGHT = DEFAULT_FIFA_SCORE_WEIGHT
 DEFAULT_HOST_WEIGHT = 0.25
-# SofaScore advanced cols (possession, passing, set pieces, SOT).
 DEFAULT_ADVANCED_WEIGHT = 0.5
 
 

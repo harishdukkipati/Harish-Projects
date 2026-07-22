@@ -1,6 +1,6 @@
 # SofaScore — WC Qual advanced stats (2026)
 
-Pre-tournament **possession**, **pass completion**, **shots on target %**, and a rough **set-piece** proxy for World Cup teams, pulled from SofaScore’s public JSON API (same data as the website). This is the **only** source for the four advanced model features in Phase 1.
+Pre-tournament **possession**, **pass completion**, **shots on target %**, and a rough **set-piece** proxy for World Cup teams, pulled from SofaScore’s public JSON API (same data as the website). This is the **only** source for the four advanced model features.
 
 ## Prerequisites
 
@@ -41,10 +41,10 @@ Key JSON fields under `statistics`:
 Separate script for completed tournaments (e.g. Argentina 2022 → `unique-tournament/16/season/41087`):
 
 ```bash
-cd World_Cup/phase_1/data/sofascore
+cd World_Cup/data/sofascore
 
-../../../venv/bin/python fetch_sofascore_wc_year_stats.py --year 2018
-../../../venv/bin/python fetch_sofascore_wc_year_stats.py --year 2022 --teams Argentina Brazil
+python fetch_sofascore_wc_year_stats.py --year 2018
+python fetch_sofascore_wc_year_stats.py --year 2022 --teams Argentina Brazil
 ```
 
 Writes `data/sofascore/historical/team_wc_stats_{year}.csv` using teams from `wc_participants.json` for that year.
@@ -52,17 +52,17 @@ Writes `data/sofascore/historical/team_wc_stats_{year}.csv` using teams from `wc
 ## Fetch script (2026 — World Cup Qual)
 
 ```bash
-cd World_Cup/phase_1/data/sofascore
+cd World_Cup/data/sofascore
 
 # All 48 teams from data/inputs/teams_2026.json (~30–60s with rate limit)
-../../../venv/bin/python fetch_sofascore_team_stats.py
+python fetch_sofascore_team_stats.py
 
 # Subset / refresh
-../../../venv/bin/python fetch_sofascore_team_stats.py --teams Argentina Brazil England
-../../../venv/bin/python fetch_sofascore_team_stats.py --no-cache
+python fetch_sofascore_team_stats.py --teams Argentina Brazil England
+python fetch_sofascore_team_stats.py --no-cache
 
 # Slower requests if you hit rate limits
-../../../venv/bin/python fetch_sofascore_team_stats.py --delay 1.2
+python fetch_sofascore_team_stats.py --delay 1.2
 ```
 
 ### Outputs
@@ -93,8 +93,8 @@ Some names differ on SofaScore (see `SEARCH_QUERY_OVERRIDES` in `sofascore_clien
 Regenerate features after fetching:
 
 ```bash
-cd World_Cup/phase_1
-../../venv/bin/python scripts/train_and_predict.py --save-features
+cd World_Cup
+python scripts/train_and_predict.py --save-features
 ```
 
 ## Modules

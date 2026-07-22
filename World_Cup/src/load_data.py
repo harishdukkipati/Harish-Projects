@@ -9,13 +9,12 @@ from typing import Dict, List, Optional, Set, Tuple
 
 import pandas as pd
 
-PHASE1 = Path(__file__).resolve().parent.parent
-DATA = PHASE1 / "data"
+ROOT = Path(__file__).resolve().parent.parent
+DATA = ROOT / "data"
 KAGGLE = DATA / "kaggle" / "martj_dataset"
 INPUTS = DATA / "inputs"
 WC_TOURNAMENT = "FIFA World Cup"
 
-# Host nation(s) per WC year (canonical martj-style names)
 WC_HOSTS: Dict[int, List[str]] = {
     1930: ["Uruguay"],
     1934: ["Italy"],
@@ -151,7 +150,6 @@ def load_fifa_rankings() -> pd.DataFrame:
     files = sorted(rank_dir.glob("fifa_ranking-*.csv"))
     if not files:
         raise FileNotFoundError(f"No FIFA ranking CSVs in {rank_dir}")
-    # Use largest file (most history in one table)
     path = max(files, key=lambda p: p.stat().st_size)
     df = pd.read_csv(path)
     df["rank_date"] = pd.to_datetime(df["rank_date"], errors="coerce")

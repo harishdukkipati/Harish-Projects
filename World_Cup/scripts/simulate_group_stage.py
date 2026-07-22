@@ -8,7 +8,7 @@ Uses the same FEATURE_COLS and feature weights as the champion Random Forest
 Each group: 4 teams play 6 matches (every pair once). Group winner = most points,
 then GD, GF, head-to-head among tied teams.
 
-Usage (from phase_1):
+Usage (from World_Cup):
   python scripts/simulate_group_stage.py
   python scripts/simulate_group_stage.py --sims 100000 --seed 42
 """
@@ -24,21 +24,21 @@ from typing import Dict, List, Tuple
 import numpy as np
 import pandas as pd
 
-PHASE1 = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(PHASE1))
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
 
-from src import load_data as ld  # noqa: E402
-from src.features import (  # noqa: E402
+from src import load_data as ld
+from src.features import (
     DEFAULT_ADVANCED_WEIGHT,
     DEFAULT_FIFA_SCORE_WEIGHT,
     DEFAULT_HOST_WEIGHT,
     build_2026_frame,
 )
-from src.matchup import MatchupModel, team_feature_matrix  # noqa: E402
+from src.matchup import MatchupModel, team_feature_matrix
 
-GROUPS_JSON = PHASE1 / "data" / "inputs" / "wc_2026_groups.json"
-OUT_MD = PHASE1 / "docs" / "GROUP_STAGE_SIMULATION.md"
-OUT_JSON = PHASE1 / "data" / "processed" / "group_stage_sim_results.json"
+GROUPS_JSON = ROOT / "data" / "inputs" / "wc_2026_groups.json"
+OUT_MD = ROOT / "docs" / "GROUP_STAGE_SIMULATION.md"
+OUT_JSON = ROOT / "data" / "processed" / "group_stage_sim_results.json"
 
 DEFAULT_SIMS = 50_000
 

@@ -18,10 +18,9 @@ import requests
 
 DEFAULT_URL = "https://worldpicks.vercel.app/?ref=reddit_sportsanalytics"
 
-PHASE1 = Path(__file__).resolve().parent.parent
-OUT_PATH = PHASE1 / "data" / "inputs" / "teams_2026.json"
+ROOT = Path(__file__).resolve().parent.parent
+OUT_PATH = ROOT / "data" / "inputs" / "teams_2026.json"
 
-# worldpicks label -> martj / Kaggle canonical name
 WORLD_PICKS_TO_CANONICAL: dict[str, str] = {
     "USA": "United States",
     "US": "United States",
@@ -44,7 +43,6 @@ def _canonical(name: str) -> str:
     name = html.unescape(name.strip())
     if name in WORLD_PICKS_TO_CANONICAL:
         return WORLD_PICKS_TO_CANONICAL[name]
-    # Title-case ALL CAPS marquee names (BRAZIL -> Brazil)
     if name.isupper() and len(name) > 3:
         return name.title()
     return name
@@ -54,7 +52,6 @@ def _parse_teams(html: str) -> dict[str, dict]:
     """Return team -> {fifa_rank: int} (best rank seen if duplicate)."""
     teams: dict[str, dict] = {}
 
-    # Next.js markup: <span class="...font-semibold...">Mexico</span>...Rank <!-- -->14
     rank_pat = re.compile(
         r'font-semibold[^>]*>([^<]+)</span><span class="mt-1 block font-mono[^"]*">'
         r"Rank\s*(?:<!--\s*-->)?\s*(\d+)",
@@ -67,7 +64,6 @@ def _parse_teams(html: str) -> dict[str, dict]:
         if prev is None or rank < prev:
             teams[name] = {"team": name, "fifa_rank": rank}
 
-    # Marquee cards: FIFA #<!-- -->5 (team name often in nearby semibold span)
     fifa_pat = re.compile(
         r'font-semibold[^>]*>([^<]+)</span>[\s\S]{0,400}?FIFA\s*#\s*(?:<!--\s*-->)?\s*(\d+)',
         re.DOTALL,
@@ -83,7 +79,7 @@ def _parse_teams(html: str) -> dict[str, dict]:
 
 
 def scrape(url: str) -> dict:
-    resp = requests.get(url, timeout=60, headers={"User-Agent": "WorldCupPhase1/1.0"})
+    resp = requests.get(url, timeout=60, headers={"User-Agent": "WorldCupPredictor/1.0"})
     resp.raise_for_status()
     teams = _parse_teams(resp.text)
     if len(teams) < 40:

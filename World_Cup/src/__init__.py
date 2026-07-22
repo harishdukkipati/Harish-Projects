@@ -1,1 +1,1 @@
-"""World Cup Phase 1: champion prediction."""
+"""World Cup champion prediction."""
