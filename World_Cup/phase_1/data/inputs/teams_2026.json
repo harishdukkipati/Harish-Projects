@@ -1,0 +1,198 @@
+{
+  "year": 2026,
+  "source": "https://worldpicks.vercel.app/?ref=reddit_sportsanalytics",
+  "teams": [
+    {
+      "team": "Argentina",
+      "fifa_rank": 1
+    },
+    {
+      "team": "Spain",
+      "fifa_rank": 2
+    },
+    {
+      "team": "France",
+      "fifa_rank": 3
+    },
+    {
+      "team": "England",
+      "fifa_rank": 4
+    },
+    {
+      "team": "Brazil",
+      "fifa_rank": 5
+    },
+    {
+      "team": "Portugal",
+      "fifa_rank": 6
+    },
+    {
+      "team": "Netherlands",
+      "fifa_rank": 7
+    },
+    {
+      "team": "Belgium",
+      "fifa_rank": 8
+    },
+    {
+      "team": "Croatia",
+      "fifa_rank": 9
+    },
+    {
+      "team": "Germany",
+      "fifa_rank": 10
+    },
+    {
+      "team": "Uruguay",
+      "fifa_rank": 11
+    },
+    {
+      "team": "Morocco",
+      "fifa_rank": 12
+    },
+    {
+      "team": "Colombia",
+      "fifa_rank": 13
+    },
+    {
+      "team": "Mexico",
+      "fifa_rank": 14
+    },
+    {
+      "team": "United States",
+      "fifa_rank": 16
+    },
+    {
+      "team": "Switzerland",
+      "fifa_rank": 17
+    },
+    {
+      "team": "Japan",
+      "fifa_rank": 18
+    },
+    {
+      "team": "Senegal",
+      "fifa_rank": 19
+    },
+    {
+      "team": "Iran",
+      "fifa_rank": 20
+    },
+    {
+      "team": "Austria",
+      "fifa_rank": 22
+    },
+    {
+      "team": "South Korea",
+      "fifa_rank": 23
+    },
+    {
+      "team": "Ecuador",
+      "fifa_rank": 24
+    },
+    {
+      "team": "Australia",
+      "fifa_rank": 25
+    },
+    {
+      "team": "Turkey",
+      "fifa_rank": 26
+    },
+    {
+      "team": "Sweden",
+      "fifa_rank": 29
+    },
+    {
+      "team": "Canada",
+      "fifa_rank": 31
+    },
+    {
+      "team": "Norway",
+      "fifa_rank": 33
+    },
+    {
+      "team": "Egypt",
+      "fifa_rank": 34
+    },
+    {
+      "team": "Algeria",
+      "fifa_rank": 35
+    },
+    {
+      "team": "Scotland",
+      "fifa_rank": 36
+    },
+    {
+      "team": "Côte d&#x27;Ivoire",
+      "fifa_rank": 38
+    },
+    {
+      "team": "Czech Republic",
+      "fifa_rank": 39
+    },
+    {
+      "team": "Paraguay",
+      "fifa_rank": 41
+    },
+    {
+      "team": "Panama",
+      "fifa_rank": 44
+    },
+    {
+      "team": "Tunisia",
+      "fifa_rank": 49
+    },
+    {
+      "team": "Uzbekistan",
+      "fifa_rank": 51
+    },
+    {
+      "team": "Qatar",
+      "fifa_rank": 53
+    },
+    {
+      "team": "Iraq",
+      "fifa_rank": 55
+    },
+    {
+      "team": "South Africa",
+      "fifa_rank": 57
+    },
+    {
+      "team": "Saudi Arabia",
+      "fifa_rank": 58
+    },
+    {
+      "team": "Ghana",
+      "fifa_rank": 60
+    },
+    {
+      "team": "DR Congo",
+      "fifa_rank": 61
+    },
+    {
+      "team": "Jordan",
+      "fifa_rank": 67
+    },
+    {
+      "team": "Bosnia and Herzegovina",
+      "fifa_rank": 68
+    },
+    {
+      "team": "Cape Verde",
+      "fifa_rank": 72
+    },
+    {
+      "team": "Haiti",
+      "fifa_rank": 83
+    },
+    {
+      "team": "Curaçao",
+      "fifa_rank": 88
+    },
+    {
+      "team": "New Zealand",
+      "fifa_rank": 91
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "n_sims": 10000,
+  "seed": 42,
+  "fifa_score_weight": 4.0,
+  "host_weight": 0.25,
+  "advanced_weight": 0.5,
+  "feature_cols": "same as champion RF (FEATURE_COLS)",
+  "groups": {
+    "A": [
+      "Mexico",
+      "South Africa",
+      "South Korea",
+      "Czech Republic"
+    ],
+    "B": [
+      "Canada",
+      "Bosnia and Herzegovina",
+      "Qatar",
+      "Switzerland"
+    ],
+    "C": [
+      "Brazil",
+      "Morocco",
+      "Haiti",
+      "Scotland"
+    ],
+    "D": [
+      "United States",
+      "Paraguay",
+      "Australia",
+      "Turkey"
+    ],
+    "E": [
+      "Germany",
+      "Cura\u00e7ao",
+      "Ivory Coast",
+      "Ecuador"
+    ],
+    "F": [
+      "Netherlands",
+      "Japan",
+      "Sweden",
+      "Tunisia"
+    ],
+    "G": [
+      "Belgium",
+      "Egypt",
+      "Iran",
+      "New Zealand"
+    ],
+    "H": [
+      "Spain",
+      "Cape Verde",
+      "Saudi Arabia",
+      "Uruguay"
+    ],
+    "I": [
+      "France",
+      "Senegal",
+      "Iraq",
+      "Norway"
+    ],
+    "J": [
+      "Argentina",
+      "Algeria",
+      "Austria",
+      "Jordan"
+    ],
+    "K": [
+      "Portugal",
+      "DR Congo",
+      "Uzbekistan",
+      "Colombia"
+    ],
+    "L": [
+      "England",
+      "Croatia",
+      "Ghana",
+      "Panama"
+    ]
+  },
+  "results": [
+    {
+      "group": "A",
+      "team": "Czech Republic",
+      "group_wins": 3462,
+      "p_win_group": 0.3462,
+      "p_top2": 0.6235
+    },
+    {
+      "group": "A",
+      "team": "South Africa",
+      "group_wins": 2860,
+      "p_win_group": 0.286,
+      "p_top2": 0.5688
+    },
+    {
+      "group": "A",
+      "team": "Mexico",
+      "group_wins": 2815,
+      "p_win_group": 0.2815,
+      "p_top2": 0.5688
+    },
+    {
+      "group": "A",
+      "team": "South Korea",
+      "group_wins": 863,
+      "p_win_group": 0.0863,
+      "p_top2": 0.2389
+    },
+    {
+      "group": "B",
+      "team": "Switzerland",
+      "group_wins": 4655,
+      "p_win_group": 0.4655,
+      "p_top2": 0.7607
+    },
+    {
+      "group": "B",
+      "team": "Bosnia and Herzegovina",
+      "group_wins": 2900,
+      "p_win_group": 0.29,
+      "p_top2": 0.6203
+    },
+    {
+      "group": "B",
+      "team": "Canada",
+      "group_wins": 2337,
+      "p_win_group": 0.2337,
+      "p_top2": 0.5654
+    },
+    {
+      "group": "B",
+      "team": "Qatar",
+      "group_wins": 108,
+      "p_win_group": 0.0108,
+      "p_top2": 0.0536
+    },
+    {
+      "group": "C",
+      "team": "Morocco",
+      "group_wins": 4272,
+      "p_win_group": 0.4272,
+      "p_top2": 0.7475
+    },
+    {
+      "group": "C",
+      "team": "Brazil",
+      "group_wins": 3827,
+      "p_win_group": 0.3827,
+      "p_top2": 0.7084
+    },
+    {
+      "group": "C",
+      "team": "Scotland",
+      "group_wins": 1546,
+      "p_win_group": 0.1546,
+      "p_top2": 0.4059
+    },
+    {
+      "group": "C",
+      "team": "Haiti",
+      "group_wins": 355,
+      "p_win_group": 0.0355,
+      "p_top2": 0.1382
+    },
+    {
+      "group": "D",
+      "team": "Turkey",
+      "group_wins": 4248,
+      "p_win_group": 0.4248,
+      "p_top2": 0.6937
+    },
+    {
+      "group": "D",
+      "team": "United States",
+      "group_wins": 2642,
+      "p_win_group": 0.2642,
+      "p_top2": 0.545
+    },
+    {
+      "group": "D",
+      "team": "Australia",
+      "group_wins": 1794,
+      "p_win_group": 0.1794,
+      "p_top2": 0.4159
+    },
+    {
+      "group": "D",
+      "team": "Paraguay",
+      "group_wins": 1316,
+      "p_win_group": 0.1316,
+      "p_top2": 0.3454
+    },
+    {
+      "group": "E",
+      "team": "Germany",
+      "group_wins": 4974,
+      "p_win_group": 0.4974,
+      "p_top2": 0.7885
+    },
+    {
+      "group": "E",
+      "team": "Ivory Coast",
+      "group_wins": 3339,
+      "p_win_group": 0.3339,
+      "p_top2": 0.6771
+    },
+    {
+      "group": "E",
+      "team": "Ecuador",
+      "group_wins": 1236,
+      "p_win_group": 0.1236,
+      "p_top2": 0.366
+    },
+    {
+      "group": "E",
+      "team": "Cura\u00e7ao",
+      "group_wins": 451,
+      "p_win_group": 0.0451,
+      "p_top2": 0.1684
+    },
+    {
+      "group": "F",
+      "team": "Netherlands",
+      "group_wins": 5781,
+      "p_win_group": 0.5781,
+      "p_top2": 0.8381
+    },
+    {
+      "group": "F",
+      "team": "Japan",
+      "group_wins": 1990,
+      "p_win_group": 0.199,
+      "p_top2": 0.5215
+    },
+    {
+      "group": "F",
+      "team": "Tunisia",
+      "group_wins": 1934,
+      "p_win_group": 0.1934,
+      "p_top2": 0.5175
+    },
+    {
+      "group": "F",
+      "team": "Sweden",
+      "group_wins": 295,
+      "p_win_group": 0.0295,
+      "p_top2": 0.1229
+    },
+    {
+      "group": "G",
+      "team": "Belgium",
+      "group_wins": 8102,
+      "p_win_group": 0.8102,
+      "p_top2": 0.9543
+    },
+    {
+      "group": "G",
+      "team": "Iran",
+      "group_wins": 1156,
+      "p_win_group": 0.1156,
+      "p_top2": 0.5514
+    },
+    {
+      "group": "G",
+      "team": "Egypt",
+      "group_wins": 646,
+      "p_win_group": 0.0646,
+      "p_top2": 0.4017
+    },
+    {
+      "group": "G",
+      "team": "New Zealand",
+      "group_wins": 96,
+      "p_win_group": 0.0096,
+      "p_top2": 0.0926
+    },
+    {
+      "group": "H",
+      "team": "Spain",
+      "group_wins": 8661,
+      "p_win_group": 0.8661,
+      "p_top2": 0.9698
+    },
+    {
+      "group": "H",
+      "team": "Cape Verde",
+      "group_wins": 544,
+      "p_win_group": 0.0544,
+      "p_top2": 0.3922
+    },
+    {
+      "group": "H",
+      "team": "Uruguay",
+      "group_wins": 507,
+      "p_win_group": 0.0507,
+      "p_top2": 0.4022
+    },
+    {
+      "group": "H",
+      "team": "Saudi Arabia",
+      "group_wins": 288,
+      "p_win_group": 0.0288,
+      "p_top2": 0.2358
+    },
+    {
+      "group": "I",
+      "team": "Norway",
+      "group_wins": 4538,
+      "p_win_group": 0.4538,
+      "p_top2": 0.7627
+    },
+    {
+      "group": "I",
+      "team": "France",
+      "group_wins": 3307,
+      "p_win_group": 0.3307,
+      "p_top2": 0.6717
+    },
+    {
+      "group": "I",
+      "team": "Senegal",
+      "group_wins": 1982,
+      "p_win_group": 0.1982,
+      "p_top2": 0.4836
+    },
+    {
+      "group": "I",
+      "team": "Iraq",
+      "group_wins": 173,
+      "p_win_group": 0.0173,
+      "p_top2": 0.082
+    },
+    {
+      "group": "J",
+      "team": "Argentina",
+      "group_wins": 5576,
+      "p_win_group": 0.5576,
+      "p_top2": 0.8335
+    },
+    {
+      "group": "J",
+      "team": "Austria",
+      "group_wins": 2832,
+      "p_win_group": 0.2832,
+      "p_top2": 0.6548
+    },
+    {
+      "group": "J",
+      "team": "Algeria",
+      "group_wins": 1307,
+      "p_win_group": 0.1307,
+      "p_top2": 0.3915
+    },
+    {
+      "group": "J",
+      "team": "Jordan",
+      "group_wins": 285,
+      "p_win_group": 0.0285,
+      "p_top2": 0.1202
+    },
+    {
+      "group": "K",
+      "team": "Portugal",
+      "group_wins": 4297,
+      "p_win_group": 0.4297,
+      "p_top2": 0.7281
+    },
+    {
+      "group": "K",
+      "team": "Colombia",
+      "group_wins": 3772,
+      "p_win_group": 0.3772,
+      "p_top2": 0.6983
+    },
+    {
+      "group": "K",
+      "team": "DR Congo",
+      "group_wins": 1203,
+      "p_win_group": 0.1203,
+      "p_top2": 0.3388
+    },
+    {
+      "group": "K",
+      "team": "Uzbekistan",
+      "group_wins": 728,
+      "p_win_group": 0.0728,
+      "p_top2": 0.2348
+    },
+    {
+      "group": "L",
+      "team": "England",
+      "group_wins": 6395,
+      "p_win_group": 0.6395,
+      "p_top2": 0.8808
+    },
+    {
+      "group": "L",
+      "team": "Croatia",
+      "group_wins": 2252,
+      "p_win_group": 0.2252,
+      "p_top2": 0.6243
+    },
+    {
+      "group": "L",
+      "team": "Panama",
+      "group_wins": 1122,
+      "p_win_group": 0.1122,
+      "p_top2": 0.379
+    },
+    {
+      "group": "L",
+      "team": "Ghana",
+      "group_wins": 231,
+      "p_win_group": 0.0231,
+      "p_top2": 0.1159
+    }
+  ]
+}
